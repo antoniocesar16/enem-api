@@ -1,0 +1,45 @@
+{
+  "title": "Questão 132 - ENEM 2025",
+  "index": 132,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "\n\nQUESTãO 132\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "QUESTãO 132",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Massa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Dureza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Densidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Superfície.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Condutividade.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Questão 82 - ENEM 2025",
+  "index": 82,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "QUESTãO 82",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "QUESTãO 82",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "estabelecer as normativas ideológicas aos periódicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "propagar as diretrizes administrativas às capitanias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "divulgar as conquistas às metrópoles europeias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "integrar as regiões territoriais ao poder central.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "difundir as publicações às elites lusitanas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

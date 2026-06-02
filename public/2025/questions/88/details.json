@@ -1,0 +1,43 @@
+{
+  "title": "Questão 88 - ENEM 2025",
+  "index": 88,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "QUESTãO 88\n\nEntre esses preconceitos estava o canibalismo. A prática não \nera, porém, uma mentira, uma invenção europeia, mas um ritual \ncontrolado por regras. Entre os tupis, por exemplo, os guerreiros \nse sentiam honrados quando morriam em um banquete canibal.  \nPara os europeus, no entanto, comer carne humana era \nabominável, pois nem mesmo os leões ingeriam seus semelhantes. \nPortanto, para os conquistadores, o canibalismo era sinônimo de \nbarbarismo e da incapacidade de se autogovernar.\n\nRAMINELLI, R. Canibalismo para alemão ver. In: FIGUEIREDO, L. (Org.). \nHistória do Brasil para ocupados. Rio de Janeiro:  \nCasa da Palavra, 2013 (adaptado).\n\nNo texto, europeus e ameríndios atribuíram à prática relatada, \nrespectivamente, o significado de",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "No texto, europeus e ameríndios atribuíram à prática relatada, \nrespectivamente, o significado de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "selvageria — empoderamento.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "impetuosidade — resistência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "fanatismo — humilhação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "intolerância — violência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "repressão — justiça.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

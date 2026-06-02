@@ -1,0 +1,43 @@
+{
+  "title": "Questão 78 - ENEM 2025",
+  "index": 78,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "QUESTãO 78",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "QUESTãO 78",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Aplicação de meios para atingir um fim.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Imposição de regras para estabelecer um dever.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Sobreposição de princípios para fundamentar um direito.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Criação de parâmetros para reconhecer uma prescrição.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Elaboração de convenções para referendar um costume.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

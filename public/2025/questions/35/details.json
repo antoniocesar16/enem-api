@@ -1,0 +1,45 @@
+{
+  "title": "Questão 35 - ENEM 2025",
+  "index": 35,
+  "year": 2025,
+  "language": null,
+  "discipline": "linguagens",
+  "context": "\n\nQUESTãO 35\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "QUESTãO 35",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "reutilização de materiais para redução do impacto ambiental.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ressignificação da matéria-prima atribuindo-lhe nova função.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "reprodução em madeira de modelos artísticos canônicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "representação de práticas corporais da comunidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "replicação seriada para distribuição em larga escala.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

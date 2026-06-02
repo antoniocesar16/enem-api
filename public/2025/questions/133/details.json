@@ -1,0 +1,43 @@
+{
+  "title": "Questão 133 - ENEM 2025",
+  "index": 133,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "QUESTãO 133",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "QUESTãO 133",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "metabolismo de E. coli, apenas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ciclo circadiano de E. coli, apenas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "metabolismo de S. elongatus e do ciclo circadiano de E. coli.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ciclo circadiano de S. elongatus e do metabolismo de E. coli.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "ciclo circadiano de S. elongatus e do ciclo circadiano de E. coli.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

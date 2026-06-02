@@ -1,0 +1,43 @@
+{
+  "title": "Questão 56 - ENEM 2025",
+  "index": 56,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "QUESTãO 56\n\nO corpo de cidadãos é o poder supremo dos Estados.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "O corpo de cidadãos é o poder supremo dos Estados.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "tirania, oligarquia e república.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "burocracia, autarquia e império.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ditadura, autocracia e anarquia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "plutocracia, tecnocracia e demagogia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "monarquia, aristocracia e democracia.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

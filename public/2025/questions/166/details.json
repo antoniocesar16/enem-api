@@ -1,0 +1,43 @@
+{
+  "title": "Questão 166 - ENEM 2025",
+  "index": 166,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "QUESTãO 166\n\nO dono de uma sorveteria armazena sorvete em potes de \n20 000 cm3. Ele serve o sorvete em taças, em porções de 250 mL.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O dono de uma sorveteria armazena sorvete em potes de \n20 000 cm3. Ele serve o sorvete em taças, em porções de 250 mL.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "50.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "80.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "800.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

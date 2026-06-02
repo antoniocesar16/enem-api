@@ -1,0 +1,43 @@
+{
+  "title": "Questão 139 - ENEM 2025",
+  "index": 139,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "QUESTãO 139\n\nUma empresa de tecnologia vai padronizar a velocidade de \nconexão de internet que oferece a seus clientes em dez cidades.",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Uma empresa de tecnologia vai padronizar a velocidade de \nconexão de internet que oferece a seus clientes em dez cidades.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "360.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "370.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "380.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "390.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "400.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

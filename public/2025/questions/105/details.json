@@ -1,0 +1,45 @@
+{
+  "title": "Questão 105 - ENEM 2025",
+  "index": 105,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "\n\nQuestão 105\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Questão 105",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "reflexão e comprimento de onda.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "ressonância e frequência.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "interferência e velocidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ressonância e timbre.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "reflexão e amplitude.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Questão 101 - ENEM 2025",
+  "index": 101,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "\n\n\n\n\n\n\n\n\n\n\n\nA icterícia é uma doença que acomete recém-nascidos e \npode ser tratada com um método de fototerapia conhecido como \nbanho de luz, que consiste na exposição do recém-nascido a uma \nfonte luminosa equipada com LEDs azuis. Para o monitoramento \nda dosagem dessa radiação, é utilizada a resposta óptica de um \nsensor constituído de materiais orgânicos que luminescem quando \nexpostos à luz azul. Com o passar do tempo, essa radiação oxida os \nmateriais do sensor, alterando sua coloração de vermelho-laranja \npara verde, o que indica o final do tratamento.\nO gráfico apresenta o espectro de fotoluminescência do sensor \nem função do comprimento de onda da luz emitida no início do \ntratamento, quando o sensor, colado na fralda do bebê (Figura 1),  \nluminesce na região do vermelho-laranja (∼600 nm). A Figura 2  \napresenta a evolução da coloração do sensor, mostrando que a \nfrequência da luz emitida por ele aumenta em função do tempo de \nexposição à luz azul.\n\nSILVA, M. M. et al. Fabricação de sensor orgânico flexível para aplicação  \nem terapia com luz azul. tecnol. Metal. Mater. Miner.,  \nn. 3, jul.-set. 2011 (adaptado).\n\n![](image-1.png)\n\n![](image-2.png)\n\n![](image-3.png)\n\n![](image-4.png)\n\n![](image-5.png)\n\n![](image-6.png)",
+  "files": [
+    "image-1.png",
+    "image-2.png",
+    "image-3.png",
+    "image-4.png",
+    "image-5.png",
+    "image-6.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Os espectros de fotoluminescência do sensor no início e no final \ndo tratamento estão esboçados no gráfico:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

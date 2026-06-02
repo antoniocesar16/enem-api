@@ -1,0 +1,45 @@
+{
+  "title": "Questão 145 - ENEM 2024",
+  "index": 145,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\nQUESTÃO 145\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "QUESTÃO 145",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "2 e 3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "4 e 5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "5 e 6.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "7 e 8.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "8 e 9.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

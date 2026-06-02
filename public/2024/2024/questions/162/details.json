@@ -1,0 +1,50 @@
+{
+  "title": "Questão 162 - ENEM 2024",
+  "index": 162,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\n\n\n\n\n\n\n\n\n\n\nEm um jogo virtual para celular, um personagem pode \npercorrer trajetórias retilíneas voando ou se deslocando ao \nlongo de paredes. Considere que o personagem descreve \na trajetória ABCDEF, em que os pontos A, D e E estão em \num plano paralelo ao que contém os pontos B e C, sendo \nesses dois planos ortogonais ao plano da base que contém \no ponto F, conforme a figura.\n\n![](image-1.png)\n\n![](image-2.png)\n\n![](image-3.png)\n\n![](image-4.png)\n\n![](image-5.png)\n\n![](image-6.png)",
+  "files": [
+    "image-1.png",
+    "image-2.png",
+    "image-3.png",
+    "image-4.png",
+    "image-5.png",
+    "image-6.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "A projeção ortogonal, sobre o plano da base, da trajetória \nABCDEF descrita pelo personagem é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

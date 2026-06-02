@@ -1,0 +1,43 @@
+{
+  "title": "Questão 69 - ENEM 2024",
+  "index": 69,
+  "year": 2024,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "QUESTÃO 69",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "QUESTÃO 69",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Soberania popular.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Divisão de classes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Acúmulo de capital.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Defesa da propriedade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Centralização administrativa.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

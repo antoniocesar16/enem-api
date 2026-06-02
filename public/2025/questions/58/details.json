@@ -1,0 +1,43 @@
+{
+  "title": "Questão 58 - ENEM 2025",
+  "index": 58,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "QUESTãO 58 \nTEXTO I",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "QUESTãO 58 \nTEXTO I",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "segregação social e intolerância eclesiástica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "rituais eucarísticos e sacramentos da Igreja.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "transe individual e progresso intelectual.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "penitência pessoal e juramento coletivo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "dogmatismo religioso e adesão de fiéis.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

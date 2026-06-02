@@ -1,0 +1,46 @@
+{
+  "title": "Questão 174 - ENEM 2025",
+  "index": 174,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\n\n\nQuestão 174\n\nUma caixa de descarga, acoplada a um vaso sanitário, tem \na forma de paralelepípedo reto retângulo cujas dimensões \ninternas da base são 2,5 dm e 1,5 dm. Nessa caixa há uma boia \nque interrompe o abastecimento quando a altura da coluna de \nágua atinge 2 dm, conforme a figura.\n\n![](image-1.png)\n\n![](image-2.png)",
+  "files": [
+    "image-1.png",
+    "image-2.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Uma caixa de descarga, acoplada a um vaso sanitário, tem \na forma de paralelepípedo reto retângulo cujas dimensões \ninternas da base são 2,5 dm e 1,5 dm. Nessa caixa há uma boia \nque interrompe o abastecimento quando a altura da coluna de \nágua atinge 2 dm, conforme a figura.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "10.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

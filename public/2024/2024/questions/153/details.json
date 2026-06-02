@@ -1,0 +1,50 @@
+{
+  "title": "Questão 153 - ENEM 2024",
+  "index": 153,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\n\n\n\n\n\n\n\n\n\n\nUm tanque, em formato de paralelepípedo reto retângulo, tem em seu interior dois anteparos verticais, fixados na \nsua base e em duas paredes opostas, sendo perpendiculares a elas, conforme a figura.\n\nEsses anteparos, de espessuras desprezíveis, estão instalados de maneira a dividir a base do tanque em três \nretângulos congruentes, tendo suas alturas iguais à metade e a um quarto da altura do tanque. O tanque é abastecido \npor uma entrada situada no teto, através de um duto que despeja água a uma vazão constante, sendo necessárias \n12 horas para finalizar o seu enchimento.\n\nO gráfico que descreve, em cada instante, a maior altura de coluna de água, dentre aquelas que vão sendo formadas \nao longo do enchimento do tanque, é\n\n![](image-1.png)\n\n![](image-2.png)\n\n![](image-3.png)\n\n![](image-4.png)\n\n![](image-5.png)\n\n![](image-6.png)",
+  "files": [
+    "image-1.png",
+    "image-2.png",
+    "image-3.png",
+    "image-4.png",
+    "image-5.png",
+    "image-6.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "• MATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 5 • AMARELO\n23",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

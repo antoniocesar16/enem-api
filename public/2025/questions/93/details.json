@@ -1,0 +1,45 @@
+{
+  "title": "Questão 93 - ENEM 2025",
+  "index": 93,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "\n\nQUESTãO 93\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "QUESTãO 93",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "mata o vírus pela ligação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "aglutina o vírus por associação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "contém imunoglobulinas de defesa.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "induz a produção de proteínas neutralizadoras.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "mantém a quantidade de anticorpos preexistentes.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

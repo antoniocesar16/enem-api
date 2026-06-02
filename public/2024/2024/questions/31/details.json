@@ -1,0 +1,43 @@
+{
+  "title": "Questão 31 - ENEM 2024",
+  "index": 31,
+  "year": 2024,
+  "language": null,
+  "discipline": "linguagens",
+  "context": "QUESTÃO 31\n\nTelemedicina é para todos,  \nmas nem todos estão preparados",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Telemedicina é para todos,  \nmas nem todos estão preparados",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "disponibilizar prontuário único do cidadão tanto na rede pública quanto na privada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "oportunizar o acesso a atendimento médico a pacientes de áreas periféricas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "fornecer dispositivos tecnológicos para a realização de exames.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "promover a interação entre diferentes especialidades médicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "garantir infraestrutura para o trabalho remoto de médicos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

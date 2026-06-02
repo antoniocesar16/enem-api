@@ -1,0 +1,43 @@
+{
+  "title": "Questão 145 - ENEM 2025",
+  "index": 145,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "QUESTãO 145",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "QUESTãO 145",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "30 90",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "40 100",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "46 90",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

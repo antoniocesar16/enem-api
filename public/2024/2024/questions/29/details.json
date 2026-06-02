@@ -1,0 +1,43 @@
+{
+  "title": "Questão 29 - ENEM 2024",
+  "index": 29,
+  "year": 2024,
+  "language": null,
+  "discipline": "linguagens",
+  "context": "QUESTÃO 29 \nTEXTO I",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "QUESTÃO 29 \nTEXTO I",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "defendem a dignidade do ofício dos artistas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "concluem que a arte reforça crenças pessoais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "apresentam a pobreza como inspiração para a arte.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "afirmam o necessário caráter desestabilizador da arte.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "atestam que há mudanças significativas na produção artística.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

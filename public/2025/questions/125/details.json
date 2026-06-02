@@ -1,0 +1,50 @@
+{
+  "title": "Questão 125 - ENEM 2025",
+  "index": 125,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "\n\n\n\n\n\n\n\n\n\n\n\nEm uma comunidade rural, os moradores utilizam uma \nbomba-d’água alimentada por 100 V de tensão contínua, \npodendo variar em até 5 V. Um eletrotécnico pretende instalar \nplacas fotovoltaicas para alimentar essa bomba. As placas são \nidênticas e cada uma apresenta tensão de operação igual a \n34 V com corrente de 7,5 A. Além disso, cada placa apresenta \n40 V de tensão elétrica, quando em circuito aberto. Assim, \nconsiderando que a placa descrita é um gerador não ideal, em \ncircuito aberto ela pode ser representada conforme a figura:\n\nO eletrotécnico construiu um circuito que permite à  \nbomba-d’água operar corretamente com o menor número \npossível de placas conectadas. Para isso, desenhou um diagrama \nno qual todas essas placas são representadas como um único \ngerador não ideal, com a especificação das correspondentes \ncaracterísticas elétricas.\n\n![](image-1.png)\n\n![](image-2.png)\n\n![](image-3.png)\n\n![](image-4.png)\n\n![](image-5.png)\n\n![](image-6.png)",
+  "files": [
+    "image-1.png",
+    "image-2.png",
+    "image-3.png",
+    "image-4.png",
+    "image-5.png",
+    "image-6.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O diagrama que representa o circuito construído pelo \neletrotécnico é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

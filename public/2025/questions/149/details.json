@@ -1,0 +1,45 @@
+{
+  "title": "Questão 149 - ENEM 2025",
+  "index": 149,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\nQUESTãO 149\n\nUma escola de idiomas oferece cursos de inglês, espanhol, francês e alemão. Os gráficos apresentam a distribuição percentual \ndas matrículas, por idioma, em 2023, e a distribuição da quantidade de matrículas, por idioma, em 2024.\n\nPara planejar as atividades de 2025, o gerente da escola estimou que o total de matrículas será o mesmo de 2024, e a distribuição \npercentual das matrículas, por idioma, será igual à registrada em 2023.\n\nSegundo essa estimativa, o número de matrículas no curso de francês para o ano de 2025 será\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Segundo essa estimativa, o número de matrículas no curso de francês para o ano de 2025 será",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "12.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "20.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "22.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "40.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

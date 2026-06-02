@@ -1,0 +1,45 @@
+{
+  "title": "Questão 1 - ENEM 2025",
+  "index": 1,
+  "year": 2025,
+  "language": "ingles",
+  "discipline": "linguagens",
+  "context": "\n\nQUESTãO 01\n\nDisponível em: https://pt.foursquare.com. Acesso em: 14 maio 2024.\n\nNesse texto, a pergunta “What is sleep?”, em uma das embalagens do produto, está relacionada ao(à)\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Nesse texto, a pergunta “What is sleep?”, em uma das embalagens do produto, está relacionada ao(à)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "escassez de horas de sono.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "estímulo a um descanso de qualidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "gasto com bebidas que combatem a insônia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "consumo de bebidas que causam dependência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "necessidade de um produto que provoque o sono.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

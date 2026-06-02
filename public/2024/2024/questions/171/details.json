@@ -1,0 +1,45 @@
+{
+  "title": "Questão 171 - ENEM 2024",
+  "index": 171,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\nQUESTÃO 171\n\nPara obter um sólido de revolução (rotação de 360° \nem torno de um eixo fixo), uma professora realizou as \nseguintes etapas:\n\n• recortou o trapézio retângulo PQRS de um \nmaterial rígido;\n\n• afixou o lado PS do trapézio em uma vareta fixa \nretilínea (eixo de rotação);\n\n• girou o trapézio 360° em torno da vareta e obteve \num sólido de revolução.\n\nObserve a figura que apresenta o trapézio afixado na \nvareta e o sentido de giro.\n\nO sólido obtido foi um(a)\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "O sólido obtido foi um(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "cone.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "cilindro.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "pirâmide.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "tronco de cone.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "tronco de pirâmide.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

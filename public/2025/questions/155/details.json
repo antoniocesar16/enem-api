@@ -1,0 +1,45 @@
+{
+  "title": "Questão 155 - ENEM 2025",
+  "index": 155,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\nQUESTãO 155\n\nEm uma escola, todos os estudantes do ensino médio \npraticam uma das três modalidades esportivas oferecidas \ncomo atividade física, e cada um deles pratica somente uma \ndessas atividades. Os gráficos trazem alguns dados relativos aos \nquantitativos de estudantes que praticam essas modalidades \nesportivas nessa escola, apesar de algumas quantidades não \nterem sido informadas.\n\nQual é a quantidade de estudantes no ensino médio dessa escola?\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Qual é a quantidade de estudantes no ensino médio dessa escola?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

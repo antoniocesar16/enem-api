@@ -1,0 +1,45 @@
+{
+  "title": "Questão 130 - ENEM 2025",
+  "index": 130,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "\n\nQUESTãO 130\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "QUESTãO 130",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1 e 2.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "1 e 3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "2 e 3.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "2 e 4.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "2 e 5.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

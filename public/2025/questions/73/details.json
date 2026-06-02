@@ -1,0 +1,45 @@
+{
+  "title": "Questão 73 - ENEM 2025",
+  "index": 73,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "\n\nQUESTãO 73\n\nProdução e exportações brasileiras no ranking mundial em 2019\n\nFonte: USDA, 2020. Elaboração CNA.\n*Fatia de participação na produção mundial.\n\nDisponível em: www.cnabrasil.org.br. Acesso em: 15 out. 2021.\n\nQual condição favoreceu o cenário produtivo exposto na figura?\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Qual condição favoreceu o cenário produtivo exposto na figura?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Redução do poder de compra da população brasileira.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Ampliação da entrada do capital agroindustrial no campo.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "Diminuição do uso de trabalho especializado na agropecuária.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Valorização da moeda nacional em relação ao dólar americano.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Inclusão de pequenas propriedades em cultivos de subsistência.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

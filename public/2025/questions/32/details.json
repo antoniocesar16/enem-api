@@ -1,0 +1,43 @@
+{
+  "title": "Questão 32 - ENEM 2025",
+  "index": 32,
+  "year": 2025,
+  "language": null,
+  "discipline": "linguagens",
+  "context": "QUESTãO 32",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "QUESTãO 32",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "superação pessoal na luta.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "violência evidenciada na luta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "predomínio de regras na briga.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "desafio externo presente na luta.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "habilidade desenvolvida na briga.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

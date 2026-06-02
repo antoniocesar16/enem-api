@@ -1,0 +1,43 @@
+{
+  "title": "Questão 59 - ENEM 2025",
+  "index": 59,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "QUESTãO 59",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "QUESTãO 59",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "valorização de tradições rurais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "redução de plantações agrícolas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "estagnação de atividades comerciais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "precariedade de infraestruturas rodoviárias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "seletividade de deslocamentos populacionais.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

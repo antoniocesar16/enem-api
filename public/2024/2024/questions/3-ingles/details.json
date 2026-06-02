@@ -1,0 +1,45 @@
+{
+  "title": "Questão 3 - ENEM 2024",
+  "index": 3,
+  "year": 2024,
+  "language": "ingles",
+  "discipline": "linguagens",
+  "context": "\n\nQUESTÃO 03\n\nDisponível em: http://thumbpress.com. Acesso em: 28 out. 2013.\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Disponível em: http://thumbpress.com. Acesso em: 28 out. 2013.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "dar oportunidade a pessoas que parecem necessitadas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "identificar contextos que podem representar perigo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "tirar proveito de situações que podem ser adversas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "evitar dificuldades que parecem ser intransponíveis.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "contestar circunstâncias que parecem ser harmônicas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

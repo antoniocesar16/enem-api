@@ -1,0 +1,45 @@
+{
+  "title": "Questão 179 - ENEM 2024",
+  "index": 179,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\nQUESTÃO 179\n\nUma caneca com água fervendo é retirada de um \nforno de micro-ondas. A temperatura T, em grau Celsius, \nda caneca, em função do tempo t, em minuto, pode ser \nmodelada pela função T(t) = a + 80 bt, representada no \ngráfico a seguir.\n\nOs valores das constantes a e b são\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Os valores das constantes a e b são",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a = 20; b = log(0,5)",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a = 100; b = 0,5",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "a b = = 20 0 5 1 10 ; ( , )",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "a b = = 20 40 80 1 10 ; ( )",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a = 20; b = 40",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Questão 127 - ENEM 2024",
+  "index": 127,
+  "year": 2024,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "\n\nQUESTÃO 127\n\nAs autoridades sanitárias brasileiras têm se preocupado \nmuito nos últimos anos com o aumento da ocorrência \nde doenças transmitidas por mosquitos, principalmente \narboviroses como chikungunya e zika, que se tornaram \nepidêmicas ou endêmicas em áreas urbanas. Parte de \numa análise da relação entre a urbanização e a incidência \ndessas doenças está representada no fluxograma.\n\nALMEIDA, L. S.; COTA, A. L. S.; RODRIGUES, D. F. Saneamento, \narboviroses e determinantes ambientais: impactos na saúde urbana. \nCiência & Saúde Coletiva, v. 25, n. 10, 2020 (adaptado).\n\nNesse contexto, como a urbanização está causando \nriscos à saúde humana?\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Nesse contexto, como a urbanização está causando \nriscos à saúde humana?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Disseminando verminoses.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Causando a eutrofização de lagoas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Aumentando a chance de contato com coliformes.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Diminuindo a população de predadores aquáticos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Aproximando as pessoas das áreas de ocorrência de mosquitos. • CIÊNCIAS DA NATUREZA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 5 • AMARELO 13",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

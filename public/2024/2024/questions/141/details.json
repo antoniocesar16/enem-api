@@ -1,0 +1,43 @@
+{
+  "title": "Questão 141 - ENEM 2024",
+  "index": 141,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "QUESTÃO 141",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "QUESTÃO 141",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "d Q d R � � � � � 1 4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "d Q d R � � � � � 1 2",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "d Q d R � � � � � 3 4",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "d Q d R � � � � � 3 2 E d Q d R � � � � � 2 3",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

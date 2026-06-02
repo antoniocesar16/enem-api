@@ -1,0 +1,43 @@
+{
+  "title": "Questão 94 - ENEM 2025",
+  "index": 94,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "QUESTãO 94\n\nO bioma Cerrado é caracterizado por apresentar ampla e \nnatural diversidade de espécies vegetais. Nos últimos tempos,  \no homem vem modificando esse cenário pela inserção de \nplantas exóticas nesse ambiente. Exemplo disso é o cultivo do \ncapim-gordura, nativo do continente africano e utilizado nesse \ntipo de ecossistema como forma de pastagem. É importante \nressaltar que essa espécie vegetal é capaz de se espalhar por \ngrandes áreas, devido à sua agressividade e poder competitivo.\n\nCARLOS JR., L. A.; BARBOSA, N. P. U.; FERNANDES, G. W. \nO capim-gordura e as invasões no Cerrado brasileiro.  \nJornal do Biólogo, mar.-jun. 2008 (adaptado).\n\nEm longo prazo, essa ação do homem pode gerar qual \nconsequência?",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Em longo prazo, essa ação do homem pode gerar qual \nconsequência?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Diversificar nichos ecológicos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Assorear as nascentes do bioma.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Dificultar a infiltração de água na terra.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Diminuir as espécies nativas do bioma.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Contribuir com a redução das queimadas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

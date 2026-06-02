@@ -1,0 +1,50 @@
+{
+  "title": "Questão 144 - ENEM 2025",
+  "index": 144,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\n\n\n\n\n\n\n\n\n\n\nEm um jogo de computador, um cubo se encontra inicialmente posicionado conforme indicado na figura.\n\nCada deslocamento efetuado por esse cubo se dá sempre em uma das direções definidas pelos três eixos coordenados. \nAo se movimentar a partir da posição inicial, esse cubo se aproximou 3 unidades do plano yz, se afastou 5 unidades do plano xz \ne se aproximou 4 unidades do plano xy.\n\n![](image-1.png)\n\n![](image-2.png)\n\n![](image-3.png)\n\n![](image-4.png)\n\n![](image-5.png)\n\n![](image-6.png)",
+  "files": [
+    "image-1.png",
+    "image-2.png",
+    "image-3.png",
+    "image-4.png",
+    "image-5.png",
+    "image-6.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "A figura que apresenta as projeções ortogonais desse cubo sobre os três planos coordenados, após efetuar as movimentações \ndescritas, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

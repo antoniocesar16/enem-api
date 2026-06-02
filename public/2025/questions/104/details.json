@@ -1,0 +1,46 @@
+{
+  "title": "Questão 104 - ENEM 2025",
+  "index": 104,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "\n\n\n\nQuestão 104\n\n![](image-1.png)\n\n![](image-2.png)",
+  "files": [
+    "image-1.png",
+    "image-2.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Questão 104",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

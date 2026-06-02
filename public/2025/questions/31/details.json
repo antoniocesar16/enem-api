@@ -1,0 +1,45 @@
+{
+  "title": "Questão 31 - ENEM 2025",
+  "index": 31,
+  "year": 2025,
+  "language": null,
+  "discipline": "linguagens",
+  "context": "\n\nQUESTãO 31\n\nRevista Língua Portuguesa, n. 31, maio 2008 (adaptado).\n\nEsse texto, que apresenta um prato da culinária brasileira, \nevidencia\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Esse texto, que apresenta um prato da culinária brasileira, \nevidencia",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "valor afetivo nas nomenclaturas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "variedade linguística entre regiões.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "disputa regional pelo melhor prato.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "modos de preparo de um mesmo alimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "paladares diversificados entre diferentes estados.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

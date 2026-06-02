@@ -1,0 +1,45 @@
+{
+  "title": "Questão 39 - ENEM 2025",
+  "index": 39,
+  "year": 2025,
+  "language": null,
+  "discipline": "linguagens",
+  "context": "\n\nQUESTãO 39\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "QUESTãO 39",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "descrever de forma técnica a ilustração.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "destacar os múltiplos sentidos do verbete.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "explicar o significado da expressão ilustrada.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "apresentar termos equivalentes em outras línguas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "apontar para a dificuldade de compreensão do termo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

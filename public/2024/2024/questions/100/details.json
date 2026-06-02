@@ -1,0 +1,50 @@
+{
+  "title": "Questão 100 - ENEM 2024",
+  "index": 100,
+  "year": 2024,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "\n\n\n\n\n\n\n\n\n\n\n\nEm um experimento de laboratório, duas barras \nmetálicas, A e B, são carregadas com cargas opostas e \nimersas em óleo. Farelo de milho é jogado sobre o óleo e, \napós um certo tempo, o farelo assume o formato das linhas \nde campo elétrico entre as barras. A figura representa a \nvista superior desse experimento.\n\nALMEIDA, M. A. T. Introdução às ciências físicas 2 — volume 4: \nmódulo 4. Rio de Janeiro: Fundação CECIERJ, 2007 (adaptado).\n\n![](image-1.png)\n\n![](image-2.png)\n\n![](image-3.png)\n\n![](image-4.png)\n\n![](image-5.png)\n\n![](image-6.png)",
+  "files": [
+    "image-1.png",
+    "image-2.png",
+    "image-3.png",
+    "image-4.png",
+    "image-5.png",
+    "image-6.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Ao repetir o experimento colocando um cilindro metálico \noco entre as placas, o esquema que representa o formato \ndas linhas de campo assumido pelo farelo é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

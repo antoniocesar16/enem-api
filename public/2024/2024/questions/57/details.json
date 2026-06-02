@@ -1,0 +1,43 @@
+{
+  "title": "Questão 57 - ENEM 2024",
+  "index": 57,
+  "year": 2024,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "QUESTÃO 57\n\nAristóteles entendia que a felicidade era diretamente \nligada ao respeito pela própria natureza e, de certa maneira, \na uma vida que tivesse na natureza de si mesma uma \nreferência inabalável. Isso lhe permitiu formular o conceito \nde excelência. O que seria excelência? Seria, justamente,  \nao longo da vida, tirar de si mesmo, em forma de performance, \nde conduta, de comportamento, de disposição, o que a natureza \npermitiria de melhor.\n\nCOEN, M.; BARROS FILHO, C. A monja e o professor: reflexões \nsobre ética, preceitos e valores. Rio de Janeiro: Best Seller, 2018.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "COEN, M.; BARROS FILHO, C. A monja e o professor: reflexões \nsobre ética, preceitos e valores. Rio de Janeiro: Best Seller, 2018.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "teoria das formas essenciais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "identificação dos princípios racionais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "desenvolvimento das técnicas retóricas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "aperfeiçoamento das condutas humanas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "conhecimento das epistemes verdadeiras.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

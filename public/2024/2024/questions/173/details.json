@@ -1,0 +1,45 @@
+{
+  "title": "Questão 173 - ENEM 2024",
+  "index": 173,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\nQUESTÃO 173\n\nUma sala com piso no formato retangular, com lados \nde medidas 3 m e 6 m, será dividida em dois ambientes. \nPara isso, serão utilizadas colunas em formato cilíndrico, \ndispostas perpendicularmente ao piso e representadas na \nfigura pelos círculos de cor azul. Os centros desses círculos \nestarão sobre uma reta paralela aos lados de menor medida \ndo piso da sala. Os vãos entre duas colunas e entre uma \ncoluna e a parede não poderão ser superiores a 15 cm.\n\nPara efetuar a compra dessas colunas, foram feitos \norçamentos com base em dados fornecidos por cinco lojas.\n\nLoja\nRaio (cm)\nPreço por \nunidade (R$)\nI\n5\n60\nII\n10\n70\nIII\n12\n75\nIV\n15\n90\nV\n20\n120\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Loja\nRaio (cm)\nPreço por \nunidade (R$)\nI\n5\n60\nII\n10\n70\nIII\n12\n75\nIV\n15\n90\nV\n20\n120",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "III.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "IV.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

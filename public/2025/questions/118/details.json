@@ -1,0 +1,45 @@
+{
+  "title": "Questão 118 - ENEM 2025",
+  "index": 118,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "\n\nQUESTãO 118\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "QUESTãO 118",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "30 ms.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "70 ms.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "300 ms.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "400 ms.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "700 ms.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

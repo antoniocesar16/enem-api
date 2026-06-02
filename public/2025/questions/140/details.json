@@ -1,0 +1,45 @@
+{
+  "title": "Questão 140 - ENEM 2025",
+  "index": 140,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\nQUESTãO 140\n\nNa cantina de uma escola, há cinco alimentos vendidos em \npacotes com diferentes quantidades de porções.\nAs informações nutricionais contidas nos rótulos desses \nprodutos estão indicadas nas imagens.\n\nUma estudante opta sempre pelo alimento com a menor \nquantidade total de sódio por pacote.\n\nQual desses produtos deve ser o escolhido pela estudante?\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual desses produtos deve ser o escolhido pela estudante?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Batata chips.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Palitos salgados.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Biscoito multigrãos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Biscoito de polvilho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Biscoito de água e sal.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

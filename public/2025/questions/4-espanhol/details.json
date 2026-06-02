@@ -1,0 +1,43 @@
+{
+  "title": "Questão 4 - ENEM 2025",
+  "index": 4,
+  "year": 2025,
+  "language": "espanhol",
+  "discipline": "linguagens",
+  "context": "QUESTãO 04\n\n¿Qué es la generación Alfa?\n\nHacer cortes generacionales no es una ciencia exacta. Sin embargo, según un análisis de 2018 del centro de estudios Pew \nResearch Center, analizar las generaciones ofrece “una manera de entender cómo los acontecimientos globales y los cambios \ntecnológicos, económicos y sociales interactúan para definir la forma en que la gente ve el mundo”. Y está claro cómo ve el \nmundo la próxima generación: a través de una pantalla.\n\n“Antes las generaciones se definían a partir de sucesos históricos o sociales importantes. Hoy se delimitan por el uso \nde determinada tecnología”, le explica a BBC Mundo un psicólogo, docente, escritor y experto en el uso — y abuso — de las \nredes sociales.\n\nNinguna de las generaciones anteriores será comparable a nivel digital con los Alfa, que, como contraparte, serán la primera \na la que le serán ajenos muchos aspectos del mundo analógico.\n\nDisponível em: www.bbc.com. Acesso em: 9 maio 2024 (adaptado).\n\nNesse texto, a expressão “a través de una pantalla” evidencia que a geração Alfa estabelece com o mundo uma relação marcada pelo(a)",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Nesse texto, a expressão “a través de una pantalla” evidencia que a geração Alfa estabelece com o mundo uma relação marcada pelo(a)",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "conflito etário.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "efemeridade da tecnologia.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "dependência de recursos digitais.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "valor dos acontecimentos sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "indiferença em relação a fatos históricos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

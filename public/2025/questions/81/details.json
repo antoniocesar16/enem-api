@@ -1,0 +1,43 @@
+{
+  "title": "Questão 81 - ENEM 2025",
+  "index": 81,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "QUESTãO 81",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "QUESTãO 81",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "cognoscência e relação intersubjetiva.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "mitologia e teorias cosmogônicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "cidadania e primazia da retórica.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "moralidade e virtudes cardeais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ética e exercício do poder.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

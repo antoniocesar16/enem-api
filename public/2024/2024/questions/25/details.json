@@ -1,0 +1,43 @@
+{
+  "title": "Questão 25 - ENEM 2024",
+  "index": 25,
+  "year": 2024,
+  "language": null,
+  "discipline": "linguagens",
+  "context": "QUESTÃO 25",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "QUESTÃO 25",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "seu registro passou da forma oral para a escrita.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "classe social de seus usuários ganhou prestígio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "sua função inicial se manteve ao longo dos anos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "sentimento de identidade linguística tem se consolidado.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "perfil etário de seus falantes tem se tornado homogêneo.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

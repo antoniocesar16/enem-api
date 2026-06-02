@@ -1,0 +1,43 @@
+{
+  "title": "Questão 124 - ENEM 2025",
+  "index": 124,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "QUESTãO 124",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "QUESTãO 124",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "0,16 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "0,50 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "0,80 m.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "1,60 m.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "8,00 m.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

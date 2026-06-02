@@ -1,0 +1,45 @@
+{
+  "title": "Questão 95 - ENEM 2024",
+  "index": 95,
+  "year": 2024,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "\n\nQUESTÃO 95\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "QUESTÃO 95",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "a temperatura interna do iglu é maior que a de solidificação da água.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "a umidade dentro do iglu dificulta o processo de mudança de fase da água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "o ar dentro do iglu é isolante térmico, dificultando a perda de calor pela água.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "a temperatura uniforme no interior do iglu impede as correntes de convecção.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "a pressão do ar no interior do iglu é baixa, dificultando a solidificação da água.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "title": "Questão 102 - ENEM 2025",
+  "index": 102,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "\n\n\n\n\n\n\n\n\n\n\n\nA figura apresenta a herança genética de uma característica \na partir do cruzamento de insetos de uma mesma espécie.\n\n![](image-1.png)\n\n![](image-2.png)\n\n![](image-3.png)\n\n![](image-4.png)\n\n![](image-5.png)\n\n![](image-6.png)",
+  "files": [
+    "image-1.png",
+    "image-2.png",
+    "image-3.png",
+    "image-4.png",
+    "image-5.png",
+    "image-6.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Qual alternativa representa a proporção fenotípica da prole \nresultante do cruzamento entre indivíduos da primeira geração?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

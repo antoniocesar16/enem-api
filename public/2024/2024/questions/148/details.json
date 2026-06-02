@@ -1,0 +1,45 @@
+{
+  "title": "Questão 148 - ENEM 2024",
+  "index": 148,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\nQUESTÃO 148\n\nUm aeroporto disponibiliza o serviço de transporte gratuito entre seus dois terminais utilizando os ônibus A e B, que \npartem simultaneamente, de hora em hora, de terminais diferentes. A distância entre os terminais é de 9 000 metros, \ne o percurso total dos ônibus, de um terminal ao outro, é monitorado por um sistema de cinco câmeras que cobrem \ndiferentes partes do trecho, conforme o esquema.\n\nO alcance de cada uma das cinco câmeras é:\n\n• câmera I: 1\n5\n\ndo percurso;\n\n• câmera II: 3\n10  do percurso;\n\n• câmera III: 1\n10\n\ndo percurso;\n\n• câmera IV: 1\n10  do percurso;\n\n• câmera V: 3\n10\n\ndo percurso.\n\nEm determinado horário, o ônibus A parte do terminal 1 e realiza o percurso total com velocidade constante de \n250 m/min; enquanto o ônibus B, que parte do terminal 2, realiza o percurso total com velocidade constante de 150 m/min.\n\nQual câmera registra o momento em que os ônibus A e B se encontram?\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Qual câmera registra o momento em que os ônibus A e B se encontram?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "III",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

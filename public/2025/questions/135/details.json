@@ -1,0 +1,45 @@
+{
+  "title": "Questão 135 - ENEM 2025",
+  "index": 135,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "\n\nQUESTãO 135\n\nRéguas elétricas são dispositivos que permitem a ligação \nsegura e simultânea de dois ou mais aparelhos eletroeletrônicos \nà rede elétrica. Uma estudante comprou uma régua com seis \ntomadas, conforme a figura. Essa régua suporta uma intensidade \nmáxima de corrente elétrica igual a 20 A. Acima desse valor, o \nfusível de segurança da régua se rompe, inutilizando-a até que \num novo fusível seja instalado. Considere as potências nominais \nde alguns aparelhos eletroeletrônicos apresentadas no quadro.\n\nAparelho\nPotência (watt)\n\nLuminária de LED\n5\n\nComputador\n250\n\nImpressora a laser\n660\n\nSecador de cabelos\n750\n\nCafeteira\n900\n\nCondicionador \nde ar portátil\n1 100\n\nEm um dia quente, a estudante mantém o computador e o \ncondicionador de ar portátil ligados à régua permanentemente. \nNessa situação, ela tenta realizar algumas atividades, uma de \ncada vez, utilizando a mesma régua, na seguinte ordem:\n1º – imprimir um trabalho escolar;\n2º – fazer um café com a cafeteira;\n3º – ligar a luminária;\n4º – secar os cabelos.\nSabe-se que a régua foi ligada à tensão elétrica de 110 V, \nadequada para o funcionamento desses aparelhos.\n\nConsiderando a ordem das tentativas, quantas atividades a \nestudante conseguiu realizar sem queimar o fusível?\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Considerando a ordem das tentativas, quantas atividades a \nestudante conseguiu realizar sem queimar o fusível?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "0 MATEMÁTICA E SUAS TECNOLOGIAS Questões de 136 a 180",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Questão 66 - ENEM 2025",
+  "index": 66,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "QUESTãO 66",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "QUESTãO 66",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "palavras escritas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "práticas litúrgicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ações voluntárias.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "ideias messiânicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "celebrações coletivas.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

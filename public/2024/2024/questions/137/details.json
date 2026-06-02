@@ -1,0 +1,43 @@
+{
+  "title": "Questão 137 - ENEM 2024",
+  "index": 137,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "QUESTÃO 137",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "QUESTÃO 137",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "56.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "58.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "59.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "60.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "62.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Questão 168 - ENEM 2025",
+  "index": 168,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\nQUESTãO 168\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "QUESTãO 168",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "1 134",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Questão 130 - ENEM 2024",
+  "index": 130,
+  "year": 2024,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "QUESTÃO 130\n\nCom base em testes realizados em ratos, concluiu-se \nque os compostos nitrosos são substâncias mutagênicas, \nou seja, produzem mutações nas células e possivelmente \ncâncer. Esses compostos podem ser obtidos pela reação \nentre o nitrito de sódio, que é um conservante adicionado \nàs carnes, e o ácido clorídrico. O ácido nitroso produzido \nirá reagir com compostos nitrogenados, como as aminas, \ndando origem aos compostos nitrosos.\nEm qual órgão esse processo será iniciado?",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Com base em testes realizados em ratos, concluiu-se \nque os compostos nitrosos são substâncias mutagênicas, \nou seja, produzem mutações nas células e possivelmente \ncâncer. Esses compostos podem ser obtidos pela reação \nentre o nitrito de sódio, que é um conservante adicionado \nàs carnes, e o ácido clorídrico. O ácido nitroso produzido \nirá reagir com compostos nitrogenados, como as aminas, \ndando origem aos compostos nitrosos.\nEm qual órgão esse processo será iniciado?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Rim.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Fígado.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Intestino.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Pâncreas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Estômago.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "title": "Questão 168 - ENEM 2024",
+  "index": 168,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\n\n\nQUESTÃO 168\n\nTrês grandezas (I, II e III) se relacionam entre si. \nOs gráficos a seguir, formados por segmentos de reta, \ndescrevem as relações de dependência existentes entre \nas grandezas I e II, e entre as grandezas II e III.\n\nO valor máximo assumido pela grandeza III, quando a \ngrandeza I varia de 1 a 3, é\n\n![](image-1.png)\n\n![](image-2.png)",
+  "files": [
+    "image-1.png",
+    "image-2.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O valor máximo assumido pela grandeza III, quando a \ngrandeza I varia de 1 a 3, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "1,0.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "2,5.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "3,0.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "3,5.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "4,0.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

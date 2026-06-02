@@ -1,0 +1,45 @@
+{
+  "title": "Questão 50 - ENEM 2025",
+  "index": 50,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "\n\nQuestão 50\n\nConcentração de Co2 por queimadas entre África e Brasil em 30 de agosto de 2019\n\nDisponível em: https://noticias.uol.com.br. Acesso em: 10 out. 2019 (adaptado).\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Disponível em: https://noticias.uol.com.br. Acesso em: 10 out. 2019 (adaptado).",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Amplitude das temperaturas médias.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Homogeneidade da insolação anual.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Ocorrência de chuvas de relevo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Circulação de massas de ar.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Ausência de frentes frias.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

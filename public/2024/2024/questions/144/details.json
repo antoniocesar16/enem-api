@@ -1,0 +1,45 @@
+{
+  "title": "Questão 144 - ENEM 2024",
+  "index": 144,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\nQUESTÃO 144\n\nUm sistema de polias circulares e correias é um dos \nmecanismos responsáveis pela transmissão de movimento \nem máquinas rotativas. O manual de um motor traz uma \nfigura representando um sistema composto por duas polias \ne uma correia de transmissão, tensionada e perfeitamente \najustada sobre as polias, de modo a não apresentar folgas \nnos contatos com as polias. Considere que as partes \ndessa correia que não ficam em contato com as polias são \nrepresentadas por segmentos de reta tangentes às polias.\n\nPara substituição dessa correia, é necessária a \nespecificação de seu comprimento.\n\nConsidere 3 como valor aproximado para π.\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "Considere 3 como valor aproximado para π.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "54.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "60.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "66.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "68.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "72.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

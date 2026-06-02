@@ -1,0 +1,43 @@
+{
+  "title": "Questão 77 - ENEM 2025",
+  "index": 77,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "QUESTãO 77",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "QUESTãO 77",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "defesa de direitos humanos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "preceito de natureza sociorreligiosa.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "reconhecimento de vínculos familiares.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "discurso de cunho técnico-científico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ideologia de caráter abolicionista.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

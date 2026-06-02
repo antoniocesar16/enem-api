@@ -1,0 +1,43 @@
+{
+  "title": "Questão 149 - ENEM 2024",
+  "index": 149,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "QUESTÃO 149",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "QUESTÃO 149",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "probabilidade de se descobrir o padrão dessa Cifra de César apenas na terceira tentativa é dada por A 1 25 1 25 1 25 + +",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "24 25 23 24 1 23 + + C 1 25 1 24 1 23 × ×",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "24 25 23 25 1 25 × × E 24 25 23 24 1 23 × ×",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Questão 25 - ENEM 2025",
+  "index": 25,
+  "year": 2025,
+  "language": null,
+  "discipline": "linguagens",
+  "context": "\n\nQUESTãO 25\n\nMURRAY, R.; KLIGERMAN, E. Teias de afeto e poesia. Disponível em:  \nhttps://roseanamurray.com. Acesso em: 5 maio 2024.\nNesse texto, a autora aborda diferentes sentidos da palavra \n“rede” para evidenciar\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "MURRAY, R.; KLIGERMAN, E. Teias de afeto e poesia. Disponível em:  \nhttps://roseanamurray.com. Acesso em: 5 maio 2024.\nNesse texto, a autora aborda diferentes sentidos da palavra \n“rede” para evidenciar",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "as formas de comunicação em meios digitais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "a necessidade de atualização das mídias sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "os conflitos de identidade dos usuários da internet.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "o impacto das tecnologias nas interações humanas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "os desejos de compartilhar vivências com os amigos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

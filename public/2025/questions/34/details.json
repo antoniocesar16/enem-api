@@ -1,0 +1,43 @@
+{
+  "title": "Questão 34 - ENEM 2025",
+  "index": 34,
+  "year": 2025,
+  "language": null,
+  "discipline": "linguagens",
+  "context": "QUESTãO 34\n\nSó entende os corações desse lugar quem mergulha nesse \nmar a perder de vista e recoberto de cana caiana, cana fita, cana \nroxa, cana-de-macaco, açúcar, melado, rapadura, aguardente, \nfumo, mandioca, quiabos, pimentas, moendas, frutas, fruta-pão, \nsobrados, senzalas, tachos, casa de purgar. Um reino dentro de \noutro, com tudo o que se tem direito: reis, rainhas, príncipes e \nprincesas, bobos da corte, cortesãos, conselheiros e escravos, \nmuitos escravos. […]",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Só entende os corações desse lugar quem mergulha nesse \nmar a perder de vista e recoberto de cana caiana, cana fita, cana \nroxa, cana-de-macaco, açúcar, melado, rapadura, aguardente, \nfumo, mandioca, quiabos, pimentas, moendas, frutas, fruta-pão, \nsobrados, senzalas, tachos, casa de purgar. Um reino dentro de \noutro, com tudo o que se tem direito: reis, rainhas, príncipes e \nprincesas, bobos da corte, cortesãos, conselheiros e escravos, \nmuitos escravos. […]",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "espelha a permanência dos privilégios de classe.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "oferece um panorama da população do campo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "mostra os benefícios da fartura na agricultura.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "defende a importância da atividade coletiva.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "valoriza o trabalho ao longo das gerações.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

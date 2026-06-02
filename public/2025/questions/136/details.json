@@ -1,0 +1,45 @@
+{
+  "title": "Questão 136 - ENEM 2025",
+  "index": 136,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\nQUESTãO 136\n\nNo entorno de uma lagoa circular, cujo raio mede 1 km, \nhá um uma ciclovia. Devido aos frequentes roubos de bicicleta, \na prefeitura planeja alocar policiais em posições estratégicas \npara patrulhar essa ciclovia, de forma a torná-la totalmente \nprotegida. Um ponto da ciclovia é considerado protegido se \nhouver pelo menos um policial a, no máximo, 200 m de distância \ndaquele ponto, posicionado sobre a ciclovia. A figura ilustra \num ponto P sobre a ciclovia, que estará protegido se houver \npelo menos um policial posicionado sobre a região de cor \ncinza escuro.\nDesconsidere a largura da pista da ciclovia e utilize 3 como \naproximação para p.\n\nNessas condições, a quantidade mínima necessária de policiais a \nserem alocados ao longo dessa ciclovia para torná-la protegida é\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Nessas condições, a quantidade mínima necessária de policiais a \nserem alocados ao longo dessa ciclovia para torná-la protegida é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "15.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "30.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "60.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

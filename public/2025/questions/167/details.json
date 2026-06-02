@@ -1,0 +1,49 @@
+{
+  "title": "Questão 167 - ENEM 2025",
+  "index": 167,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\n\n\n\n\n\n\n\n\nA produtividade de soja em uma área cultivada é a média da quantidade de sacas de 50 quilogramas que são produzidas \npor hectare. O quadro apresenta a área cultivada e a produtividade de soja em certa propriedade, ao longo de cinco safras, \ncom períodos de um ano, de 2011 a 2016.\n\nSafra\n11-12\n12-13\n13-14\n14-15\n15-16\n\nÁrea cultivada (hectare)\n200\n220\n250\n250\n200\n\nProdutividade (sacas de 50 kg por hectare)\n40\n30\n45\n45\n50\n\n![](image-1.png)\n\n![](image-2.png)\n\n![](image-3.png)\n\n![](image-4.png)\n\n![](image-5.png)",
+  "files": [
+    "image-1.png",
+    "image-2.png",
+    "image-3.png",
+    "image-4.png",
+    "image-5.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "O gráfico de linhas que representa a produção de soja dessa propriedade, em tonelada, nessas cinco safras é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

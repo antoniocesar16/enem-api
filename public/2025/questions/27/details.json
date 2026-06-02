@@ -1,0 +1,45 @@
+{
+  "title": "Questão 27 - ENEM 2025",
+  "index": 27,
+  "year": 2025,
+  "language": null,
+  "discipline": "linguagens",
+  "context": "\n\nQUESTãO 27\n\nDisponível em: www.tjdft.jus.br. Acesso em: 15 out. 2024 (adaptado).\n\nEsse texto trata de um problema social com o propósito de\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Esse texto trata de um problema social com o propósito de",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "divulgar campanha virtual contra casos de feminicídio.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "promover engajamento do setor educacional na luta contra a violência.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "comparar o impacto da violência na qualidade de vida de meninas e meninos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "ressaltar a importância da segurança dos estudantes no ambiente escolar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "dar visibilidade a estudos e pesquisas do setor de segurança.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "title": "Questão 23 - ENEM 2025",
+  "index": 23,
+  "year": 2025,
+  "language": null,
+  "discipline": "linguagens",
+  "context": "\n\nQUESTãO 23\n\nDisponível em: www.publishnews.com.br. Acesso em: 19 set. 2024.\n\nNesse cartaz publicitário, os recursos verbais e não verbais \nconstroem um argumento que objetiva\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "Nesse cartaz publicitário, os recursos verbais e não verbais \nconstroem um argumento que objetiva",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "divulgar a obra de Fernando Pessoa no Brasil.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "valorizar a realização de eventos literários no país.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "ressaltar o impacto da leitura na vida das pessoas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "fomentar o turismo cultural na cidade de São Paulo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "evidenciar a influência de Pessoa na literatura brasileira.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

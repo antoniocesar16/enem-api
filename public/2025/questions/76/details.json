@@ -1,0 +1,45 @@
+{
+  "title": "Questão 76 - ENEM 2025",
+  "index": 76,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "\n\nQUESTãO 76\n\nCarro elétrico, uma miragem ecológica\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Carro elétrico, uma miragem ecológica",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Necessidade de fontes não renováveis.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Padronização dos modelos produtivos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Demanda de mão de obra qualificada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Precariedade da legislação industrial.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Utilização de materiais recicláveis.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

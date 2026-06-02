@@ -1,0 +1,45 @@
+{
+  "title": "Questão 150 - ENEM 2025",
+  "index": 150,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\nQUESTãO 150\n\nO controle remoto de um carrinho de brinquedo vem equipado com uma tela que ajusta automaticamente a escala empregada \nna exibição de cada deslocamento. A tela apresenta a imagem do deslocamento, a escala utilizada na geração dessa imagem e \no comprimento desse deslocamento, em centímetro, em conformidade com a escala empregada. As figuras representam a tela \ndo controle remoto exibindo os dados de cinco deslocamentos realizados por esse carrinho.\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O controle remoto de um carrinho de brinquedo vem equipado com uma tela que ajusta automaticamente a escala empregada \nna exibição de cada deslocamento. A tela apresenta a imagem do deslocamento, a escala utilizada na geração dessa imagem e \no comprimento desse deslocamento, em centímetro, em conformidade com a escala empregada. As figuras representam a tela \ndo controle remoto exibindo os dados de cinco deslocamentos realizados por esse carrinho.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "II.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "III.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "IV.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

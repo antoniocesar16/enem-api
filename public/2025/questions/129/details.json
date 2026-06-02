@@ -1,0 +1,49 @@
+{
+  "title": "Questão 129 - ENEM 2025",
+  "index": 129,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "\n\n\n\n\n\n\n\n\n\nNos processos de transformação e reciclagem de recursos \nnaturais, as velocidades das reações químicas são estudadas pela \ncinética química. Uma reação A → B é realizada na presença \ne na ausência de uma enzima, com todas as demais condições \npermanecendo inalteradas. Considere que, no gráfico da \nvariação de energia ao longo dessa reação, a linha contínua \nrepresenta o avanço da reação na ausência da enzima, e a linha \npontilhada, na presença da enzima.\n\nO gráfico que representa a situação descrita é:\n\n![](image-1.png)\n\n![](image-2.png)\n\n![](image-3.png)\n\n![](image-4.png)\n\n![](image-5.png)",
+  "files": [
+    "image-1.png",
+    "image-2.png",
+    "image-3.png",
+    "image-4.png",
+    "image-5.png"
+  ],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "O gráfico que representa a situação descrita é:",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

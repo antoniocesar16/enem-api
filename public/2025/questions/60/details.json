@@ -1,0 +1,43 @@
+{
+  "title": "Questão 60 - ENEM 2025",
+  "index": 60,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "QUESTãO 60",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "QUESTãO 60",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Expansão das técnicas de suplício.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Judicialização das relações de poder.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Dissolução das distinções de nobreza.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Capilarização das práticas de controle.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "Espetacularização das medidas de penitência.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

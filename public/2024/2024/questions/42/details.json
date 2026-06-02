@@ -1,0 +1,43 @@
+{
+  "title": "Questão 42 - ENEM 2024",
+  "index": 42,
+  "year": 2024,
+  "language": null,
+  "discipline": "linguagens",
+  "context": "QUESTÃO 42\n\nEvanildo Bechara prepara a sua aposentadoria de pouco \nem pouco, como se a adiasse ao máximo. Aos 95 anos,  \no imortal da Academia Brasileira de Letras (ABL) alcançou \num status de astro pop no mundo da filologia e da gramática. \nQuando ainda tinha saúde para viagens mais longas, o filólogo \nlotava plateias em suas palestras na Europa e no Brasil,  \nque não raro terminavam com filas para selfies.",
+  "files": [],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "Evanildo Bechara prepara a sua aposentadoria de pouco \nem pouco, como se a adiasse ao máximo. Aos 95 anos,  \no imortal da Academia Brasileira de Letras (ABL) alcançou \num status de astro pop no mundo da filologia e da gramática. \nQuando ainda tinha saúde para viagens mais longas, o filólogo \nlotava plateias em suas palestras na Europa e no Brasil,  \nque não raro terminavam com filas para selfies.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "situacional, pois o contexto exige o uso da linguagem formal.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "regional, pois ele traz marcas do falar de seu local de nascimento.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "sociocultural, pois sua formação pressupõe o uso de linguagem rebuscada.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "geracional, pois ele emprega termos característicos de sua faixa etária.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "ocupacional, pois ele faz uso de termos específicos de sua área de atuação.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

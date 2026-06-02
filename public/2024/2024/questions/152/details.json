@@ -1,0 +1,45 @@
+{
+  "title": "Questão 152 - ENEM 2024",
+  "index": 152,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\nQUESTÃO 152\n\nAs receitas anuais obtidas por uma indústria no período \nde 2014 a 2021, em milhão de reais, foram registradas, por \npontos, em um gráfico. Nele, também está representada a \nreta que descreve a tendência de evolução das receitas. \nEssa reta pode ser utilizada para estimar as receitas dos \nanos seguintes.\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "As receitas anuais obtidas por uma indústria no período \nde 2014 a 2021, em milhão de reais, foram registradas, por \npontos, em um gráfico. Nele, também está representada a \nreta que descreve a tendência de evolução das receitas. \nEssa reta pode ser utilizada para estimar as receitas dos \nanos seguintes.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "10.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "11.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

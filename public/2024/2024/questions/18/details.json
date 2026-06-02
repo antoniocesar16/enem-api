@@ -1,0 +1,43 @@
+{
+  "title": "Questão 18 - ENEM 2024",
+  "index": 18,
+  "year": 2024,
+  "language": null,
+  "discipline": "linguagens",
+  "context": "QUESTÃO 18\n\n— Eu lhe juro, Aurélia. Estes lábios nunca tocaram a face de outra mulher, que não fosse minha mãe. Meu primeiro \nbeijo de amor, guardei-o para minha esposa, para ti...\n[...]\n— Ou de outra mais rica! — disse ela, retraindo-se para fugir ao beijo do marido, e afastando-o com a ponta dos dedos.",
+  "files": [],
+  "correctAlternative": "D",
+  "alternativesIntroduction": "— Eu lhe juro, Aurélia. Estes lábios nunca tocaram a face de outra mulher, que não fosse minha mãe. Meu primeiro \nbeijo de amor, guardei-o para minha esposa, para ti...\n[...]\n— Ou de outra mais rica! — disse ela, retraindo-se para fugir ao beijo do marido, e afastando-o com a ponta dos dedos.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "defesa da igualdade de gêneros.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "importância atribuída à castidade.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "indignação com as injustiças sociais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "interferência da riqueza sobre o amor.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "E",
+      "text": "valorização das relações interpessoais.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

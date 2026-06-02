@@ -1,0 +1,45 @@
+{
+  "title": "Questão 15 - ENEM 2024",
+  "index": 15,
+  "year": 2024,
+  "language": null,
+  "discipline": "linguagens",
+  "context": "\n\nQUESTÃO 15 \nTEXTO I\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "E",
+  "alternativesIntroduction": "QUESTÃO 15 \nTEXTO I",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "técnica fotográfica alternativa limita o registro de imagens.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "apreciação da natureza depende de registro fotográfico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "criatividade artística decorre do conhecimento científico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "câmera de criação caseira tem valor tecnológico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "produção artística pode ser resultado do acaso.",
+      "file": null,
+      "isCorrect": true
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "title": "Questão 70 - ENEM 2024",
+  "index": 70,
+  "year": 2024,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "QUESTÃO 70",
+  "files": [],
+  "correctAlternative": "C",
+  "alternativesIntroduction": "QUESTÃO 70",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Criação de faixas sinalizadoras.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "Incineração de resíduos sólidos.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Implantação de parques públicos.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "D",
+      "text": "Verticalização de espaços centrais.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Construção de estacionamentos privados.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

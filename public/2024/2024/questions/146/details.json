@@ -1,0 +1,43 @@
+{
+  "title": "Questão 146 - ENEM 2024",
+  "index": 146,
+  "year": 2024,
+  "language": null,
+  "discipline": "matematica",
+  "context": "Projetistas de uma fábrica de amortecedores realizaram uma série de experimentos que produziram oscilações \nsemelhantes ao comportamento do gráfico de uma senoide, para qualquer tipo de estrada. Cada experimento teve \nduração de 20 minutos, sendo os 9 primeiros minutos em superfície que simula uma rodovia asfaltada, e os 11 minutos \nrestantes em superfície que simula uma estrada de chão.\nPara os amortecedores serem aprovados no experimento, exige-se que as amplitudes das ondas oscilatórias, em \ncada tipo de superfície, sejam constantes e, ainda, que a amplitude da oscilação do amortecedor no asfalto seja menor \ndo que sua amplitude da oscilação na estrada de chão.\n\nO tipo de gráfico que descreve o comportamento oscilatório de um amortecedor aprovado nesse experimento é",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "• MATEMÁTICA E SUAS TECNOLOGIAS • 2º DIA • CADERNO 5 • AMARELO\n19",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

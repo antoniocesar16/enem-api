@@ -1,0 +1,43 @@
+{
+  "title": "Questão 68 - ENEM 2025",
+  "index": 68,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-humanas",
+  "context": "QUESTãO 68\n\nDurante a realeza, e nos primeiros anos republicanos,  \nas leis eram transmitidas oralmente de uma geração para outra.",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "Durante a realeza, e nos primeiros anos republicanos,  \nas leis eram transmitidas oralmente de uma geração para outra.",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "monarcas, que queriam expandir o código jurídico.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "plebeus, que almejavam participar da vida política.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "nobres, que desejavam superar a relação de dependência.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "camponeses, que aspiravam diminuir a jornada de trabalho.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "estrangeiros, que ambicionavam acessar os espaços públicos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

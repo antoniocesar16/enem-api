@@ -1,0 +1,45 @@
+{
+  "title": "Questão 147 - ENEM 2025",
+  "index": 147,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\nQUESTãO 147\n\nEm um jogo digital, há três personagens: um herói e dois \nvilões. A programação é feita de tal forma que o herói sempre \nserá atacado pelo vilão que estiver mais próximo dele. Uma das \nmaneiras de “confundir” os vilões é movimentar o herói por \ntrajetórias que o mantenha equidistante dos vilões, gerando \nindefinição entre eles e, com isso, não sendo atacado.\nPara a programação de uma das etapas desse jogo,  \no programador considerou, no plano cartesiano, o quadrado \nSTUV como a região de movimentação dos personagens, onde \nV e T representam as posições fixas dos vilões, e S, a posição \ninicial do herói, como apresentado na figura.\n\nQual é a equação da trajetória em que o herói poderá se \nmovimentar sem ser atacado?\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "Qual é a equação da trajetória em que o herói poderá se \nmovimentar sem ser atacado?",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "y = −3x + 20",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "y = −3x + 16",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "y = −3x − 20",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "y = 3x + 16",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "y = 3x − 16",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

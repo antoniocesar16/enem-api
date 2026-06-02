@@ -1,0 +1,43 @@
+{
+  "title": "Questão 100 - ENEM 2025",
+  "index": 100,
+  "year": 2025,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "QUESTãO 100",
+  "files": [],
+  "correctAlternative": "A",
+  "alternativesIntroduction": "QUESTãO 100",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "Plantar mais árvores.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "B",
+      "text": "Instalar mais usinas eólicas.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "C",
+      "text": "Ampliar o uso de energia solar.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "Manter os combustíveis fósseis no solo.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "Produzir menos resíduos sólidos urbanos.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

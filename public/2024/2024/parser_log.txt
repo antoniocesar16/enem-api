@@ -1,0 +1,1663 @@
+
+============================================================
+STARTING PARSER - Building questions from PDF blocks
+============================================================
+[NOISE BLOCK] 'M2024ENEM2024ENEM2024ENEM2024E'
+[NOISE BLOCK] 'M2024ENEM2024ENEM2024ENEM2024E'
+[NOISE BLOCK] 'M2024ENEM2024ENEM2024ENEM2024E'
+[NOISE BLOCK] '2'
+[NOISE BLOCK] 'AMARELO'
+[NOISE BLOCK] '1º DIA'
+[NOISE BLOCK] '02'
+[NOISE BLOCK] '*010275AM1*'
+[FOUND] QUESTÃO 1 on page 1 lang=ingles
+[FOUND] QUESTÃO 2 on page 1 lang=ingles
+[FOUND] QUESTÃO 3 on page 1 lang=ingles
+[NOISE BLOCK] '*010275AM2*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'LINGUAGENS, CÓDIGOS E SUAS TEC'
+[FOUND] QUESTÃO 4 on page 2 lang=espanhol
+[FOUND] QUESTÃO 5 on page 2 lang=espanhol
+[NOISE BLOCK] '*010275AM3*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] '• LINGUAGENS, CÓDIGOS E SUAS T'
+[FOUND] QUESTÃO 3 on page 3 lang=espanhol
+[FOUND] QUESTÃO 4 on page 3 lang=espanhol
+[FOUND] QUESTÃO 5 on page 3 lang=espanhol
+[NOISE BLOCK] '*010275AM4*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'LINGUAGENS, CÓDIGOS E SUAS TEC'
+[FOUND] QUESTÃO 7 on page 4 lang=None
+[FOUND] QUESTÃO 8 on page 4 lang=None
+[NOISE BLOCK] '*010275AM5*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] '• LINGUAGENS, CÓDIGOS E SUAS T'
+[FOUND] QUESTÃO 9 on page 5 lang=None
+[FOUND] QUESTÃO 10 on page 5 lang=None
+[FOUND] QUESTÃO 11 on page 5 lang=None
+[NOISE BLOCK] '*010275AM6*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'LINGUAGENS, CÓDIGOS E SUAS TEC'
+[FOUND] QUESTÃO 12 on page 6 lang=None
+[FOUND] QUESTÃO 13 on page 6 lang=None
+[FOUND] QUESTÃO 14 on page 6 lang=None
+[NOISE BLOCK] '*010275AM7*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] '• LINGUAGENS, CÓDIGOS E SUAS T'
+[FOUND] QUESTÃO 15 on page 7 lang=None
+[FOUND] QUESTÃO 16 on page 7 lang=None
+[FOUND] QUESTÃO 17 on page 7 lang=None
+[NOISE BLOCK] '*010275AM8*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'LINGUAGENS, CÓDIGOS E SUAS TEC'
+[FOUND] QUESTÃO 18 on page 8 lang=None
+[FOUND] QUESTÃO 19 on page 8 lang=None
+[NOISE BLOCK] 'TEXTO I\nTEXTO II'
+[NOISE BLOCK] '*010275AM9*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] '• LINGUAGENS, CÓDIGOS E SUAS T'
+[FOUND] QUESTÃO 20 on page 9 lang=None
+[NOISE BLOCK] 'TEXTO I'
+[NOISE BLOCK] 'TEXTO II'
+[FOUND] QUESTÃO 21 on page 9 lang=None
+[NOISE BLOCK] 'TEXTO I'
+[NOISE BLOCK] 'TEXTO II'
+[NOISE BLOCK] '*010275AM10*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'LINGUAGENS, CÓDIGOS E SUAS TEC'
+[FOUND] QUESTÃO 22 on page 10 lang=None
+[FOUND] QUESTÃO 23 on page 10 lang=None
+[FOUND] QUESTÃO 24 on page 10 lang=None
+[NOISE BLOCK] '*010275AM11*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] '• LINGUAGENS, CÓDIGOS E SUAS T'
+[FOUND] QUESTÃO 25 on page 11 lang=None
+[FOUND] QUESTÃO 26 on page 11 lang=None
+[FOUND] QUESTÃO 27 on page 11 lang=None
+[NOISE BLOCK] '*010275AM12*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'LINGUAGENS, CÓDIGOS E SUAS TEC'
+[FOUND] QUESTÃO 28 on page 12 lang=None
+[FOUND] QUESTÃO 29 on page 12 lang=None
+[FOUND] QUESTÃO 30 on page 12 lang=None
+[NOISE BLOCK] '*010275AM13*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] '• LINGUAGENS, CÓDIGOS E SUAS T'
+[FOUND] QUESTÃO 31 on page 13 lang=None
+[FOUND] QUESTÃO 32 on page 13 lang=None
+[FOUND] QUESTÃO 33 on page 13 lang=None
+[NOISE BLOCK] '*010275AM14*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'LINGUAGENS, CÓDIGOS E SUAS TEC'
+[FOUND] QUESTÃO 34 on page 14 lang=None
+[FOUND] QUESTÃO 35 on page 14 lang=None
+[FOUND] QUESTÃO 36 on page 14 lang=None
+[NOISE BLOCK] '*010275AM15*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] '• LINGUAGENS, CÓDIGOS E SUAS T'
+[FOUND] QUESTÃO 37 on page 15 lang=None
+[FOUND] QUESTÃO 38 on page 15 lang=None
+[FOUND] QUESTÃO 39 on page 15 lang=None
+[NOISE BLOCK] '*010275AM16*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'LINGUAGENS, CÓDIGOS E SUAS TEC'
+[FOUND] QUESTÃO 40 on page 16 lang=None
+[FOUND] QUESTÃO 41 on page 16 lang=None
+[FOUND] QUESTÃO 42 on page 16 lang=None
+[NOISE BLOCK] '*010275AM17*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] '• LINGUAGENS, CÓDIGOS E SUAS T'
+[FOUND] QUESTÃO 43 on page 17 lang=None
+[FOUND] QUESTÃO 44 on page 17 lang=None
+[FOUND] QUESTÃO 45 on page 17 lang=None
+[NOISE BLOCK] '*010275AM18*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'LINGUAGENS, CÓDIGOS E SUAS TEC'
+[NOISE BLOCK] 'TEXTO I\nHerança –\u2003o\u2003legado\u2003de\u2003'
+[NOISE BLOCK] 'TEXTO IV\nHistória afro-brasile'
+[NOISE BLOCK] 'TEXTO V\nHistórias para ninar g'
+[NOISE BLOCK] '*010275AM19*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] '•\u2003LINGUAGENS,\u2003CÓDIGOS\u2003E\u2003SUAS\u2003T'
+[NOISE BLOCK] 'CIÊNCIAS HUMANAS E SUAS TECNOL'
+[FOUND] QUESTÃO 46 on page 19 lang=None
+[NOISE BLOCK] 'TEXTO I'
+[FOUND] QUESTÃO 47 on page 19 lang=None
+[FOUND] QUESTÃO 48 on page 19 lang=None
+[NOISE BLOCK] 'TEXTO I'
+[NOISE BLOCK] 'TEXTO II'
+[NOISE BLOCK] '*010275AM20*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'CIÊNCIAS HUMANAS E SUAS TECNOL'
+[FOUND] QUESTÃO 49 on page 20 lang=None
+[NOISE BLOCK] 'TEXTO I'
+[FOUND] QUESTÃO 50 on page 20 lang=None
+[FOUND] QUESTÃO 51 on page 20 lang=None
+[NOISE BLOCK] 'TEXTO I'
+[NOISE BLOCK] 'TEXTO II'
+[FOUND] QUESTÃO 52 on page 20 lang=None
+[NOISE BLOCK] '*010275AM21*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 53 on page 21 lang=None
+[NOISE BLOCK] 'TEXTO I'
+[FOUND] QUESTÃO 54 on page 21 lang=None
+[FOUND] QUESTÃO 55 on page 21 lang=None
+[FOUND] QUESTÃO 56 on page 21 lang=None
+[NOISE BLOCK] '*010275AM22*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'CIÊNCIAS HUMANAS E SUAS TECNOL'
+[FOUND] QUESTÃO 57 on page 22 lang=None
+[NOISE BLOCK] 'TEXTO I'
+[NOISE BLOCK] 'TEXTO II'
+[FOUND] QUESTÃO 58 on page 22 lang=None
+[FOUND] QUESTÃO 59 on page 22 lang=None
+[FOUND] QUESTÃO 60 on page 22 lang=None
+[NOISE BLOCK] '*010275AM23*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 61 on page 23 lang=None
+[FOUND] QUESTÃO 62 on page 23 lang=None
+[FOUND] QUESTÃO 63 on page 23 lang=None
+[FOUND] QUESTÃO 64 on page 23 lang=None
+[NOISE BLOCK] '*010275AM24*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'CIÊNCIAS HUMANAS E SUAS TECNOL'
+[FOUND] QUESTÃO 65 on page 24 lang=None
+[FOUND] QUESTÃO 66 on page 24 lang=None
+[FOUND] QUESTÃO 67 on page 24 lang=None
+[FOUND] QUESTÃO 68 on page 24 lang=None
+[NOISE BLOCK] '*010275AM25*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 69 on page 25 lang=None
+[FOUND] QUESTÃO 70 on page 25 lang=None
+[FOUND] QUESTÃO 71 on page 25 lang=None
+[FOUND] QUESTÃO 72 on page 25 lang=None
+[NOISE BLOCK] '*010275AM26*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'CIÊNCIAS HUMANAS E SUAS TECNOL'
+[FOUND] QUESTÃO 73 on page 26 lang=None
+[NOISE BLOCK] 'TEXTO I'
+[FOUND] QUESTÃO 74 on page 26 lang=None
+[FOUND] QUESTÃO 75 on page 26 lang=None
+[FOUND] QUESTÃO 76 on page 26 lang=None
+[NOISE BLOCK] '*010275AM27*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 77 on page 27 lang=None
+[FOUND] QUESTÃO 78 on page 27 lang=None
+[FOUND] QUESTÃO 79 on page 27 lang=None
+[NOISE BLOCK] '*010275AM28*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'CIÊNCIAS HUMANAS E SUAS TECNOL'
+[FOUND] QUESTÃO 80 on page 28 lang=None
+[FOUND] QUESTÃO 81 on page 28 lang=None
+[FOUND] QUESTÃO 82 on page 28 lang=None
+[FOUND] QUESTÃO 83 on page 28 lang=None
+[NOISE BLOCK] '*010275AM29*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 84 on page 29 lang=None
+[FOUND] QUESTÃO 85 on page 29 lang=None
+[FOUND] QUESTÃO 86 on page 29 lang=None
+[NOISE BLOCK] 'TEXTO I'
+[NOISE BLOCK] 'TEXTO II'
+[NOISE BLOCK] '*010275AM30*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'CIÊNCIAS HUMANAS E SUAS TECNOL'
+[FOUND] QUESTÃO 87 on page 30 lang=None
+[FOUND] QUESTÃO 88 on page 30 lang=None
+[FOUND] QUESTÃO 89 on page 30 lang=None
+[FOUND] QUESTÃO 90 on page 30 lang=None
+[NOISE BLOCK] '*010275AM31*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] '1'
+[NOISE BLOCK] '2'
+[NOISE BLOCK] '3'
+[NOISE BLOCK] '4'
+[NOISE BLOCK] '5'
+[NOISE BLOCK] '6'
+[NOISE BLOCK] '7'
+[NOISE BLOCK] '8'
+[NOISE BLOCK] '9'
+[NOISE BLOCK] '10'
+[NOISE BLOCK] '11'
+[NOISE BLOCK] '12'
+[NOISE BLOCK] '13'
+[NOISE BLOCK] '14'
+[NOISE BLOCK] '15'
+[NOISE BLOCK] '16'
+[NOISE BLOCK] '17'
+[NOISE BLOCK] '18'
+[NOISE BLOCK] '19'
+[NOISE BLOCK] '20'
+[NOISE BLOCK] '21'
+[NOISE BLOCK] '22'
+[NOISE BLOCK] '23'
+[NOISE BLOCK] '24'
+[NOISE BLOCK] '25'
+[NOISE BLOCK] '26'
+[NOISE BLOCK] '27'
+[NOISE BLOCK] '28'
+[NOISE BLOCK] '29'
+[NOISE BLOCK] '30'
+[NOISE BLOCK] '02'
+[NOISE BLOCK] '01'
+[NOISE BLOCK] '*010275AM32*'
+[NOISE BLOCK] 'M2024ENEM2024ENEM2024ENEM2024E'
+[NOISE BLOCK] 'M2024ENEM2024ENEM2024ENEM2024E'
+[NOISE BLOCK] 'M2024ENEM2024ENEM2024ENEM2024E'
+[NOISE BLOCK] '5'
+[NOISE BLOCK] 'AMARELO'
+[NOISE BLOCK] '2º DIA\n01'
+[NOISE BLOCK] '*020125AM1*'
+[FOUND] QUESTÃO 92 on page 1 lang=None
+[FOUND] QUESTÃO 93 on page 1 lang=None
+[FOUND] QUESTÃO 94 on page 1 lang=None
+[NOISE BLOCK] '*020125AM2*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'CIÊNCIAS DA NATUREZA E SUAS TE'
+[FOUND] QUESTÃO 95 on page 2 lang=None
+[FOUND] QUESTÃO 96 on page 2 lang=None
+[FOUND] QUESTÃO 97 on page 2 lang=None
+[NOISE BLOCK] '*020125AM3*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 98 on page 3 lang=None
+[FOUND] QUESTÃO 99 on page 3 lang=None
+[FOUND] QUESTÃO 100 on page 3 lang=None
+[NOISE BLOCK] 'A'
+[NOISE BLOCK] 'B'
+[NOISE BLOCK] 'C'
+[NOISE BLOCK] 'D'
+[NOISE BLOCK] 'E'
+[NOISE BLOCK] '*020125AM4*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'CIÊNCIAS DA NATUREZA E SUAS TE'
+[FOUND] QUESTÃO 101 on page 4 lang=None
+[FOUND] QUESTÃO 102 on page 4 lang=None
+[FOUND] QUESTÃO 103 on page 4 lang=None
+[NOISE BLOCK] '*020125AM5*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 104 on page 5 lang=None
+[FOUND] QUESTÃO 105 on page 5 lang=None
+[FOUND] QUESTÃO 106 on page 5 lang=None
+[NOISE BLOCK] 'A'
+[NOISE BLOCK] 'B'
+[NOISE BLOCK] 'C'
+[NOISE BLOCK] 'D'
+[NOISE BLOCK] 'E'
+[NOISE BLOCK] '*020125AM6*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'CIÊNCIAS DA NATUREZA E SUAS TE'
+[FOUND] QUESTÃO 107 on page 6 lang=None
+[FOUND] QUESTÃO 108 on page 6 lang=None
+[NOISE BLOCK] '*020125AM7*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 109 on page 7 lang=None
+[NOISE BLOCK] 'A'
+[NOISE BLOCK] 'B'
+[NOISE BLOCK] 'C'
+[NOISE BLOCK] 'D'
+[NOISE BLOCK] 'E'
+[FOUND] QUESTÃO 110 on page 7 lang=None
+[FOUND] QUESTÃO 111 on page 7 lang=None
+[NOISE BLOCK] '*020125AM8*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'CIÊNCIAS DA NATUREZA E SUAS TE'
+[FOUND] QUESTÃO 112 on page 8 lang=None
+[NOISE BLOCK] 'Nimesulida'
+[FOUND] QUESTÃO 113 on page 8 lang=None
+[FOUND] QUESTÃO 114 on page 8 lang=None
+[FOUND] QUESTÃO 115 on page 8 lang=None
+[NOISE BLOCK] '*020125AM9*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 116 on page 9 lang=None
+[FOUND] QUESTÃO 117 on page 9 lang=None
+[FOUND] QUESTÃO 118 on page 9 lang=None
+[NOISE BLOCK] '*020125AM10*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'CIÊNCIAS DA NATUREZA E SUAS TE'
+[FOUND] QUESTÃO 119 on page 10 lang=None
+[FOUND] QUESTÃO 120 on page 10 lang=None
+[FOUND] QUESTÃO 121 on page 10 lang=None
+[NOISE BLOCK] '*020125AM11*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 122 on page 11 lang=None
+[FOUND] QUESTÃO 123 on page 11 lang=None
+[NOISE BLOCK] '*020125AM12*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'CIÊNCIAS DA NATUREZA E SUAS TE'
+[FOUND] QUESTÃO 124 on page 12 lang=None
+[FOUND] QUESTÃO 125 on page 12 lang=None
+[FOUND] QUESTÃO 126 on page 12 lang=None
+[FOUND] QUESTÃO 127 on page 12 lang=None
+[NOISE BLOCK] '*020125AM13*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 128 on page 13 lang=None
+[FOUND] QUESTÃO 129 on page 13 lang=None
+[FOUND] QUESTÃO 130 on page 13 lang=None
+[FOUND] QUESTÃO 131 on page 13 lang=None
+[FOUND] QUESTÃO 132 on page 13 lang=None
+[NOISE BLOCK] '*020125AM14*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'CIÊNCIAS DA NATUREZA E SUAS TE'
+[FOUND] QUESTÃO 133 on page 14 lang=None
+[FOUND] QUESTÃO 134 on page 14 lang=None
+[FOUND] QUESTÃO 135 on page 14 lang=None
+[NOISE BLOCK] 'A'
+[NOISE BLOCK] 'B'
+[NOISE BLOCK] 'C'
+[NOISE BLOCK] 'D'
+[NOISE BLOCK] 'E'
+[NOISE BLOCK] '*020125AM15*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 136 on page 15 lang=None
+[FOUND] QUESTÃO 137 on page 15 lang=None
+[FOUND] QUESTÃO 138 on page 15 lang=None
+[FOUND] QUESTÃO 139 on page 15 lang=None
+[NOISE BLOCK] 'B'
+[NOISE BLOCK] '7'
+[NOISE BLOCK] 'C'
+[NOISE BLOCK] '7'
+[NOISE BLOCK] '6'
+[NOISE BLOCK] '!'
+[NOISE BLOCK] '��'
+[NOISE BLOCK] '��'
+[NOISE BLOCK] '*020125AM16*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'MATEMÁTICA E SUAS TECNOLOGIAS '
+[FOUND] QUESTÃO 140 on page 16 lang=None
+[FOUND] QUESTÃO 141 on page 16 lang=None
+[FOUND] QUESTÃO 142 on page 16 lang=None
+[NOISE BLOCK] '*020125AM17*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 143 on page 17 lang=None
+[FOUND] QUESTÃO 144 on page 17 lang=None
+[FOUND] QUESTÃO 145 on page 17 lang=None
+[NOISE BLOCK] '*020125AM18*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'MATEMÁTICA E SUAS TECNOLOGIAS '
+[FOUND] QUESTÃO 146 on page 18 lang=None
+[NOISE BLOCK] 'A'
+[NOISE BLOCK] 'B'
+[NOISE BLOCK] 'C'
+[NOISE BLOCK] 'D'
+[NOISE BLOCK] 'E'
+[NOISE BLOCK] '*020125AM19*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 147 on page 19 lang=None
+[NOISE BLOCK] '24'
+[NOISE BLOCK] '.'
+[NOISE BLOCK] '16'
+[NOISE BLOCK] '.'
+[NOISE BLOCK] '36'
+[NOISE BLOCK] '.'
+[NOISE BLOCK] '4'
+[NOISE BLOCK] '.'
+[FOUND] QUESTÃO 148 on page 19 lang=None
+[NOISE BLOCK] '*020125AM20*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'MATEMÁTICA E SUAS TECNOLOGIAS '
+[FOUND] QUESTÃO 149 on page 20 lang=None
+[FOUND] QUESTÃO 150 on page 20 lang=None
+[NOISE BLOCK] '1'
+[NOISE BLOCK] '*020125AM21*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 151 on page 21 lang=None
+[FOUND] QUESTÃO 152 on page 21 lang=None
+[NOISE BLOCK] '*020125AM22*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'MATEMÁTICA E SUAS TECNOLOGIAS '
+[FOUND] QUESTÃO 153 on page 22 lang=None
+[NOISE BLOCK] 'A'
+[NOISE BLOCK] 'B'
+[NOISE BLOCK] 'C'
+[NOISE BLOCK] 'D'
+[NOISE BLOCK] 'E'
+[NOISE BLOCK] '*020125AM23*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 154 on page 23 lang=None
+[FOUND] QUESTÃO 155 on page 23 lang=None
+[FOUND] QUESTÃO 156 on page 23 lang=None
+[NOISE BLOCK] '*020125AM24*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'MATEMÁTICA E SUAS TECNOLOGIAS '
+[FOUND] QUESTÃO 157 on page 24 lang=None
+[FOUND] QUESTÃO 158 on page 24 lang=None
+[NOISE BLOCK] 'mL'
+[NOISE BLOCK] 's'
+[NOISE BLOCK] '2'
+[FOUND] QUESTÃO 159 on page 24 lang=None
+[FOUND] QUESTÃO 160 on page 24 lang=None
+[NOISE BLOCK] '*020125AM25*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 161 on page 25 lang=None
+[FOUND] QUESTÃO 162 on page 25 lang=None
+[NOISE BLOCK] 'A'
+[NOISE BLOCK] 'B'
+[NOISE BLOCK] 'C'
+[NOISE BLOCK] 'D'
+[NOISE BLOCK] 'E'
+[NOISE BLOCK] '*020125AM26*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'MATEMÁTICA E SUAS TECNOLOGIAS '
+[FOUND] QUESTÃO 163 on page 26 lang=None
+[FOUND] QUESTÃO 164 on page 26 lang=None
+[FOUND] QUESTÃO 165 on page 26 lang=None
+[NOISE BLOCK] '*020125AM27*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 166 on page 27 lang=None
+[FOUND] QUESTÃO 167 on page 27 lang=None
+[FOUND] QUESTÃO 168 on page 27 lang=None
+[NOISE BLOCK] '*020125AM28*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'MATEMÁTICA E SUAS TECNOLOGIAS '
+[FOUND] QUESTÃO 169 on page 28 lang=None
+[FOUND] QUESTÃO 170 on page 28 lang=None
+[FOUND] QUESTÃO 171 on page 28 lang=None
+[FOUND] QUESTÃO 172 on page 28 lang=None
+[NOISE BLOCK] '*020125AM29*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[FOUND] QUESTÃO 173 on page 29 lang=None
+[FOUND] QUESTÃO 174 on page 29 lang=None
+[FOUND] QUESTÃO 175 on page 29 lang=None
+[FOUND] QUESTÃO 176 on page 29 lang=None
+[NOISE BLOCK] '*020125AM30*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'MATEMÁTICA E SUAS TECNOLOGIAS '
+[FOUND] QUESTÃO 177 on page 30 lang=None
+[FOUND] QUESTÃO 178 on page 30 lang=None
+[FOUND] QUESTÃO 179 on page 30 lang=None
+[FOUND] QUESTÃO 180 on page 30 lang=None
+[NOISE BLOCK] '*020125AM31*'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
+[NOISE BLOCK] '01'
+[NOISE BLOCK] '02'
+[NOISE BLOCK] '*020125AM32*'
+
+Found 179 question groups
+  Regular: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+  Inglês 1-5: [1, 2, 3]
+  Espanhol 1-5: [3, 4, 5]
+
+============================================================
+PROCESSING Q1 (ingles)
+============================================================
+
+>>> build_question_new called for Q1
+
+============================================================
+PROCESSING Q2 (ingles)
+============================================================
+
+>>> build_question_new called for Q2
+
+============================================================
+PROCESSING Q3 (ingles)
+============================================================
+
+>>> build_question_new called for Q3
+
+============================================================
+PROCESSING Q3 (espanhol)
+============================================================
+
+>>> build_question_new called for Q3
+
+============================================================
+PROCESSING Q4 (espanhol)
+============================================================
+
+>>> build_question_new called for Q4
+
+============================================================
+PROCESSING Q5 (espanhol)
+============================================================
+
+>>> build_question_new called for Q5
+
+============================================================
+PROCESSING Q7
+============================================================
+
+>>> build_question_new called for Q7
+
+============================================================
+PROCESSING Q8
+============================================================
+
+>>> build_question_new called for Q8
+
+============================================================
+PROCESSING Q9
+============================================================
+
+>>> build_question_new called for Q9
+
+============================================================
+PROCESSING Q10
+============================================================
+
+>>> build_question_new called for Q10
+
+============================================================
+PROCESSING Q11
+============================================================
+
+>>> build_question_new called for Q11
+
+============================================================
+PROCESSING Q12
+============================================================
+
+>>> build_question_new called for Q12
+
+============================================================
+PROCESSING Q13
+============================================================
+
+>>> build_question_new called for Q13
+
+============================================================
+PROCESSING Q14
+============================================================
+
+>>> build_question_new called for Q14
+
+============================================================
+PROCESSING Q15
+============================================================
+
+>>> build_question_new called for Q15
+
+============================================================
+PROCESSING Q16
+============================================================
+
+>>> build_question_new called for Q16
+
+============================================================
+PROCESSING Q17
+============================================================
+
+>>> build_question_new called for Q17
+
+============================================================
+PROCESSING Q18
+============================================================
+
+>>> build_question_new called for Q18
+
+============================================================
+PROCESSING Q19
+============================================================
+
+>>> build_question_new called for Q19
+
+============================================================
+PROCESSING Q20
+============================================================
+
+>>> build_question_new called for Q20
+
+============================================================
+PROCESSING Q21
+============================================================
+
+>>> build_question_new called for Q21
+
+============================================================
+PROCESSING Q22
+============================================================
+
+>>> build_question_new called for Q22
+
+============================================================
+PROCESSING Q23
+============================================================
+
+>>> build_question_new called for Q23
+
+============================================================
+PROCESSING Q24
+============================================================
+
+>>> build_question_new called for Q24
+
+============================================================
+PROCESSING Q25
+============================================================
+
+>>> build_question_new called for Q25
+
+============================================================
+PROCESSING Q26
+============================================================
+
+>>> build_question_new called for Q26
+
+============================================================
+PROCESSING Q27
+============================================================
+
+>>> build_question_new called for Q27
+
+============================================================
+PROCESSING Q28
+============================================================
+
+>>> build_question_new called for Q28
+
+============================================================
+PROCESSING Q29
+============================================================
+
+>>> build_question_new called for Q29
+
+============================================================
+PROCESSING Q30
+============================================================
+
+>>> build_question_new called for Q30
+
+============================================================
+PROCESSING Q31
+============================================================
+
+>>> build_question_new called for Q31
+
+============================================================
+PROCESSING Q32
+============================================================
+
+>>> build_question_new called for Q32
+
+============================================================
+PROCESSING Q33
+============================================================
+
+>>> build_question_new called for Q33
+
+============================================================
+PROCESSING Q34
+============================================================
+
+>>> build_question_new called for Q34
+
+============================================================
+PROCESSING Q35
+============================================================
+
+>>> build_question_new called for Q35
+
+============================================================
+PROCESSING Q36
+============================================================
+
+>>> build_question_new called for Q36
+
+============================================================
+PROCESSING Q37
+============================================================
+
+>>> build_question_new called for Q37
+
+============================================================
+PROCESSING Q38
+============================================================
+
+>>> build_question_new called for Q38
+
+============================================================
+PROCESSING Q39
+============================================================
+
+>>> build_question_new called for Q39
+
+============================================================
+PROCESSING Q40
+============================================================
+
+>>> build_question_new called for Q40
+
+============================================================
+PROCESSING Q41
+============================================================
+
+>>> build_question_new called for Q41
+
+============================================================
+PROCESSING Q42
+============================================================
+
+>>> build_question_new called for Q42
+
+============================================================
+PROCESSING Q43
+============================================================
+
+>>> build_question_new called for Q43
+
+============================================================
+PROCESSING Q44
+============================================================
+
+>>> build_question_new called for Q44
+
+============================================================
+PROCESSING Q45
+============================================================
+
+>>> build_question_new called for Q45
+
+============================================================
+PROCESSING Q46
+============================================================
+
+>>> build_question_new called for Q46
+
+============================================================
+PROCESSING Q47
+============================================================
+
+>>> build_question_new called for Q47
+
+============================================================
+PROCESSING Q48
+============================================================
+
+>>> build_question_new called for Q48
+
+============================================================
+PROCESSING Q49
+============================================================
+
+>>> build_question_new called for Q49
+
+============================================================
+PROCESSING Q50
+============================================================
+
+>>> build_question_new called for Q50
+
+============================================================
+PROCESSING Q51
+============================================================
+
+>>> build_question_new called for Q51
+
+============================================================
+PROCESSING Q52
+============================================================
+
+>>> build_question_new called for Q52
+
+============================================================
+PROCESSING Q53
+============================================================
+
+>>> build_question_new called for Q53
+
+============================================================
+PROCESSING Q54
+============================================================
+
+>>> build_question_new called for Q54
+
+============================================================
+PROCESSING Q55
+============================================================
+
+>>> build_question_new called for Q55
+
+============================================================
+PROCESSING Q56
+============================================================
+
+>>> build_question_new called for Q56
+
+============================================================
+PROCESSING Q57
+============================================================
+
+>>> build_question_new called for Q57
+
+============================================================
+PROCESSING Q58
+============================================================
+
+>>> build_question_new called for Q58
+
+============================================================
+PROCESSING Q59
+============================================================
+
+>>> build_question_new called for Q59
+
+============================================================
+PROCESSING Q60
+============================================================
+
+>>> build_question_new called for Q60
+
+============================================================
+PROCESSING Q61
+============================================================
+
+>>> build_question_new called for Q61
+
+============================================================
+PROCESSING Q62
+============================================================
+
+>>> build_question_new called for Q62
+
+============================================================
+PROCESSING Q63
+============================================================
+
+>>> build_question_new called for Q63
+
+============================================================
+PROCESSING Q64
+============================================================
+
+>>> build_question_new called for Q64
+
+============================================================
+PROCESSING Q65
+============================================================
+
+>>> build_question_new called for Q65
+
+============================================================
+PROCESSING Q66
+============================================================
+
+>>> build_question_new called for Q66
+
+============================================================
+PROCESSING Q67
+============================================================
+
+>>> build_question_new called for Q67
+
+============================================================
+PROCESSING Q68
+============================================================
+
+>>> build_question_new called for Q68
+
+============================================================
+PROCESSING Q69
+============================================================
+
+>>> build_question_new called for Q69
+
+============================================================
+PROCESSING Q70
+============================================================
+
+>>> build_question_new called for Q70
+
+============================================================
+PROCESSING Q71
+============================================================
+
+>>> build_question_new called for Q71
+
+============================================================
+PROCESSING Q72
+============================================================
+
+>>> build_question_new called for Q72
+
+============================================================
+PROCESSING Q73
+============================================================
+
+>>> build_question_new called for Q73
+
+============================================================
+PROCESSING Q74
+============================================================
+
+>>> build_question_new called for Q74
+
+============================================================
+PROCESSING Q75
+============================================================
+
+>>> build_question_new called for Q75
+
+============================================================
+PROCESSING Q76
+============================================================
+
+>>> build_question_new called for Q76
+
+============================================================
+PROCESSING Q77
+============================================================
+
+>>> build_question_new called for Q77
+
+============================================================
+PROCESSING Q78
+============================================================
+
+>>> build_question_new called for Q78
+
+============================================================
+PROCESSING Q79
+============================================================
+
+>>> build_question_new called for Q79
+
+============================================================
+PROCESSING Q80
+============================================================
+
+>>> build_question_new called for Q80
+
+============================================================
+PROCESSING Q81
+============================================================
+
+>>> build_question_new called for Q81
+
+============================================================
+PROCESSING Q82
+============================================================
+
+>>> build_question_new called for Q82
+
+============================================================
+PROCESSING Q83
+============================================================
+
+>>> build_question_new called for Q83
+
+============================================================
+PROCESSING Q84
+============================================================
+
+>>> build_question_new called for Q84
+
+============================================================
+PROCESSING Q85
+============================================================
+
+>>> build_question_new called for Q85
+
+============================================================
+PROCESSING Q86
+============================================================
+
+>>> build_question_new called for Q86
+
+============================================================
+PROCESSING Q87
+============================================================
+
+>>> build_question_new called for Q87
+
+============================================================
+PROCESSING Q88
+============================================================
+
+>>> build_question_new called for Q88
+
+============================================================
+PROCESSING Q89
+============================================================
+
+>>> build_question_new called for Q89
+
+============================================================
+PROCESSING Q90
+============================================================
+
+>>> build_question_new called for Q90
+
+============================================================
+PROCESSING Q92
+============================================================
+
+>>> build_question_new called for Q92
+
+============================================================
+PROCESSING Q93
+============================================================
+
+>>> build_question_new called for Q93
+
+============================================================
+PROCESSING Q94
+============================================================
+
+>>> build_question_new called for Q94
+
+============================================================
+PROCESSING Q95
+============================================================
+
+>>> build_question_new called for Q95
+
+============================================================
+PROCESSING Q96
+============================================================
+
+>>> build_question_new called for Q96
+
+============================================================
+PROCESSING Q97
+============================================================
+
+>>> build_question_new called for Q97
+
+============================================================
+PROCESSING Q98
+============================================================
+
+>>> build_question_new called for Q98
+
+============================================================
+PROCESSING Q99
+============================================================
+
+>>> build_question_new called for Q99
+
+============================================================
+PROCESSING Q100
+============================================================
+
+>>> build_question_new called for Q100
+
+============================================================
+PROCESSING Q101
+============================================================
+
+>>> build_question_new called for Q101
+
+============================================================
+PROCESSING Q102
+============================================================
+
+>>> build_question_new called for Q102
+
+============================================================
+PROCESSING Q103
+============================================================
+
+>>> build_question_new called for Q103
+
+============================================================
+PROCESSING Q104
+============================================================
+
+>>> build_question_new called for Q104
+
+============================================================
+PROCESSING Q105
+============================================================
+
+>>> build_question_new called for Q105
+
+============================================================
+PROCESSING Q106
+============================================================
+
+>>> build_question_new called for Q106
+
+============================================================
+PROCESSING Q107
+============================================================
+
+>>> build_question_new called for Q107
+
+============================================================
+PROCESSING Q108
+============================================================
+
+>>> build_question_new called for Q108
+
+============================================================
+PROCESSING Q109
+============================================================
+
+>>> build_question_new called for Q109
+
+============================================================
+PROCESSING Q110
+============================================================
+
+>>> build_question_new called for Q110
+
+============================================================
+PROCESSING Q111
+============================================================
+
+>>> build_question_new called for Q111
+
+============================================================
+PROCESSING Q112
+============================================================
+
+>>> build_question_new called for Q112
+
+============================================================
+PROCESSING Q113
+============================================================
+
+>>> build_question_new called for Q113
+
+============================================================
+PROCESSING Q114
+============================================================
+
+>>> build_question_new called for Q114
+
+============================================================
+PROCESSING Q115
+============================================================
+
+>>> build_question_new called for Q115
+
+============================================================
+PROCESSING Q116
+============================================================
+
+>>> build_question_new called for Q116
+
+============================================================
+PROCESSING Q117
+============================================================
+
+>>> build_question_new called for Q117
+
+============================================================
+PROCESSING Q118
+============================================================
+
+>>> build_question_new called for Q118
+
+============================================================
+PROCESSING Q119
+============================================================
+
+>>> build_question_new called for Q119
+
+============================================================
+PROCESSING Q120
+============================================================
+
+>>> build_question_new called for Q120
+
+============================================================
+PROCESSING Q121
+============================================================
+
+>>> build_question_new called for Q121
+
+============================================================
+PROCESSING Q122
+============================================================
+
+>>> build_question_new called for Q122
+
+============================================================
+PROCESSING Q123
+============================================================
+
+>>> build_question_new called for Q123
+
+============================================================
+PROCESSING Q124
+============================================================
+
+>>> build_question_new called for Q124
+
+============================================================
+PROCESSING Q125
+============================================================
+
+>>> build_question_new called for Q125
+
+============================================================
+PROCESSING Q126
+============================================================
+
+>>> build_question_new called for Q126
+
+============================================================
+PROCESSING Q127
+============================================================
+
+>>> build_question_new called for Q127
+
+============================================================
+PROCESSING Q128
+============================================================
+
+>>> build_question_new called for Q128
+
+============================================================
+PROCESSING Q129
+============================================================
+
+>>> build_question_new called for Q129
+
+============================================================
+PROCESSING Q130
+============================================================
+
+>>> build_question_new called for Q130
+
+============================================================
+PROCESSING Q131
+============================================================
+
+>>> build_question_new called for Q131
+
+============================================================
+PROCESSING Q132
+============================================================
+
+>>> build_question_new called for Q132
+
+============================================================
+PROCESSING Q133
+============================================================
+
+>>> build_question_new called for Q133
+
+============================================================
+PROCESSING Q134
+============================================================
+
+>>> build_question_new called for Q134
+
+============================================================
+PROCESSING Q135
+============================================================
+
+>>> build_question_new called for Q135
+
+============================================================
+PROCESSING Q136
+============================================================
+
+>>> build_question_new called for Q136
+
+============================================================
+PROCESSING Q137
+============================================================
+
+>>> build_question_new called for Q137
+
+============================================================
+PROCESSING Q138
+============================================================
+
+>>> build_question_new called for Q138
+
+============================================================
+PROCESSING Q139
+============================================================
+
+>>> build_question_new called for Q139
+
+============================================================
+PROCESSING Q140
+============================================================
+
+>>> build_question_new called for Q140
+
+============================================================
+PROCESSING Q141
+============================================================
+
+>>> build_question_new called for Q141
+
+============================================================
+PROCESSING Q142
+============================================================
+
+>>> build_question_new called for Q142
+
+============================================================
+PROCESSING Q143
+============================================================
+
+>>> build_question_new called for Q143
+
+============================================================
+PROCESSING Q144
+============================================================
+
+>>> build_question_new called for Q144
+
+============================================================
+PROCESSING Q145
+============================================================
+
+>>> build_question_new called for Q145
+
+============================================================
+PROCESSING Q146
+============================================================
+
+>>> build_question_new called for Q146
+
+============================================================
+PROCESSING Q147
+============================================================
+
+>>> build_question_new called for Q147
+
+============================================================
+PROCESSING Q148
+============================================================
+
+>>> build_question_new called for Q148
+
+============================================================
+PROCESSING Q149
+============================================================
+
+>>> build_question_new called for Q149
+
+============================================================
+PROCESSING Q150
+============================================================
+
+>>> build_question_new called for Q150
+
+============================================================
+PROCESSING Q151
+============================================================
+
+>>> build_question_new called for Q151
+
+============================================================
+PROCESSING Q152
+============================================================
+
+>>> build_question_new called for Q152
+
+============================================================
+PROCESSING Q153
+============================================================
+
+>>> build_question_new called for Q153
+
+============================================================
+PROCESSING Q154
+============================================================
+
+>>> build_question_new called for Q154
+
+============================================================
+PROCESSING Q155
+============================================================
+
+>>> build_question_new called for Q155
+
+============================================================
+PROCESSING Q156
+============================================================
+
+>>> build_question_new called for Q156
+
+============================================================
+PROCESSING Q157
+============================================================
+
+>>> build_question_new called for Q157
+
+============================================================
+PROCESSING Q158
+============================================================
+
+>>> build_question_new called for Q158
+
+============================================================
+PROCESSING Q159
+============================================================
+
+>>> build_question_new called for Q159
+
+============================================================
+PROCESSING Q160
+============================================================
+
+>>> build_question_new called for Q160
+
+============================================================
+PROCESSING Q161
+============================================================
+
+>>> build_question_new called for Q161
+
+============================================================
+PROCESSING Q162
+============================================================
+
+>>> build_question_new called for Q162
+
+============================================================
+PROCESSING Q163
+============================================================
+
+>>> build_question_new called for Q163
+
+============================================================
+PROCESSING Q164
+============================================================
+
+>>> build_question_new called for Q164
+
+============================================================
+PROCESSING Q165
+============================================================
+
+>>> build_question_new called for Q165
+
+============================================================
+PROCESSING Q166
+============================================================
+
+>>> build_question_new called for Q166
+
+============================================================
+PROCESSING Q167
+============================================================
+
+>>> build_question_new called for Q167
+
+============================================================
+PROCESSING Q168
+============================================================
+
+>>> build_question_new called for Q168
+
+============================================================
+PROCESSING Q169
+============================================================
+
+>>> build_question_new called for Q169
+
+============================================================
+PROCESSING Q170
+============================================================
+
+>>> build_question_new called for Q170
+
+============================================================
+PROCESSING Q171
+============================================================
+
+>>> build_question_new called for Q171
+
+============================================================
+PROCESSING Q172
+============================================================
+
+>>> build_question_new called for Q172
+
+============================================================
+PROCESSING Q173
+============================================================
+
+>>> build_question_new called for Q173
+
+============================================================
+PROCESSING Q174
+============================================================
+
+>>> build_question_new called for Q174
+
+============================================================
+PROCESSING Q175
+============================================================
+
+>>> build_question_new called for Q175
+
+============================================================
+PROCESSING Q176
+============================================================
+
+>>> build_question_new called for Q176
+
+============================================================
+PROCESSING Q177
+============================================================
+
+>>> build_question_new called for Q177
+
+============================================================
+PROCESSING Q178
+============================================================
+
+>>> build_question_new called for Q178
+
+============================================================
+PROCESSING Q179
+============================================================
+
+>>> build_question_new called for Q179
+
+============================================================
+PROCESSING Q180
+============================================================
+
+>>> build_question_new called for Q180

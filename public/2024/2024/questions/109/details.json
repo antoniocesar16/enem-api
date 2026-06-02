@@ -1,0 +1,50 @@
+{
+  "title": "Questão 109 - ENEM 2024",
+  "index": 109,
+  "year": 2024,
+  "language": null,
+  "discipline": "ciencias-natureza",
+  "context": "\n\n\n\n\n\n\n\n\n\n\n\nO LED é um dispositivo eletrônico que conduz corrente \nelétrica em um único sentido, sendo caracterizado por uma \ntensão e uma corrente máxima de funcionamento, Imáx. Um LED \nacende apenas se a corrente que o percorre está no sentido \npermitido e se a diferença de potencial à qual está submetido \né igual ou superior à sua tensão de funcionamento. A figura \nilustra o símbolo do LED usado na representação de circuitos.\n\nUm estudante de física analisa as propriedades do LED \nem um circuito simples de corrente contínua. Ele dispõe dos \nseguintes materiais: uma bateria ideal de 4,5 V; dois LEDs \nde tensão 3,0 V e Imáx = 1,0 mA cada; e dois resistores de \n1,5 kΩ cada.\n\n![](image-1.png)\n\n![](image-2.png)\n\n![](image-3.png)\n\n![](image-4.png)\n\n![](image-5.png)\n\n![](image-6.png)",
+  "files": [
+    "image-1.png",
+    "image-2.png",
+    "image-3.png",
+    "image-4.png",
+    "image-5.png",
+    "image-6.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "O circuito que o estudante pode montar, para que ambos os \nLEDs fiquem acesos e cada um seja percorrido por Imáx, é",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

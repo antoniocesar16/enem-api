@@ -1,0 +1,46 @@
+{
+  "title": "Questão 151 - ENEM 2025",
+  "index": 151,
+  "year": 2025,
+  "language": null,
+  "discipline": "matematica",
+  "context": "\n\n\n\nQUESTãO 151\n\n![](image-1.png)\n\n![](image-2.png)",
+  "files": [
+    "image-1.png",
+    "image-2.png"
+  ],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "QUESTãO 151",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}

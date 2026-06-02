@@ -1,0 +1,43 @@
+{
+  "title": "Questão 37 - ENEM 2024",
+  "index": 37,
+  "year": 2024,
+  "language": null,
+  "discipline": "linguagens",
+  "context": "QUESTÃO 37\n\nAs reações à sétima temporada foram o ápice do último \nestágio em Game of Thrones. De forma alguma, este que \nvos fala seria capaz de argumentar que a série é perfeita, \nmas os defeitos que existem aqui sempre existiram, de uma \nforma ou de outra, durante os sete anos em que ela esteve \nno ar. Os dois roteiristas foram brilhantes em traduzir os \npersonagens intrincados e conflituosos da obra de George \nR. R. Martin, mas nunca souberam exatamente como fazer \njus a eles (e especialmente a elas, as mulheres da trama).",
+  "files": [],
+  "correctAlternative": "B",
+  "alternativesIntroduction": "As reações à sétima temporada foram o ápice do último \nestágio em Game of Thrones. De forma alguma, este que \nvos fala seria capaz de argumentar que a série é perfeita, \nmas os defeitos que existem aqui sempre existiram, de uma \nforma ou de outra, durante os sete anos em que ela esteve \nno ar. Os dois roteiristas foram brilhantes em traduzir os \npersonagens intrincados e conflituosos da obra de George \nR. R. Martin, mas nunca souberam exatamente como fazer \njus a eles (e especialmente a elas, as mulheres da trama).",
+  "alternatives": [
+    {
+      "letter": "A",
+      "text": "marcas de impessoalidade que disfarçam a opinião do especialista.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "B",
+      "text": "expressões adversativas para fazer ressalvas às afirmações elogiosas.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
+      "letter": "C",
+      "text": "interlocução com o leitor para corroborar opiniões contrárias à adaptação.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "D",
+      "text": "eufemismos que minimizam as críticas feitas à construção das personagens.",
+      "file": null,
+      "isCorrect": false
+    },
+    {
+      "letter": "E",
+      "text": "antíteses que opõem a fragilidade do roteiro à beleza da trilha sonora da série.",
+      "file": null,
+      "isCorrect": false
+    }
+  ]
+}
