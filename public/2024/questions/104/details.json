@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "B",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Nessa situação, em quantos minutos o nadador completará \na prova?",
   "alternatives": [
     {

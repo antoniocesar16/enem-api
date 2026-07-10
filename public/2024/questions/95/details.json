@@ -4,12 +4,14 @@
   "year": 2024,
   "language": null,
   "discipline": "ciencias-natureza",
-  "context": "\n\nQUESTÃO 95\n\n![](image-1.png)",
+  "context": "\n\nQUESTÃO 95\n\nA tirinha ilustra esquimós dentro de um iglu, habitação  \nde formato hemisférico construída durante o inverno a partir de \nneve ou blocos de gelo. Essa estrutura de construção se justifica \npelo fato de esse povo habitar as regiões mais setentrionais \nda Groenlândia, Canadá e Alasca.\n\nLAERTE. Disponível em: https://artedafisicapibid.blogspot.com. \nAcesso em: 4 dez. 2021 (adaptado).\n\nNa tirinha, a geladeira é necessária para fazer gelo porque\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "A",
-  "alternativesIntroduction": "QUESTÃO 95",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "Na tirinha, a geladeira é necessária para fazer gelo porque",
   "alternatives": [
     {
       "letter": "A",

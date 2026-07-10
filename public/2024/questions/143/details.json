@@ -7,6 +7,8 @@
   "context": "QUESTÃO 143\n\nUma imobiliária iniciou uma campanha de divulgação \npara promover a venda de apartamentos que podem ser \npagos em 100 parcelas mensais. O valor da primeira delas \né fixado no momento da compra, com o pagamento dessa \nprimeira parcela. A partir da segunda parcela, o valor é \ndeterminado pela aplicação de um acréscimo percentual \nfixo ao valor da parcela anterior. Como atrativo, a imobiliária \nfará o pagamento de todas as parcelas correspondentes \nao mês de aniversário do comprador.\nUm cliente, que faz aniversário no mês de maio, \ndecidiu comprar um desses apartamentos por meio do \nfinanciamento oferecido pela imobiliária, e pretende escolher \no mês mais adequado para realizar essa compra, de modo \nque o valor total dos pagamentos seja o menor possível.\n\nQual é o mês que esse cliente deverá escolher para \nrealizar a compra do apartamento?",
   "files": [],
   "correctAlternative": "A",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Qual é o mês que esse cliente deverá escolher para \nrealizar a compra do apartamento?",
   "alternatives": [
     {

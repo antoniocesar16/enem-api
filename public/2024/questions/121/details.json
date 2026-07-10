@@ -4,10 +4,12 @@
   "year": 2024,
   "language": null,
   "discipline": "ciencias-natureza",
-  "context": "QUESTÃO 121\n\nNo senso comum, considera-se, ainda hoje, que \ncompostos orgânicos são substâncias presentes nos seres \nvivos. Na Química, a expressão “compostos orgânicos” tem \num uso histórico de mais de 200 anos, adquirindo diferentes \nconotações ao longo do desenvolvimento dessa ciência. \nAtualmente, atribui-se a essa expressão outro significado.",
+  "context": "QUESTÃO 121\n\nNo senso comum, considera-se, ainda hoje, que \ncompostos orgânicos são substâncias presentes nos seres \nvivos. Na Química, a expressão “compostos orgânicos” tem \num uso histórico de mais de 200 anos, adquirindo diferentes \nconotações ao longo do desenvolvimento dessa ciência. \nAtualmente, atribui-se a essa expressão outro significado.\n\nA concepção científica atual define esses compostos \ncomo substâncias",
   "files": [],
   "correctAlternative": "E",
-  "alternativesIntroduction": "No senso comum, considera-se, ainda hoje, que \ncompostos orgânicos são substâncias presentes nos seres \nvivos. Na Química, a expressão “compostos orgânicos” tem \num uso histórico de mais de 200 anos, adquirindo diferentes \nconotações ao longo do desenvolvimento dessa ciência. \nAtualmente, atribui-se a essa expressão outro significado.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A concepção científica atual define esses compostos \ncomo substâncias",
   "alternatives": [
     {
       "letter": "A",

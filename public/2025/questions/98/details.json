@@ -7,6 +7,8 @@
   "context": "QUESTãO 98\n\nO sashimi (filé de peixe cru) de baiacu é uma iguaria muito \napreciada no Japão. Entretanto, sua ingestão pode causar a \nmorte por parada respiratória, pois esse peixe contém uma \npotente neurotoxina termoestável, a tetrodotoxina, que é \nproduzida e armazenada nas gônadas e vísceras.\n\nQue ação poderia evitar essa intoxicação?",
   "files": [],
   "correctAlternative": "E",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Que ação poderia evitar essa intoxicação?",
   "alternatives": [
     {

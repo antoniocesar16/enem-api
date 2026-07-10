@@ -4,40 +4,44 @@
   "year": 2024,
   "language": "ingles",
   "discipline": "linguagens",
-  "context": "QUESTãO 04\n\nRemember the sky that you were born under,\nknow each of the star’s stories.\nRemember the moon, know who she is.\nRemember the sun’s birth at dawn. [...]\n\nRemember your birth, how your mother struggled\nto give you form and breath [...]\n\nRemember the earth whose skin you are:\nred earth, black earth, yellow earth, white earth\nbrown earth, we are earth.\nRemember the plants, trees, animal life who all have their\ntribes, their families, their histories, too [...]\n\nRemember you are all people and all people are you.\nRemember you are this universe and this universe is you.\n\nRemember all is in motion, is growing, is you.\n\nHARJO, J. She Had Some Horses. Londres: W. Norton & Company, 1983 (fragmento).\n\nNesse poema, de uma autora de ascendência indígena, o eu lírico ressalta a",
-  "files": [],
-  "correctAlternative": "D",
-  "alternativesIntroduction": "Nesse poema, de uma autora de ascendência indígena, o eu lírico ressalta a",
+  "context": "\n\nQUESTÃO 04\n\nDisponível em: www.clickhole.com. Acesso em: 26 out. 2015.\n\nA carta da editora Stephanie Allen-Nichols à escritora \nAlice Walker tem o propósito de\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
+  "correctAlternative": "E",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A carta da editora Stephanie Allen-Nichols à escritora \nAlice Walker tem o propósito de",
   "alternatives": [
     {
       "letter": "A",
-      "text": "potência dos astros celestes.",
+      "text": "problematizar o enredo de sua obra.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "B",
-      "text": "origem das plantas e dos animais.",
+      "text": "acusar o recebimento de seu manuscrito.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "C",
-      "text": "importância do apego à terra natal.",
+      "text": "solicitar a revisão ortográfica de seu texto.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "D",
-      "text": "relação entre seres humanos e natureza.",
+      "text": "informar a transferência de seu livro a outra editora.",
       "file": null,
-      "isCorrect": true
+      "isCorrect": false
     },
     {
       "letter": "E",
-      "text": "conexão entre o tempo real e o tempo imaginário.",
+      "text": "comunicar a recusa da publicação de seu romance.",
       "file": null,
-      "isCorrect": false
+      "isCorrect": true
     }
   ]
 }

@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "B",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Esse texto trata de um problema social com o propósito de",
   "alternatives": [
     {

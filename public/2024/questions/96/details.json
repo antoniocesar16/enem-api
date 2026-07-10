@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "A",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Qual é a função orgânica correspondente ao grupo funcional \ncomum presente nesses dois compostos?",
   "alternatives": [
     {

@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "A",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Em 1909, as representações das substâncias ácido nítrico e cloreto de cálcio, tendo por base essas informações e seguindo a \nmesma lógica, seriam, respectivamente:",
   "alternatives": [
     {

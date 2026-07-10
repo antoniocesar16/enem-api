@@ -4,12 +4,14 @@
   "year": 2025,
   "language": null,
   "discipline": "linguagens",
-  "context": "\n\nQUESTãO 36\n\nOs trabalhos da exposição Adriana Varejão: suturas, fissuras, \nruínas colocam em pauta o exame da história visual, das tradições \niconográficas europeias e do fazer artístico ocidental. O corte, \na rachadura, o talho e a fissura são elementos de narrativas \nrecorrentes nos trabalhos da artista desde 1992. As produções \nrecentes incluem pinturas tridimensionais de grande escala das \nséries Ruínas de charque e Línguas.\n\nDisponível em: https://pinacoteca.org.br.  \nAcesso em: 10 jan. 2025 (adaptado).\n\nVAREJÃO, A. Azulejaria em carne viva. Óleo sobre tela, poliuretano, \nmadeira e alumínio, 160 × 200 × 25 cm. 1999.\n\nDisponível em: www.adrianavarejao.net. Acesso em: 10 jan. 2025.\n\n![](image-1.png)",
+  "context": "\n\nQUESTãO 36\n\nTEXTO I\n\nOs trabalhos da exposição Adriana Varejão: suturas, fissuras, \nruínas colocam em pauta o exame da história visual, das tradições \niconográficas europeias e do fazer artístico ocidental. O corte, \na rachadura, o talho e a fissura são elementos de narrativas \nrecorrentes nos trabalhos da artista desde 1992. As produções \nrecentes incluem pinturas tridimensionais de grande escala das \nséries Ruínas de charque e Línguas.\n\nDisponível em: https://pinacoteca.org.br.  \nAcesso em: 10 jan. 2025 (adaptado).\n\nTEXTO II\n\nVAREJÃO, A. Azulejaria em carne viva. Óleo sobre tela, poliuretano, \nmadeira e alumínio, 160 × 200 × 25 cm. 1999.\n\nDisponível em: www.adrianavarejao.net. Acesso em: 10 jan. 2025.\n\nA utilização de recursos visuais como suturas, cortes e ruínas por \nAdriana Varejão, na obra Azulejaria em carne viva, remete à(s)\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "C",
-  "alternativesIntroduction": "Disponível em: www.adrianavarejao.net. Acesso em: 10 jan. 2025.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A utilização de recursos visuais como suturas, cortes e ruínas por \nAdriana Varejão, na obra Azulejaria em carne viva, remete à(s)",
   "alternatives": [
     {
       "letter": "A",

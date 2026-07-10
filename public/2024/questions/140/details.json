@@ -7,6 +7,8 @@
   "context": "QUESTÃO 140\n\nPara melhorar o fluxo de ônibus em uma avenida que \ntem dois semáforos, a prefeitura reduzirá o tempo em \nque cada sinal ficará vermelho, que atualmente é de 15 \nsegundos a cada 60 segundos. Admita que o instante de \nchegada de um ônibus a cada semáforo é aleatório.\nO engenheiro de tráfego da prefeitura calculou a \nprobabilidade de um ônibus encontrar cada um deles\n\nvermelho, obtendo 15\n60\n\n. A partir daí, estabeleceu uma\n\nmesma redução na quantidade do tempo, em segundo, \nem que cada sinal ficará vermelho, de maneira que \na probabilidade de um ônibus encontrar ambos os\n\nsinais vermelhos numa mesma viagem seja igual a \n4\n100 ,\n\nconsiderando os eventos independentes.\n\nPara isso, a redução do tempo em que o sinal ficará \nvermelho, em segundo, estabelecida pelo engenheiro foi de",
   "files": [],
   "correctAlternative": "B",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Para isso, a redução do tempo em que o sinal ficará \nvermelho, em segundo, estabelecida pelo engenheiro foi de",
   "alternatives": [
     {

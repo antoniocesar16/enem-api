@@ -4,10 +4,12 @@
   "year": 2024,
   "language": null,
   "discipline": "matematica",
-  "context": "QUESTÃO 154\n\nContratos de vários serviços disponíveis na internet \napresentam uma quantidade excessiva de informações. \nIsso faz com que o tempo necessário para a leitura desses \ncontratos possa ser longo.\n\nO quadro apresenta uma amostra do tempo considerado \nnecessário para a leitura completa do contrato de alguns \nserviços digitais.\n\nTipo de \nserviço\nTempo necessário para a leitura \ncompleta do contrato (em minuto)",
+  "context": "QUESTÃO 154\n\nContratos de vários serviços disponíveis na internet \napresentam uma quantidade excessiva de informações. \nIsso faz com que o tempo necessário para a leitura desses \ncontratos possa ser longo.\n\nO quadro apresenta uma amostra do tempo considerado \nnecessário para a leitura completa do contrato de alguns \nserviços digitais.\n\nTipo de \nserviço\nTempo necessário para a leitura \ncompleta do contrato (em minuto)\n\nA\n36\n\nB\n17\n\nC\n27\n\nD\n13\n\nE\n13\n\nF\n13\n\nROMERO, L. Não li e concordo. Superinteressante, \nn. 307, ago. 2012 (adaptado).\n\nO tempo médio, em minuto, necessário para a leitura \ncompleta de um contrato de serviço dentre os listados \nno quadro é, com uma casa decimal, aproximadamente,",
   "files": [],
   "correctAlternative": "C",
-  "alternativesIntroduction": "Tipo de \nserviço\nTempo necessário para a leitura \ncompleta do contrato (em minuto)",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "O tempo médio, em minuto, necessário para a leitura \ncompleta de um contrato de serviço dentre os listados \nno quadro é, com uma casa decimal, aproximadamente,",
   "alternatives": [
     {
       "letter": "A",

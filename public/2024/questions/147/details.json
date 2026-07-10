@@ -7,6 +7,8 @@
   "context": "QUESTÃO 147\n\nUm jardineiro dispõe de k metros lineares de cerca baixa para fazer um jardim ornamental. O jardim, delimitado \npor essa cerca, deve ter a forma de um triângulo equilátero, um quadrado ou um hexágono regular. A escolha será \npela forma que resulte na maior área.\n\nO jardineiro escolherá a forma de",
   "files": [],
   "correctAlternative": "A",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O jardineiro escolherá a forma de",
   "alternatives": [
     {

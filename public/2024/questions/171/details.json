@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "D",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O sólido obtido foi um(a)",
   "alternatives": [
     {

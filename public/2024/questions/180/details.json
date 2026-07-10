@@ -4,10 +4,12 @@
   "year": 2024,
   "language": null,
   "discipline": "matematica",
-  "context": "QUESTÃO 180\n\nEm uma empresa é comercializado um produto em \nembalagens em formato de cilindro circular reto, com raio \nmedindo 3 cm, e altura medindo 15 cm. Essa empresa \nplaneja comercializar o mesmo produto em embalagens \nem formato de cubo, com capacidade igual a 80% da \ncapacidade da embalagem cilíndrica utilizada atualmente.\nUse 3 como valor aproximado para π.",
+  "context": "QUESTÃO 180\n\nEm uma empresa é comercializado um produto em \nembalagens em formato de cilindro circular reto, com raio \nmedindo 3 cm, e altura medindo 15 cm. Essa empresa \nplaneja comercializar o mesmo produto em embalagens \nem formato de cubo, com capacidade igual a 80% da \ncapacidade da embalagem cilíndrica utilizada atualmente.\nUse 3 como valor aproximado para π.\n\nA medida da aresta da nova embalagem, em centímetro, \ndeve ser",
   "files": [],
   "correctAlternative": "E",
-  "alternativesIntroduction": "Em uma empresa é comercializado um produto em \nembalagens em formato de cilindro circular reto, com raio \nmedindo 3 cm, e altura medindo 15 cm. Essa empresa \nplaneja comercializar o mesmo produto em embalagens \nem formato de cubo, com capacidade igual a 80% da \ncapacidade da embalagem cilíndrica utilizada atualmente.\nUse 3 como valor aproximado para π.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A medida da aresta da nova embalagem, em centímetro, \ndeve ser",
   "alternatives": [
     {
       "letter": "A",

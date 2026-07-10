@@ -4,12 +4,14 @@
   "year": 2024,
   "language": "ingles",
   "discipline": "linguagens",
-  "context": "\n\nQUESTÃO 03\n\nDisponível em: http://thumbpress.com. Acesso em: 28 out. 2013.\n\n![](image-1.png)",
+  "context": "\n\nQUESTÃO 03\n\nDisponível em: http://thumbpress.com. Acesso em: 28 out. 2013.\n\nA relação entre as citações atribuídas ao físico Albert Einstein \ne ao cantor e compositor Bob Marley reside na crença de que \né necessário\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "C",
-  "alternativesIntroduction": "Disponível em: http://thumbpress.com. Acesso em: 28 out. 2013.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A relação entre as citações atribuídas ao físico Albert Einstein \ne ao cantor e compositor Bob Marley reside na crença de que \né necessário",
   "alternatives": [
     {
       "letter": "A",

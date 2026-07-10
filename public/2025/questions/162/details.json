@@ -7,6 +7,8 @@
   "context": "QUESTãO 162\n\nDez casais fundaram um grupo de dança e decidiram \nconstituir uma diretoria com três cargos: presidente, secretário \ne tesoureiro. Para maior representatividade, decidiu-se que no \nmáximo uma pessoa por casal poderá ocupar um cargo nessa \ndiretoria.\n\nQuantas diretorias diferentes podem ser constituídas por esses \n10 casais?",
   "files": [],
   "correctAlternative": "B",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Quantas diretorias diferentes podem ser constituídas por esses \n10 casais?",
   "alternatives": [
     {

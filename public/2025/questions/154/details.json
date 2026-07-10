@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "matematica",
-  "context": "QUESTãO 154\n\nQuatro candidatos se apresentaram para realizar a prova de \num concurso. Antes de iniciar a prova, os celulares dos quatro \ncandidatos foram recolhidos pelo aplicador, que os guardou, \ncada um, dentro de um envelope preto. Ao término da prova, \no aplicador devolveu os quatro envelopes com os celulares aos \nquatro candidatos, de maneira aleatória, já que não havia feito \na identificação dos envelopes.",
+  "context": "QUESTãO 154\n\nQuatro candidatos se apresentaram para realizar a prova de \num concurso. Antes de iniciar a prova, os celulares dos quatro \ncandidatos foram recolhidos pelo aplicador, que os guardou, \ncada um, dentro de um envelope preto. Ao término da prova, \no aplicador devolveu os quatro envelopes com os celulares aos \nquatro candidatos, de maneira aleatória, já que não havia feito \na identificação dos envelopes.\n\nA probabilidade de que todos os candidatos tenham recebido \nde volta os envelopes com os seus respectivos celulares é",
   "files": [],
   "correctAlternative": "D",
-  "alternativesIntroduction": "Quatro candidatos se apresentaram para realizar a prova de \num concurso. Antes de iniciar a prova, os celulares dos quatro \ncandidatos foram recolhidos pelo aplicador, que os guardou, \ncada um, dentro de um envelope preto. Ao término da prova, \no aplicador devolveu os quatro envelopes com os celulares aos \nquatro candidatos, de maneira aleatória, já que não havia feito \na identificação dos envelopes.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A probabilidade de que todos os candidatos tenham recebido \nde volta os envelopes com os seus respectivos celulares é",
   "alternatives": [
     {
       "letter": "A",

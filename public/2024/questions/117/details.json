@@ -7,6 +7,8 @@
   "context": "QUESTÃO 117\n\nUma ambulância em alta velocidade com a sirene ligada \ndesloca-se em direção a um radar operado por uma pessoa. \nO radar emite ondas de rádio com frequência f0 que são \nrefletidas pela dianteira da ambulância, retornando para \no detector com frequência fr. A percepção do operador do \nradar, em relação ao som emitido pela sirene, é de que \neste se altera à medida que a ambulância se aproxima \nou se afasta.\n\nDurante a aproximação, como o operador percebe o som \nda sirene e qual é a relação entre as frequências fr e f0 \nmedidas pelo radar?",
   "files": [],
   "correctAlternative": "D",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Durante a aproximação, como o operador percebe o som \nda sirene e qual é a relação entre as frequências fr e f0 \nmedidas pelo radar?",
   "alternatives": [
     {

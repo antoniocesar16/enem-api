@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "B",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Do ponto de vista das interações químicas, qual desses hormônios \napresenta maior solubilidade em ambientes aquáticos?",
   "alternatives": [
     {

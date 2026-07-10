@@ -4,10 +4,12 @@
   "year": 2024,
   "language": null,
   "discipline": "ciencias-natureza",
-  "context": "QUESTÃO 108\n\nBrasil fecha 2020 entre os maiores recicladores de latas de alumínio",
+  "context": "QUESTÃO 108\n\nBrasil fecha 2020 entre os maiores recicladores de latas de alumínio\n\nA bauxita contém alumina (Al2O3), que é a matéria-prima para produção do alumínio (Al). De forma geral, são \nnecessários 50 kg de bauxita para produzir 10 kg de alumínio. O Brasil fechou 2020 como um dos principais líderes \nmundiais em reciclagem de latas de alumínio. De acordo com levantamento da Associação Brasileira dos Fabricantes \nde Latas de Alumínio (Abralatas), o país obteve um índice de reciclagem de 97,4%, de um total de 4,0 × 105 toneladas \nde latas vendidas. Considere que a lata é constituída de alumínio puro.\n\nDisponível em: https://agenciabrasil.ebc.com.br. Acesso em: 30 nov. 2021 (adaptado).\n\nLevando em conta apenas a reciclagem de latas, qual é o valor mais próximo da massa de bauxita, em tonelada, que \ndeixou de ser extraída da natureza em 2020 no Brasil?",
   "files": [],
   "correctAlternative": "D",
-  "alternativesIntroduction": "Brasil fecha 2020 entre os maiores recicladores de latas de alumínio",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "Levando em conta apenas a reciclagem de latas, qual é o valor mais próximo da massa de bauxita, em tonelada, que \ndeixou de ser extraída da natureza em 2020 no Brasil?",
   "alternatives": [
     {
       "letter": "A",

@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "E",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O processo pelo qual ocorre transferência de calor dos \ncoletores solares para o reservatório térmico é a",
   "alternatives": [
     {

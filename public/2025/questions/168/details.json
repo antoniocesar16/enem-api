@@ -4,12 +4,14 @@
   "year": 2025,
   "language": null,
   "discipline": "matematica",
-  "context": "\n\nQUESTãO 168\n\n![](image-1.png)",
+  "context": "\n\nQUESTãO 168\n\nA figura ilustra o projeto visual para confecção de uma \nmedalha comemorativa, com a forma de um cilindro circular \nreto, de diâmetro 6 cm e espessura 3 mm.\n\nA figura ABCD tem a forma de um quadrado e é a base de \num prisma que atravessa toda a medalha. A região da medalha \nexterna a esse prisma será cunhada em ouro. Pretende-se \ncunhar 100 dessas medalhas.\nConsidere 3,1 como valor aproximado para p.\n\nQual é o volume de ouro, em centímetro cúbico, necessário \npara a confecção dessas medalhas?\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "B",
-  "alternativesIntroduction": "QUESTãO 168",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "Qual é o volume de ouro, em centímetro cúbico, necessário \npara a confecção dessas medalhas?",
   "alternatives": [
     {
       "letter": "A",

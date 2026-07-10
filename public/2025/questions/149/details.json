@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "E",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Segundo essa estimativa, o número de matrículas no curso de francês para o ano de 2025 será",
   "alternatives": [
     {

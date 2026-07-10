@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-natureza",
-  "context": "Questão 110",
+  "context": "Questão 110\n\nA química nuclear é uma importante ferramenta \nna produção de substâncias utilizadas na área da saúde \nhumana. A radiação emitida pelo cobalto-60 é utilizada na \nmedicina como ferramenta de diagnóstico e no tratamento \ndo câncer. No entanto, esse radioisótopo tem um tempo de \narmazenamento limitado, pois seu tempo de meia-vida é  \nde 5,3 anos. Considere um frasco com uma amostra contendo \n2,00 mg de cobalto-60, armazenado durante um período  \nde 26,5 anos.\n\nA massa de cobalto-60, em miligrama, que restará ao final \ndesse tempo é mais próxima de",
   "files": [],
   "correctAlternative": "E",
-  "alternativesIntroduction": "Questão 110",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A massa de cobalto-60, em miligrama, que restará ao final \ndesse tempo é mais próxima de",
   "alternatives": [
     {
       "letter": "A",

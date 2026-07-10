@@ -4,10 +4,12 @@
   "year": 2024,
   "language": null,
   "discipline": "matematica",
-  "context": "QUESTÃO 169\n\nUma criança, utilizando um aplicativo, escreveu uma \nmensagem para enviar a um amigo. Essa mensagem foi \nescrita seguindo estas etapas:\n\nEtapas\nVisor de escrita\n\n1ª etapa: inseriu três fi guras \ndo tipo \n no visor de \nescrita da mensagem;\n\n2ª etapa: copiou o que havia \ninserido anteriormente e \ncolou (inseriu o que havia \ncopiado) ao lado;\n\n3ª etapa: copiou o que tinha \nno visor na 2ª etapa e colou \nao lado.",
+  "context": "QUESTÃO 169\n\nUma criança, utilizando um aplicativo, escreveu uma \nmensagem para enviar a um amigo. Essa mensagem foi \nescrita seguindo estas etapas:\n\nEtapas\nVisor de escrita\n\n1ª etapa: inseriu três fi guras \ndo tipo \n no visor de \nescrita da mensagem;\n\n2ª etapa: copiou o que havia \ninserido anteriormente e \ncolou (inseriu o que havia \ncopiado) ao lado;\n\n3ª etapa: copiou o que tinha \nno visor na 2ª etapa e colou \nao lado.\n\nA criança seguiu copiando e colando, em cada etapa, \no que tinha no visor na etapa imediatamente anterior, até \nconcluir a 20ª etapa. Em seguida, enviou a mensagem.\n\nQual foi o total de figuras contidas na mensagem enviada?",
   "files": [],
   "correctAlternative": "A",
-  "alternativesIntroduction": "3ª etapa: copiou o que tinha \nno visor na 2ª etapa e colou \nao lado.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "Qual foi o total de figuras contidas na mensagem enviada?",
   "alternatives": [
     {
       "letter": "A",

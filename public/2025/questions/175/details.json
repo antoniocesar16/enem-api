@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "matematica",
-  "context": "Questão 175\n\nUm confeiteiro passou a produzir tortas em formato de \ncilindro circular reto, com raio da base variando entre 12 cm e \n16 cm e altura de 6 cm. Essas tortas deverão ser embaladas em \ncaixas com formato de prisma reto de base quadrada, de modo \nque seja possível acomodar a torta em seu interior e ainda restar \npelo menos 1 cm de distância entre a torta e as superfícies internas \nda caixa, lateral e superior. Ele dispõe, originalmente, de caixas \nno formato pretendido, cujas dimensões internas são 14 cm de \ncomprimento do lado da base e 7 cm de altura, que não atendem \nàs suas necessidades. Portanto, ele comprará novas caixas, com \no mesmo formato das caixas originais, mas com comprimento do \nlado da base maior, que sejam adequadas para embalar todos \nos tipos de torta que produz.",
+  "context": "Questão 175\n\nUm confeiteiro passou a produzir tortas em formato de \ncilindro circular reto, com raio da base variando entre 12 cm e \n16 cm e altura de 6 cm. Essas tortas deverão ser embaladas em \ncaixas com formato de prisma reto de base quadrada, de modo \nque seja possível acomodar a torta em seu interior e ainda restar \npelo menos 1 cm de distância entre a torta e as superfícies internas \nda caixa, lateral e superior. Ele dispõe, originalmente, de caixas \nno formato pretendido, cujas dimensões internas são 14 cm de \ncomprimento do lado da base e 7 cm de altura, que não atendem \nàs suas necessidades. Portanto, ele comprará novas caixas, com \no mesmo formato das caixas originais, mas com comprimento do \nlado da base maior, que sejam adequadas para embalar todos \nos tipos de torta que produz.\n\nA aresta da base das novas caixas deve ser, no mínimo, quantos \ncentímetros maior do que a das caixas originais?",
   "files": [],
   "correctAlternative": "E",
-  "alternativesIntroduction": "Um confeiteiro passou a produzir tortas em formato de \ncilindro circular reto, com raio da base variando entre 12 cm e \n16 cm e altura de 6 cm. Essas tortas deverão ser embaladas em \ncaixas com formato de prisma reto de base quadrada, de modo \nque seja possível acomodar a torta em seu interior e ainda restar \npelo menos 1 cm de distância entre a torta e as superfícies internas \nda caixa, lateral e superior. Ele dispõe, originalmente, de caixas \nno formato pretendido, cujas dimensões internas são 14 cm de \ncomprimento do lado da base e 7 cm de altura, que não atendem \nàs suas necessidades. Portanto, ele comprará novas caixas, com \no mesmo formato das caixas originais, mas com comprimento do \nlado da base maior, que sejam adequadas para embalar todos \nos tipos de torta que produz.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A aresta da base das novas caixas deve ser, no mínimo, quantos \ncentímetros maior do que a das caixas originais?",
   "alternatives": [
     {
       "letter": "A",

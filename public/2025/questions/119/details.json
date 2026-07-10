@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-natureza",
-  "context": "QUESTãO 119",
+  "context": "QUESTãO 119\n\nA dimetilamina é uma substância de elevada toxidez que \nentra em ebulição a 7 °C. Na madrugada de um dia frio, essa \nsubstância se espalhou por uma rodovia após um acidente de \ntrânsito envolvendo um caminhão que transportava esse produto. \nPara minimizar a agressão ao meio ambiente, bem como evitar \na evaporação da dimetilamina com a elevação da temperatura \nao longo do dia, um químico considerou o uso de algumas \nsubstâncias ou misturas como água, vinagre, óleo de soja, sal \nde cozinha e bicarbonato de sódio.\n\nDentre as opções apresentadas, o tratamento correto para \nminimizar esse problema é usar",
   "files": [],
   "correctAlternative": "B",
-  "alternativesIntroduction": "QUESTãO 119",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "Dentre as opções apresentadas, o tratamento correto para \nminimizar esse problema é usar",
   "alternatives": [
     {
       "letter": "A",

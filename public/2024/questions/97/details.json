@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "C",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Em relação ao metabolismo energético, os microrganismos \npresentes nos tubos 1, 2 e 3 são classificados, \nrespectivamente, como",
   "alternatives": [
     {

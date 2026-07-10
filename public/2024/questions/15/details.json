@@ -4,12 +4,14 @@
   "year": 2024,
   "language": null,
   "discipline": "linguagens",
-  "context": "\n\nQUESTÃO 15 \nTEXTO I\n\n![](image-1.png)",
+  "context": "\n\nQUESTÃO 15 \nTEXTO I\nA fotografia de Regina Valkenborgh apresenta  \n2 953 arcos de luz cruzando o céu e registra o nascer e o pôr \ndo sol ao longo de oito anos. Em 2012, essa estudante da \nUniversidade de Hertfordshire colocou uma folha de papel \nfotográfico em uma lata com um pequeno orifício, criando \nassim uma câmera pinhole de baixa tecnologia. Porém, \na lata foi esquecida em um telescópio no observatório da \nuniversidade. Esse projeto esquecido acabou revelando a \nfoto do pôr do sol de maior exposição já tirada.\nSANTOS, A. Disponível em: https://socientifica.com.br. \n Acesso em: 13 nov. 2021 (adaptado).\nTEXTO II\nRepresentação de 2 953 arcos de luz cruzando o céu, \nregistrando o nascer e o pôr do sol ao longo de oito anos\n\nVALKENBORGH, R. Fotografia. Reino Unido: \nUniversidade Hertfordshire (2012-2020).\n\nDisponível em: www.thisiscolossal.com. Acesso em: 1 nov. 2022.\nO experimento realizado por Regina Valkenborgh resultou \nno entendimento de que a\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "E",
-  "alternativesIntroduction": "QUESTÃO 15 \nTEXTO I",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "Disponível em: www.thisiscolossal.com. Acesso em: 1 nov. 2022.\nO experimento realizado por Regina Valkenborgh resultou \nno entendimento de que a",
   "alternatives": [
     {
       "letter": "A",

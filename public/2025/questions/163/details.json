@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "E",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Em qual escala esse desenho representa a obra de arte?",
   "alternatives": [
     {

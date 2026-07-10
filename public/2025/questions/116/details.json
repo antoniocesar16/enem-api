@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "A",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Na utilização desse dispositivo, a retenção do óleo ocorre",
   "alternatives": [
     {

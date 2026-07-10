@@ -4,12 +4,14 @@
   "year": 2024,
   "language": null,
   "discipline": "matematica",
-  "context": "\n\nQUESTÃO 161\n\nUma empresa tem 400 funcionários, distribuídos em \ntrês setores: administrativo, logística e produção. O gráfico \napresenta a distribuição quantitativa desses funcionários, \npor setor e por faixa etária.\n\nUma viagem de férias será sorteada entre esses \nfuncionários, de forma que todos terão igual probabilidade \nde serem sorteados.\n\n![](image-1.png)",
+  "context": "\n\nQUESTÃO 161\n\nUma empresa tem 400 funcionários, distribuídos em \ntrês setores: administrativo, logística e produção. O gráfico \napresenta a distribuição quantitativa desses funcionários, \npor setor e por faixa etária.\n\nUma viagem de férias será sorteada entre esses \nfuncionários, de forma que todos terão igual probabilidade \nde serem sorteados.\n\nA maior probabilidade é que o funcionário sorteado esteja \nna faixa etária\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "A",
-  "alternativesIntroduction": "Uma viagem de férias será sorteada entre esses \nfuncionários, de forma que todos terão igual probabilidade \nde serem sorteados.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A maior probabilidade é que o funcionário sorteado esteja \nna faixa etária",
   "alternatives": [
     {
       "letter": "A",

@@ -4,38 +4,40 @@
   "year": 2024,
   "language": "ingles",
   "discipline": "linguagens",
-  "context": "QUESTãO 05\n\nGlory Ames, from the White Earth reservation, is frustrated that despite the presence of several indigenous reservations \nnear Moorhead, local Halloween stores still feature a western section with costumes such as “pow wow princess”.\nEven worse, despite a long-running debate about racism and cultural appropriation, often prompted by backlash against \ncelebrities and politicians for donning offensive costumes, people continue to wear such costumes.\nLast Halloween, Ames spotted a photo on Instagram of a girl dressed as a Native American with a bullet in her forehead. \nShe immediately reported it to the social media platform and had it removed.\n“They blatantly take certain aspects of our culture, race, religion, and use it for their advantage and ignore the people living \nit”, said Ames.\nLIU, M. C. M. Disponível em: www.washingtonpost.com. Acesso em: 12 maio 2024 (adaptado).\n\nAo abordar um aspecto da celebração do Halloween, esse texto tem por objetivo",
+  "context": "QUESTÃO 05\n\nI remember being caught speaking Spanish at recess \n[...] I remember being sent to the corner of the classroom \nfor “talking back” to the Anglo teacher when all I was trying \nto do was tell her how to pronounce my name. “If you \nwant to be American, speak ‘American’. If you don’t like it, \ngo back to Mexico where you belong”.\n“I want you to speak English […]”, my mother would \nsay, mortified that I spoke English like a Mexican. At Pan \nAmerican University, I and all Chicano students were \nrequired to take two speech classes. Their purpose: to get \nrid of our accents.\n\nANZALDÚA, G. Borderlands/La Frontera: The New Mestiza.  \nSan Francisco: Aunt Lute Books, 1987.\n\nO problema abordado nesse texto sobre imigrantes residentes \nnos Estados Unidos diz respeito aos prejuízos gerados pelo(a)",
   "files": [],
-  "correctAlternative": "D",
-  "alternativesIntroduction": "Ao abordar um aspecto da celebração do Halloween, esse texto tem por objetivo",
+  "correctAlternative": "A",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "O problema abordado nesse texto sobre imigrantes residentes \nnos Estados Unidos diz respeito aos prejuízos gerados pelo(a)",
   "alternatives": [
     {
       "letter": "A",
-      "text": "denunciar a violência contra crianças indígenas.",
+      "text": "repúdio ao sotaque espanhol no uso do inglês.",
       "file": null,
-      "isCorrect": false
+      "isCorrect": true
     },
     {
       "letter": "B",
-      "text": "descrever costumes tradicionais em celebrações indígenas.",
+      "text": "resignação diante do apagamento da língua materna.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "C",
-      "text": "valorizar as vestimentas características dos povos originários.",
+      "text": "escassez de oportunidades de aprendizado do espanhol.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "D",
-      "text": "criticar a exploração indevida de elementos da identidade indígena.",
+      "text": "choque entre falantes de línguas distintas de diferentes gerações.",
       "file": null,
-      "isCorrect": true
+      "isCorrect": false
     },
     {
       "letter": "E",
-      "text": "sugerir ações de combate ao preconceito contra os povos originários.",
+      "text": "concorrência entre as variações linguísticas do inglês e as do espanhol.",
       "file": null,
       "isCorrect": false
     }

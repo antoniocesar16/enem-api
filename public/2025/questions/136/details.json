@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "C",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Nessas condições, a quantidade mínima necessária de policiais a \nserem alocados ao longo dessa ciclovia para torná-la protegida é",
   "alternatives": [
     {

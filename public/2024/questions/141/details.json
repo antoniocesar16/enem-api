@@ -4,10 +4,12 @@
   "year": 2024,
   "language": null,
   "discipline": "matematica",
-  "context": "QUESTÃO 141",
+  "context": "QUESTÃO 141\n\nA densidade demográfica de uma região é definida \ncomo sendo a razão entre o número de habitantes dessa \nregião e sua área, expressa na unidade habitantes por \nquilômetro quadrado.\nUma região R é subdividida em várias outras, sendo \numa delas a região Q. A área de Q é igual a três quartos da \nárea de R, e o número de habitantes de Q é igual à metade \ndo número de habitantes de R. As densidades demográficas \ncorrespondentes a essas regiões são denotadas por d(Q) \ne d(R).\n\nA expressão que relaciona d(Q) e d(R) é",
   "files": [],
   "correctAlternative": "E",
-  "alternativesIntroduction": "QUESTÃO 141",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A expressão que relaciona d(Q) e d(R) é",
   "alternatives": [
     {
       "letter": "A",

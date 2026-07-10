@@ -4,13 +4,15 @@
   "year": 2024,
   "language": null,
   "discipline": "linguagens",
-  "context": "\n\n\n\nQUESTÃO 19\n\nAnônimo. Cabeça de uma figura feminina.  \nCirca 2700-2500 a.C. Escultura em mármore, 8 × 3,2 cm. \nMetropolitan Museum of Art, Nova Iorque.\n\nMODIGLIANI, A. Cabeça de mulher. Circa 1910-1911.  \nEscultura em calcário, 68,3 × 15,9 × 24,1 cm. \nNational Gallery of Art, Washington.\n\nWOLKOFF, J. These 5,000-Year-Old Sculptures Look Shockingly Similar to Modern Art.  \nDisponível em: www.artsy.net. Acesso em: 19 jun. 2019.\n\n![](image-1.png)\n\n![](image-2.png)",
+  "context": "\n\n\n\nQUESTÃO 19\n\nTEXTO I\nTEXTO II\n\nAnônimo. Cabeça de uma figura feminina.  \nCirca 2700-2500 a.C. Escultura em mármore, 8 × 3,2 cm. \nMetropolitan Museum of Art, Nova Iorque.\n\nMODIGLIANI, A. Cabeça de mulher. Circa 1910-1911.  \nEscultura em calcário, 68,3 × 15,9 × 24,1 cm. \nNational Gallery of Art, Washington.\n\nWOLKOFF, J. These 5,000-Year-Old Sculptures Look Shockingly Similar to Modern Art.  \nDisponível em: www.artsy.net. Acesso em: 19 jun. 2019.\n\nA leitura comparativa das duas esculturas, separadas por mais de 2 500 anos, indica a\n\n![](image-1.png)\n\n![](image-2.png)",
   "files": [
     "image-1.png",
     "image-2.png"
   ],
   "correctAlternative": "D",
-  "alternativesIntroduction": "WOLKOFF, J. These 5,000-Year-Old Sculptures Look Shockingly Similar to Modern Art.  \nDisponível em: www.artsy.net. Acesso em: 19 jun. 2019.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A leitura comparativa das duas esculturas, separadas por mais de 2 500 anos, indica a",
   "alternatives": [
     {
       "letter": "A",

@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-humanas",
-  "context": "QUESTãO 82",
+  "context": "QUESTãO 82\n\nA Impressão Régia do Rio de Janeiro foi criada pelo decreto de \n13 de maio de 1808 para dar continuidade à nova sede do império \nportuguês. A nova tipografia é criada em um momento no qual o \nprojeto de reforma do império se transforma em um projeto de \nconstrução de um novo império português na América. Frente \nàs tensões políticas que essa nova situação criava, a tipografia \natuou na legitimação e sustentação daquele projeto político.\n\nBARRA, S. H. S. A Impressão Régia do Rio de Janeiro e a colonização dos sertões \nna construção do novo império português na América (1808-1822).  \nTopoi, n. 31, jul.-dez. 2015 (adaptado).\n\nA função política da tecnologia mencionada no texto favoreceu \na nova sede do Império português por",
   "files": [],
   "correctAlternative": "D",
-  "alternativesIntroduction": "QUESTãO 82",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A função política da tecnologia mencionada no texto favoreceu \na nova sede do Império português por",
   "alternatives": [
     {
       "letter": "A",

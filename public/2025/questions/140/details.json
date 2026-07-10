@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "A",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Qual desses produtos deve ser o escolhido pela estudante?",
   "alternatives": [
     {

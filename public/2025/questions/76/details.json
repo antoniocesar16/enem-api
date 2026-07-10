@@ -4,12 +4,14 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-humanas",
-  "context": "\n\nQUESTãO 76\n\nCarro elétrico, uma miragem ecológica\n\n![](image-1.png)",
+  "context": "\n\nQUESTãO 76\n\nCarro elétrico, uma miragem ecológica\n\nA mudança para a eletromobilidade de fato promove uma \nalteração no consumo de recursos naturais. Hoje, amplamente \ndependentes do petróleo, nossos modais de transporte poderiam \nse tornar cada vez mais dependentes de trinta metais raros. Gálio, \ntântalo, cobalto, platinoides, tungstênio, metais de terras-raras: uma \nmina contém apenas ínfimas quantidades desses metais dotados \nde fabulosas propriedades eletrônicas, ópticas e magnéticas.\n\nPITRON, G. Revolução tecnológica, transformação geopolítica. Disponível em: \n https://diplomatique.org.br. Acesso em: 10 dez. 2018.\n\nNo que se refere ao desenvolvimento sustentável, a charge e o \ntexto indicam uma contradição no uso da tecnologia alternativa \nderivada do seguinte aspecto:\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "A",
-  "alternativesIntroduction": "Carro elétrico, uma miragem ecológica",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "No que se refere ao desenvolvimento sustentável, a charge e o \ntexto indicam uma contradição no uso da tecnologia alternativa \nderivada do seguinte aspecto:",
   "alternatives": [
     {
       "letter": "A",

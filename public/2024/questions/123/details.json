@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "C",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Na condição de razão ar/combustível igual a 18, haverá \numa emissão",
   "alternatives": [
     {

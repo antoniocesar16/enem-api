@@ -4,38 +4,40 @@
   "year": 2024,
   "language": null,
   "discipline": "linguagens",
-  "context": "QUESTãO 06",
+  "context": "QUESTÃO 06\n\nO festival folclórico de Parintins, no Amazonas, \nanunciou que o Boi Caprichoso levou, em 2018, seu \n23º título — contra 31 do adversário Boi Garantido. \nDesde o fim do evento que não paro de cantar duas \nmúsicas que aprendi no Bumbódromo (arena onde ocorre \no espetáculo). Revezo entre “meu amor, eu sou feliz, ééé \nazul o meu país”, obviamente do boi azul, o Caprichoso; \ne “vermelhou o curral, a ideologia avermelhou”, do boi \nvermelho, o Garantido. Esse revezamento seria proibido \nem Parintins, cidade tão dividida entre as torcidas dos bois. \nEm Parintins, você tem de ter um lado. Há aqueles que \ntentam fugir e dizem que são “garanchoso”, com os quais \nme identifiquei, mas esses são vistos com certo desdém.\n\nDYNIEWICZ, L. Disponível em: https://viagem.estadao.com.br. \nAcesso em: 22 nov. 2018 (adaptado).\n\nA apropriação de elementos como rivalidade, competitividade, \ntorcida e gritos de guerra pelo festival de Parintins evidencia a",
   "files": [],
-  "correctAlternative": "C",
-  "alternativesIntroduction": "QUESTãO 06",
+  "correctAlternative": "D",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A apropriação de elementos como rivalidade, competitividade, \ntorcida e gritos de guerra pelo festival de Parintins evidencia a",
   "alternatives": [
     {
       "letter": "A",
-      "text": "evoluem para facilitar a vida cotidiana.",
+      "text": "escolha de um local específico para a festa.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "B",
-      "text": "alcançam diferentes realidades sociais.",
+      "text": "importância atribuída pelos turistas aos bois.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "C",
-      "text": "coexistem com outras já estabelecidas.",
-      "file": null,
-      "isCorrect": true
-    },
-    {
-      "letter": "D",
-      "text": "promovem maior agilidade na comunicação.",
+      "text": "interação social estabelecida após o evento.",
       "file": null,
       "isCorrect": false
     },
     {
+      "letter": "D",
+      "text": "aproximação da manifestação folclórica com o esporte.",
+      "file": null,
+      "isCorrect": true
+    },
+    {
       "letter": "E",
-      "text": "surgem nos contextos em que são necessárias.",
+      "text": "composição de enredos musicais pelos “garanchosos”.",
       "file": null,
       "isCorrect": false
     }

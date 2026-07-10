@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "matematica",
-  "context": "QUESTãO 166\n\nO dono de uma sorveteria armazena sorvete em potes de \n20 000 cm3. Ele serve o sorvete em taças, em porções de 250 mL.",
+  "context": "QUESTãO 166\n\nO dono de uma sorveteria armazena sorvete em potes de \n20 000 cm3. Ele serve o sorvete em taças, em porções de 250 mL.\n\nA quantidade de taças que ele consegue servir a partir de um \npote cheio de sorvete é",
   "files": [],
   "correctAlternative": "D",
-  "alternativesIntroduction": "O dono de uma sorveteria armazena sorvete em potes de \n20 000 cm3. Ele serve o sorvete em taças, em porções de 250 mL.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A quantidade de taças que ele consegue servir a partir de um \npote cheio de sorvete é",
   "alternatives": [
     {
       "letter": "A",

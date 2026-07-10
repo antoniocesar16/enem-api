@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-humanas",
-  "context": "QUESTãO 58 \nTEXTO I",
+  "context": "QUESTãO 58 \nTEXTO I\n\nA partir do século IV, com os imperadores ditos cristãos,  \no teatro e a dança foram condenados. O batismo era recusado aos \nque atuavam no circo ou na pantomima. E em 398, no Concílio de \nCartago, os que iam ao teatro nos dias santos foram excomungados.\n\nDINIZ, T.; SANTOS, G. História da dança. Disponível em: www.uel.br.  \nAcesso em: 18 out. 2023.\nTEXTO II\n\nA dança no ato litúrgico cumpre tanto um papel de adoração \nquanto mercadológico. Não à toa há aceitação, expansão  \ne investimento nessa prática percebida massivamente pela \nampla divulgação principalmente nas redes sociais. A expansão \ne ampliação por via de festivais, aulas, cursos, palestras etc. \nconsolida a criação de um mercado específico para esse público.\n\nSANTOS, Z. Dança gospel. Salvador: UFBA, 2021.\n\nA percepção sobre a dança e a cultura corporal apresenta \naspectos relacionados, respectivamente, a",
   "files": [],
   "correctAlternative": "E",
-  "alternativesIntroduction": "QUESTãO 58 \nTEXTO I",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A percepção sobre a dança e a cultura corporal apresenta \naspectos relacionados, respectivamente, a",
   "alternatives": [
     {
       "letter": "A",

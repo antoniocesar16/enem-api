@@ -14,6 +14,8 @@
     "image-6.png"
   ],
   "correctAlternative": "A",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Os espectros de fotoluminescência do sensor no início e no final \ndo tratamento estão esboçados no gráfico:",
   "alternatives": [
     {

@@ -7,6 +7,8 @@
   "context": "QUESTÃO 138\n\nUma empresa de engenharia foi contratada para \nrealizar um serviço no valor de R$ 71 250,00. Os sócios da \nempresa decidiram que 40% desse valor seria destinado ao \npagamento de três engenheiros que gerenciaram o serviço. \nO pagamento para cada um deles será feito de forma \ndiretamente proporcional ao total de horas trabalhadas. \nO número de dias e o número de horas diárias \ntrabalhadas pelos engenheiros foram, respectivamente:\n\n• engenheiro I: 4 dias, numa jornada de 5 horas e \nmeia por dia;\n• engenheiro II: 5 dias, numa jornada de 4 horas por dia;\n• engenheiro III: 6 dias, numa jornada de 2 horas e \nmeia por dia.\n\nQual a maior diferença, em real, entre os valores recebidos \npor esse serviço entre dois desses engenheiros?",
   "files": [],
   "correctAlternative": "C",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Qual a maior diferença, em real, entre os valores recebidos \npor esse serviço entre dois desses engenheiros?",
   "alternatives": [
     {

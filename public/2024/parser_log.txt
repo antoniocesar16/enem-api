@@ -18,8 +18,10 @@ STARTING PARSER - Building questions from PDF blocks
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'LINGUAGENS, CÓDIGOS E SUAS TEC'
-[FOUND] QUESTÃO 4 on page 2 lang=espanhol
-[FOUND] QUESTÃO 5 on page 2 lang=espanhol
+[FOUND] QUESTÃO 4 on page 2 lang=ingles
+[FOUND] QUESTÃO 5 on page 2 lang=ingles
+[FOUND] QUESTÃO 1 on page 2 lang=espanhol
+[FOUND] QUESTÃO 2 on page 2 lang=espanhol
 [NOISE BLOCK] '*010275AM3*'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
@@ -33,6 +35,7 @@ STARTING PARSER - Building questions from PDF blocks
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'LINGUAGENS, CÓDIGOS E SUAS TEC'
+[FOUND] QUESTÃO 6 on page 4 lang=None
 [FOUND] QUESTÃO 7 on page 4 lang=None
 [FOUND] QUESTÃO 8 on page 4 lang=None
 [NOISE BLOCK] '*010275AM5*'
@@ -66,17 +69,12 @@ STARTING PARSER - Building questions from PDF blocks
 [NOISE BLOCK] 'LINGUAGENS, CÓDIGOS E SUAS TEC'
 [FOUND] QUESTÃO 18 on page 8 lang=None
 [FOUND] QUESTÃO 19 on page 8 lang=None
-[NOISE BLOCK] 'TEXTO I\nTEXTO II'
 [NOISE BLOCK] '*010275AM9*'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] '• LINGUAGENS, CÓDIGOS E SUAS T'
 [FOUND] QUESTÃO 20 on page 9 lang=None
-[NOISE BLOCK] 'TEXTO I'
-[NOISE BLOCK] 'TEXTO II'
 [FOUND] QUESTÃO 21 on page 9 lang=None
-[NOISE BLOCK] 'TEXTO I'
-[NOISE BLOCK] 'TEXTO II'
 [NOISE BLOCK] '*010275AM10*'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
@@ -146,38 +144,28 @@ STARTING PARSER - Building questions from PDF blocks
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'LINGUAGENS, CÓDIGOS E SUAS TEC'
-[NOISE BLOCK] 'TEXTO I\nHerança –\u2003o\u2003legado\u2003de\u2003'
-[NOISE BLOCK] 'TEXTO IV\nHistória afro-brasile'
-[NOISE BLOCK] 'TEXTO V\nHistórias para ninar g'
 [NOISE BLOCK] '*010275AM19*'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] '•\u2003LINGUAGENS,\u2003CÓDIGOS\u2003E\u2003SUAS\u2003T'
 [NOISE BLOCK] 'CIÊNCIAS HUMANAS E SUAS TECNOL'
 [FOUND] QUESTÃO 46 on page 19 lang=None
-[NOISE BLOCK] 'TEXTO I'
 [FOUND] QUESTÃO 47 on page 19 lang=None
 [FOUND] QUESTÃO 48 on page 19 lang=None
-[NOISE BLOCK] 'TEXTO I'
-[NOISE BLOCK] 'TEXTO II'
 [NOISE BLOCK] '*010275AM20*'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'CIÊNCIAS HUMANAS E SUAS TECNOL'
 [FOUND] QUESTÃO 49 on page 20 lang=None
-[NOISE BLOCK] 'TEXTO I'
 [FOUND] QUESTÃO 50 on page 20 lang=None
 [FOUND] QUESTÃO 51 on page 20 lang=None
-[NOISE BLOCK] 'TEXTO I'
-[NOISE BLOCK] 'TEXTO II'
 [FOUND] QUESTÃO 52 on page 20 lang=None
 [NOISE BLOCK] '*010275AM21*'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [FOUND] QUESTÃO 53 on page 21 lang=None
-[NOISE BLOCK] 'TEXTO I'
 [FOUND] QUESTÃO 54 on page 21 lang=None
 [FOUND] QUESTÃO 55 on page 21 lang=None
 [FOUND] QUESTÃO 56 on page 21 lang=None
@@ -187,8 +175,6 @@ STARTING PARSER - Building questions from PDF blocks
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'CIÊNCIAS HUMANAS E SUAS TECNOL'
 [FOUND] QUESTÃO 57 on page 22 lang=None
-[NOISE BLOCK] 'TEXTO I'
-[NOISE BLOCK] 'TEXTO II'
 [FOUND] QUESTÃO 58 on page 22 lang=None
 [FOUND] QUESTÃO 59 on page 22 lang=None
 [FOUND] QUESTÃO 60 on page 22 lang=None
@@ -223,7 +209,6 @@ STARTING PARSER - Building questions from PDF blocks
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'CIÊNCIAS HUMANAS E SUAS TECNOL'
 [FOUND] QUESTÃO 73 on page 26 lang=None
-[NOISE BLOCK] 'TEXTO I'
 [FOUND] QUESTÃO 74 on page 26 lang=None
 [FOUND] QUESTÃO 75 on page 26 lang=None
 [FOUND] QUESTÃO 76 on page 26 lang=None
@@ -249,8 +234,6 @@ STARTING PARSER - Building questions from PDF blocks
 [FOUND] QUESTÃO 84 on page 29 lang=None
 [FOUND] QUESTÃO 85 on page 29 lang=None
 [FOUND] QUESTÃO 86 on page 29 lang=None
-[NOISE BLOCK] 'TEXTO I'
-[NOISE BLOCK] 'TEXTO II'
 [NOISE BLOCK] '*010275AM30*'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
 [NOISE BLOCK] 'ENEM2024ENEM2024ENEM2024ENEM20'
@@ -304,6 +287,7 @@ STARTING PARSER - Building questions from PDF blocks
 [NOISE BLOCK] 'AMARELO'
 [NOISE BLOCK] '2º DIA\n01'
 [NOISE BLOCK] '*020125AM1*'
+[FOUND] QUESTÃO 91 on page 1 lang=None
 [FOUND] QUESTÃO 92 on page 1 lang=None
 [FOUND] QUESTÃO 93 on page 1 lang=None
 [FOUND] QUESTÃO 94 on page 1 lang=None
@@ -583,10 +567,10 @@ STARTING PARSER - Building questions from PDF blocks
 [NOISE BLOCK] '02'
 [NOISE BLOCK] '*020125AM32*'
 
-Found 179 question groups
-  Regular: [7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
-  Inglês 1-5: [1, 2, 3]
-  Espanhol 1-5: [3, 4, 5]
+Found 185 question groups
+  Regular: [6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+  Inglês 1-5: [1, 2, 3, 4, 5]
+  Espanhol 1-5: [1, 2, 3, 4, 5]
 
 ============================================================
 PROCESSING Q1 (ingles)
@@ -607,6 +591,30 @@ PROCESSING Q3 (ingles)
 >>> build_question_new called for Q3
 
 ============================================================
+PROCESSING Q4 (ingles)
+============================================================
+
+>>> build_question_new called for Q4
+
+============================================================
+PROCESSING Q5 (ingles)
+============================================================
+
+>>> build_question_new called for Q5
+
+============================================================
+PROCESSING Q1 (espanhol)
+============================================================
+
+>>> build_question_new called for Q1
+
+============================================================
+PROCESSING Q2 (espanhol)
+============================================================
+
+>>> build_question_new called for Q2
+
+============================================================
 PROCESSING Q3 (espanhol)
 ============================================================
 
@@ -623,6 +631,12 @@ PROCESSING Q5 (espanhol)
 ============================================================
 
 >>> build_question_new called for Q5
+
+============================================================
+PROCESSING Q6
+============================================================
+
+>>> build_question_new called for Q6
 
 ============================================================
 PROCESSING Q7
@@ -1127,6 +1141,12 @@ PROCESSING Q90
 ============================================================
 
 >>> build_question_new called for Q90
+
+============================================================
+PROCESSING Q91
+============================================================
+
+>>> build_question_new called for Q91
 
 ============================================================
 PROCESSING Q92

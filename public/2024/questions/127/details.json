@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "D",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Nesse contexto, como a urbanização está causando \nriscos à saúde humana?",
   "alternatives": [
     {

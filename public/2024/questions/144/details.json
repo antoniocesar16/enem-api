@@ -4,12 +4,14 @@
   "year": 2024,
   "language": null,
   "discipline": "matematica",
-  "context": "\n\nQUESTÃO 144\n\nUm sistema de polias circulares e correias é um dos \nmecanismos responsáveis pela transmissão de movimento \nem máquinas rotativas. O manual de um motor traz uma \nfigura representando um sistema composto por duas polias \ne uma correia de transmissão, tensionada e perfeitamente \najustada sobre as polias, de modo a não apresentar folgas \nnos contatos com as polias. Considere que as partes \ndessa correia que não ficam em contato com as polias são \nrepresentadas por segmentos de reta tangentes às polias.\n\nPara substituição dessa correia, é necessária a \nespecificação de seu comprimento.\n\nConsidere 3 como valor aproximado para π.\n\n![](image-1.png)",
+  "context": "\n\nQUESTÃO 144\n\nUm sistema de polias circulares e correias é um dos \nmecanismos responsáveis pela transmissão de movimento \nem máquinas rotativas. O manual de um motor traz uma \nfigura representando um sistema composto por duas polias \ne uma correia de transmissão, tensionada e perfeitamente \najustada sobre as polias, de modo a não apresentar folgas \nnos contatos com as polias. Considere que as partes \ndessa correia que não ficam em contato com as polias são \nrepresentadas por segmentos de reta tangentes às polias.\n\nPara substituição dessa correia, é necessária a \nespecificação de seu comprimento.\n\nConsidere 3 como valor aproximado para π.\n\nA medida do comprimento dessa correia, em centímetro, é\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "D",
-  "alternativesIntroduction": "Considere 3 como valor aproximado para π.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A medida do comprimento dessa correia, em centímetro, é",
   "alternatives": [
     {
       "letter": "A",

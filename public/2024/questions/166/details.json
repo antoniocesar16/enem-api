@@ -7,6 +7,8 @@
   "context": "QUESTÃO 166\n\nUm artesão utiliza dois tipos de componentes, X e \nY, nos enfeites que produz. Ele sempre compra todos os \ncomponentes em uma mesma loja. O quadro apresenta \nos preços dos dois tipos de componentes nas lojas I e II.\n\nLojas\nPreços dos componentes (R$)\n\nX\nY\n\nI\n3,00\n1,00\n\nII\n2,00\n4,00\n\nEle confeccionará enfeites formados por duas unidades \ndo componente X e uma unidade do componente Y e \nefetuará a compra na loja que oferecer o menor valor total \npara a confecção de um enfeite.\n\nO artesão efetuará a compra na loja",
   "files": [],
   "correctAlternative": "A",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O artesão efetuará a compra na loja",
   "alternatives": [
     {

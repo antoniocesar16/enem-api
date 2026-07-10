@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-natureza",
-  "context": "QUESTãO 114\n\nO Brasil é o maior produtor mundial de nióbio (massa \nmolar = 93 g mol−1), metal utilizado na fabricação de \nvários tipos de aço: automotivos, estruturais e inoxidáveis. \nO processo utilizado na produção do nióbio é a redução \naluminotérmica de Nb2O5 com excesso de 10% de Al (massa \nmolar = 27 g mol−1), em relação à quantidade estequiométrica \nda reação, representada pela equação química:\n\n3 Nb2O5 (s) + 10 Al (s) → 6 Nb (s) + 5 Al2O3 (s)\n\nUma engenheira metalúrgica estimou a massa de alumínio \nnecessária para produzir 9,3 kg de nióbio, nas condições descritas, \npara a produção de um lote de peças de aço encomendado por \numa indústria, considerando um rendimento de 100%.\n\nDisponível em: www.cbmm.com.br. Acesso em: 17 out. 2015 (adaptado).",
+  "context": "QUESTãO 114\n\nO Brasil é o maior produtor mundial de nióbio (massa \nmolar = 93 g mol−1), metal utilizado na fabricação de \nvários tipos de aço: automotivos, estruturais e inoxidáveis. \nO processo utilizado na produção do nióbio é a redução \naluminotérmica de Nb2O5 com excesso de 10% de Al (massa \nmolar = 27 g mol−1), em relação à quantidade estequiométrica \nda reação, representada pela equação química:\n\n3 Nb2O5 (s) + 10 Al (s) → 6 Nb (s) + 5 Al2O3 (s)\n\nUma engenheira metalúrgica estimou a massa de alumínio \nnecessária para produzir 9,3 kg de nióbio, nas condições descritas, \npara a produção de um lote de peças de aço encomendado por \numa indústria, considerando um rendimento de 100%.\n\nDisponível em: www.cbmm.com.br. Acesso em: 17 out. 2015 (adaptado).\n\nA massa de alumínio, em quilograma, estimada pela engenheira \né mais próxima de",
   "files": [],
   "correctAlternative": "E",
-  "alternativesIntroduction": "Disponível em: www.cbmm.com.br. Acesso em: 17 out. 2015 (adaptado).",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A massa de alumínio, em quilograma, estimada pela engenheira \né mais próxima de",
   "alternatives": [
     {
       "letter": "A",

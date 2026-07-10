@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-natureza",
-  "context": "QUESTãO 124",
+  "context": "QUESTãO 124\n\nA laje de um depósito de bebidas tem 50 m2 de área útil de \narmazenamento e foi projetada para suportar pressões de até \n104 Pa. O gerente do estabelecimento pretende armazenar um \nproduto cuja densidade é 1 250 kg/m3. Considere a aceleração \nda gravidade igual a 10 m/s2.\n\nA altura máxima, em metro, de empilhamento do produto que \nessa laje é capaz de suportar é",
   "files": [],
   "correctAlternative": "C",
-  "alternativesIntroduction": "QUESTãO 124",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A altura máxima, em metro, de empilhamento do produto que \nessa laje é capaz de suportar é",
   "alternatives": [
     {
       "letter": "A",

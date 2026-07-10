@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-humanas",
-  "context": "QUESTãO 77",
+  "context": "QUESTãO 77\n\nA Roda dos Expostos de Salvador (Bahia) data de 1726 e \nfoi uma das instituições implantadas com o objetivo de acolher \ne prover um encaminhamento para a criança recém-nascida \nabandonada. Essa assistência fundamentava-se em práticas \ncaritativas, paternalistas e imediatistas que visavam ao cuidado \nbásico da criança e, especialmente, à salvação da sua alma,  \nvia batismo, devido à alta mortalidade.\n\nBORRIONE, R.; CHAVES, A. M. Análise documental e contexto  \nde desenvolvimento. Disponível em: www.scielo.br.  \nAcesso em: 15 ago. 2013.\n\nA instituição apresentada no texto justificava-se pelo(a)",
   "files": [],
   "correctAlternative": "B",
-  "alternativesIntroduction": "QUESTãO 77",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A instituição apresentada no texto justificava-se pelo(a)",
   "alternatives": [
     {
       "letter": "A",

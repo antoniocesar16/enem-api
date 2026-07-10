@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "E",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O LCC técnico é produzido por meio de uma reação orgânica \ndo tipo",
   "alternatives": [
     {

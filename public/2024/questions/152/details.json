@@ -4,12 +4,14 @@
   "year": 2024,
   "language": null,
   "discipline": "matematica",
-  "context": "\n\nQUESTÃO 152\n\nAs receitas anuais obtidas por uma indústria no período \nde 2014 a 2021, em milhão de reais, foram registradas, por \npontos, em um gráfico. Nele, também está representada a \nreta que descreve a tendência de evolução das receitas. \nEssa reta pode ser utilizada para estimar as receitas dos \nanos seguintes.\n\n![](image-1.png)",
+  "context": "\n\nQUESTÃO 152\n\nAs receitas anuais obtidas por uma indústria no período \nde 2014 a 2021, em milhão de reais, foram registradas, por \npontos, em um gráfico. Nele, também está representada a \nreta que descreve a tendência de evolução das receitas. \nEssa reta pode ser utilizada para estimar as receitas dos \nanos seguintes.\n\nA estimativa da receita, em milhão de reais, dessa \nindústria, para o ano de 2026, obtida a partir dessa reta \nde tendência, é\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "B",
-  "alternativesIntroduction": "As receitas anuais obtidas por uma indústria no período \nde 2014 a 2021, em milhão de reais, foram registradas, por \npontos, em um gráfico. Nele, também está representada a \nreta que descreve a tendência de evolução das receitas. \nEssa reta pode ser utilizada para estimar as receitas dos \nanos seguintes.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A estimativa da receita, em milhão de reais, dessa \nindústria, para o ano de 2026, obtida a partir dessa reta \nde tendência, é",
   "alternatives": [
     {
       "letter": "A",

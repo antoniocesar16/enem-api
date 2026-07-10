@@ -4,9 +4,11 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-natureza",
-  "context": "QUESTãO 115\n\nO nível sonoro, em decibel (dB), é calculado pela expressão:\n\nn\nI\nI\n�\n�\n\n�\n�\n�\n\n�\n�\n10\n10\n0\n log\n\nUma conversa normal entre duas pessoas gera sons de \nníveis sonoros entre 50 e 60 dB, enquanto pessoas gritando \npodem gerar sons de níveis superiores a 100 dB. Supondo que, \nno centro de um estádio de futebol, foram realizadas medidas \npara avaliar o ruído médio de uma pessoa gritando a palavra \n“gol” em diferentes posições das arquibancadas. O valor médio \nobtido, considerando um grande número de medidas, foi de \n100 dB. Com esse dado, estimou-se o ruído sonoro produzido por \n10 000 pessoas, distribuídas aleatoriamente nas arquibancadas, \nenquanto gritavam, simultaneamente, a palavra “gol”.\n\nO valor médio estimado para o ruído produzido por essas \npessoas, na posição central desse estádio hipotético, foi de",
+  "context": "QUESTãO 115\n\nO nível sonoro, em decibel (dB), é calculado pela expressão:\n\n n = 10 log₁₀ (I/I₀) \n\nUma conversa normal entre duas pessoas gera sons de \nníveis sonoros entre 50 e 60 dB, enquanto pessoas gritando \npodem gerar sons de níveis superiores a 100 dB. Supondo que, \nno centro de um estádio de futebol, foram realizadas medidas \npara avaliar o ruído médio de uma pessoa gritando a palavra \n“gol” em diferentes posições das arquibancadas. O valor médio \nobtido, considerando um grande número de medidas, foi de \n100 dB. Com esse dado, estimou-se o ruído sonoro produzido por \n10 000 pessoas, distribuídas aleatoriamente nas arquibancadas, \nenquanto gritavam, simultaneamente, a palavra “gol”.\n\nO valor médio estimado para o ruído produzido por essas \npessoas, na posição central desse estádio hipotético, foi de",
   "files": [],
   "correctAlternative": "Anulado",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O valor médio estimado para o ruído produzido por essas \npessoas, na posição central desse estádio hipotético, foi de",
   "alternatives": [
     {

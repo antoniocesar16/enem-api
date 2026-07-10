@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "D",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Durante a ação do vento, a velocidade v que o piloto deve \nestabelecer em relação ao ar para que o avião chegue à posição \nesperada no tempo indicado tem as componentes",
   "alternatives": [
     {

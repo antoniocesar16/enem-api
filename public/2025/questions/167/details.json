@@ -13,6 +13,8 @@
     "image-5.png"
   ],
   "correctAlternative": "A",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O gráfico de linhas que representa a produção de soja dessa propriedade, em tonelada, nessas cinco safras é",
   "alternatives": [
     {

@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "A",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Qual é a equação da trajetória em que o herói poderá se \nmovimentar sem ser atacado?",
   "alternatives": [
     {

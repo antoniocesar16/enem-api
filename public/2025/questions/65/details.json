@@ -4,12 +4,14 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-humanas",
-  "context": "\n\nQUESTãO 65\n\nSalvador, capital do estado da Bahia.\n\nDisponível em: https://mundoeducacao.uol.com.br.  \nAcesso em: 20 out. 2023.\n\n![](image-1.png)",
+  "context": "\n\nQUESTãO 65\n\nSalvador, capital do estado da Bahia.\n\nDisponível em: https://mundoeducacao.uol.com.br.  \nAcesso em: 20 out. 2023.\n\nA análise dos elementos presentes na fotografia permite \nidentificar qual característica socioespacial?\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "E",
-  "alternativesIntroduction": "Disponível em: https://mundoeducacao.uol.com.br.  \nAcesso em: 20 out. 2023.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A análise dos elementos presentes na fotografia permite \nidentificar qual característica socioespacial?",
   "alternatives": [
     {
       "letter": "A",

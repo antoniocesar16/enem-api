@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "A",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Nesse texto, a pergunta “What is sleep?”, em uma das embalagens do produto, está relacionada ao(à)",
   "alternatives": [
     {

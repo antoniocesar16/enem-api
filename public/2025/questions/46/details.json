@@ -4,11 +4,13 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-humanas",
-  "context": "\n\nQUESTãO 46\n\nCARLEVARIS, L. La piazetta (detalhe). Óleo sobre tela, 49 × 41 cm. \nAshmolean Museum, Oxford, 1729.\n\nDisponível em: www.meinsterart.de. Acesso em: 13 dez. 2017.\n\nAntigo centro da economia mundo-europeia do século XV, \nno final do século XVII e início do século XVIII, Veneza ainda era \numa cidade cosmopolita onde orientais podiam sentir-se em casa.\n\nBRAUDEL, F. O tempo do mundo. São Paulo:  \nMartins Fontes, 1979 (adaptado).\n\nQual elemento da condição cosmopolita de Veneza na Idade \nModerna está explicitado nos textos?\n\n![](image-1.png)",
+  "context": "\n\nQUESTãO 46\n\nTEXTO I\n\nCARLEVARIS, L. La piazetta (detalhe). Óleo sobre tela, 49 × 41 cm. \nAshmolean Museum, Oxford, 1729.\n\nDisponível em: www.meinsterart.de. Acesso em: 13 dez. 2017.\n\nTEXTO II\n\nAntigo centro da economia mundo-europeia do século XV, \nno final do século XVII e início do século XVIII, Veneza ainda era \numa cidade cosmopolita onde orientais podiam sentir-se em casa.\n\nBRAUDEL, F. O tempo do mundo. São Paulo:  \nMartins Fontes, 1979 (adaptado).\n\nQual elemento da condição cosmopolita de Veneza na Idade \nModerna está explicitado nos textos?\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "C",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Qual elemento da condição cosmopolita de Veneza na Idade \nModerna está explicitado nos textos?",
   "alternatives": [
     {

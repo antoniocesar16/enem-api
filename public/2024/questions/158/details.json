@@ -4,10 +4,12 @@
   "year": 2024,
   "language": null,
   "discipline": "matematica",
-  "context": "QUESTÃO 158\n\nUma tubulação despeja sempre o mesmo volume de \nágua por unidade de tempo em uma caixa-d’água, o que \nsignifica dizer que a vazão de água nessa tubulação é \nconstante. Na junção dessa tubulação com a caixa-d’água, \nestá instalada uma membrana de filtragem cujo objetivo é \nfiltrar eventuais impurezas presentes na água, combinado \na um bom fluxo de água. O fluxo (φ) de água através \nda superfície da membrana é diretamente proporcional \nà vazão de água na tubulação, medida em mililitro por \nsegundo, e inversamente proporcional à área da superfície \nda membrana, medida em centímetro quadrado.",
+  "context": "QUESTÃO 158\n\nUma tubulação despeja sempre o mesmo volume de \nágua por unidade de tempo em uma caixa-d’água, o que \nsignifica dizer que a vazão de água nessa tubulação é \nconstante. Na junção dessa tubulação com a caixa-d’água, \nestá instalada uma membrana de filtragem cujo objetivo é \nfiltrar eventuais impurezas presentes na água, combinado \na um bom fluxo de água. O fluxo (φ) de água através \nda superfície da membrana é diretamente proporcional \nà vazão de água na tubulação, medida em mililitro por \nsegundo, e inversamente proporcional à área da superfície \nda membrana, medida em centímetro quadrado.\n\nA unidade de medida adequada para descrever o fluxo \n(φ) de água que atravessa a superfície da membrana é",
   "files": [],
   "correctAlternative": "C",
-  "alternativesIntroduction": "Uma tubulação despeja sempre o mesmo volume de \nágua por unidade de tempo em uma caixa-d’água, o que \nsignifica dizer que a vazão de água nessa tubulação é \nconstante. Na junção dessa tubulação com a caixa-d’água, \nestá instalada uma membrana de filtragem cujo objetivo é \nfiltrar eventuais impurezas presentes na água, combinado \na um bom fluxo de água. O fluxo (φ) de água através \nda superfície da membrana é diretamente proporcional \nà vazão de água na tubulação, medida em mililitro por \nsegundo, e inversamente proporcional à área da superfície \nda membrana, medida em centímetro quadrado.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A unidade de medida adequada para descrever o fluxo \n(φ) de água que atravessa a superfície da membrana é",
   "alternatives": [
     {
       "letter": "A",

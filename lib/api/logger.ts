@@ -12,21 +12,20 @@ export async function logger(request: NextRequest) {
     try {
         const vercelGeo = geolocation(request);
 
-        const { method, url, headers, geo } = request;
+        const { method, url, headers } = request;
 
         const ip =
             ipAddress(request) ||
             headers.get('x-forwarded-for') ||
-            request.headers.get('cf-connecting-ip') ||
-            request.ip;
+            request.headers.get('cf-connecting-ip');
         const userAgent = headers.get('user-agent');
         const referer = headers.get('referer');
 
-        const country = vercelGeo?.country || geo?.country;
-        const region = vercelGeo?.region || geo?.region;
-        const city = vercelGeo?.city || geo?.city;
-        const latitude = vercelGeo?.latitude || geo?.latitude;
-        const longitude = vercelGeo?.longitude || geo?.longitude;
+        const country = vercelGeo?.country;
+        const region = vercelGeo?.region;
+        const city = vercelGeo?.city;
+        const latitude = vercelGeo?.latitude;
+        const longitude = vercelGeo?.longitude;
 
         const timestamp = new Date().toISOString();
 

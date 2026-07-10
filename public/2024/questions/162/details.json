@@ -14,6 +14,8 @@
     "image-6.png"
   ],
   "correctAlternative": "C",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "A projeção ortogonal, sobre o plano da base, da trajetória \nABCDEF descrita pelo personagem é",
   "alternatives": [
     {

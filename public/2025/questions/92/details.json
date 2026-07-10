@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-natureza",
-  "context": "QUESTãO 92\n\nOs sapinhos-ponta-de-flecha constituem um grupo de \nespécies encontradas na América Central e do Sul. Seus venenos \nsão obtidos por meio do consumo de algumas formigas e cupins \nque se alimentam de plantas que contêm esses venenos. Esses \nanfíbios são usados para envenenar as flechas das zarabatanas \ndos caçadores nativos. Quando capturados e criados em \ncondições artificiais, ou quando nascidos em cativeiro, não \nsão tóxicos.\n\nBADIO, B. et al. Epibatidine: Discovery and Definition as a Potent  \nAnalgesic and Nicotinic Agonist. Med. Chem. Res.,  \nn. 4, 1994 (adaptado).",
+  "context": "QUESTãO 92\n\nOs sapinhos-ponta-de-flecha constituem um grupo de \nespécies encontradas na América Central e do Sul. Seus venenos \nsão obtidos por meio do consumo de algumas formigas e cupins \nque se alimentam de plantas que contêm esses venenos. Esses \nanfíbios são usados para envenenar as flechas das zarabatanas \ndos caçadores nativos. Quando capturados e criados em \ncondições artificiais, ou quando nascidos em cativeiro, não \nsão tóxicos.\n\nBADIO, B. et al. Epibatidine: Discovery and Definition as a Potent  \nAnalgesic and Nicotinic Agonist. Med. Chem. Res.,  \nn. 4, 1994 (adaptado).\n\nA perda da capacidade de se obter a toxina nos nascidos em \ncativeiro é causada pela",
   "files": [],
   "correctAlternative": "B",
-  "alternativesIntroduction": "BADIO, B. et al. Epibatidine: Discovery and Definition as a Potent  \nAnalgesic and Nicotinic Agonist. Med. Chem. Res.,  \nn. 4, 1994 (adaptado).",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A perda da capacidade de se obter a toxina nos nascidos em \ncativeiro é causada pela",
   "alternatives": [
     {
       "letter": "A",

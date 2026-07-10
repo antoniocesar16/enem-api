@@ -7,6 +7,8 @@
   "context": "QUESTÃO 150\n\nEm uma região com grande incidência de terremotos, observou-se que dois terremotos ocorridos apresentaram \nmagnitudes M1 e M2, medidos segundo a escala Richter, e liberaram energias iguais a E1 e E2, respectivamente. Entre \nos estudiosos do assunto, é conhecida uma expressão algébrica relacionando esses valores dada por\n\nM\nM\nE\nE\n2\n1\n2\n\n2\n3\n�\n�\n�\n\n�\n�\n�\n\n�\n�\nlog\n\nEstudos mais abrangentes observaram que o primeiro terremoto apresentou a magnitude M1 = 6,9 e a energia \nliberada foi um décimo da observada no segundo terremoto.\n\nO valor aproximado da magnitude M2 do segundo terremoto, expresso com uma casa decimal, é igual a",
   "files": [],
   "correctAlternative": "C",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O valor aproximado da magnitude M2 do segundo terremoto, expresso com uma casa decimal, é igual a",
   "alternatives": [
     {

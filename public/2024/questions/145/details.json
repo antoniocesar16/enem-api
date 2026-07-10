@@ -4,12 +4,14 @@
   "year": 2024,
   "language": null,
   "discipline": "matematica",
-  "context": "\n\nQUESTÃO 145\n\n![](image-1.png)",
+  "context": "\n\nQUESTÃO 145\n\nA prefeitura de uma cidade planeja construir três postos \nde saúde. Esses postos devem ser construídos em locais \nequidistantes entre si e de forma que as distâncias desses \ntrês postos ao hospital dessa cidade sejam iguais. Foram \nconseguidos três locais para a construção dos postos de \nsaúde que apresentam as características desejadas, e \nque distam 10 km entre si, conforme o esquema, no qual o \nponto H representa o local onde está construído o hospital; \nos pontos P1, P2 e P3, os postos de saúde; e esses quatro \npontos estão em um mesmo plano.\n\nA distância, em quilômetro, entre o hospital e cada um dos \npostos de saúde, é um valor entre\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "C",
-  "alternativesIntroduction": "QUESTÃO 145",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A distância, em quilômetro, entre o hospital e cada um dos \npostos de saúde, é um valor entre",
   "alternatives": [
     {
       "letter": "A",

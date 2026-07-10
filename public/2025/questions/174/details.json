@@ -4,13 +4,15 @@
   "year": 2025,
   "language": null,
   "discipline": "matematica",
-  "context": "\n\n\n\nQuestão 174\n\nUma caixa de descarga, acoplada a um vaso sanitário, tem \na forma de paralelepípedo reto retângulo cujas dimensões \ninternas da base são 2,5 dm e 1,5 dm. Nessa caixa há uma boia \nque interrompe o abastecimento quando a altura da coluna de \nágua atinge 2 dm, conforme a figura.\n\n![](image-1.png)\n\n![](image-2.png)",
+  "context": "\n\n\n\nQuestão 174\n\nUma caixa de descarga, acoplada a um vaso sanitário, tem \na forma de paralelepípedo reto retângulo cujas dimensões \ninternas da base são 2,5 dm e 1,5 dm. Nessa caixa há uma boia \nque interrompe o abastecimento quando a altura da coluna de \nágua atinge 2 dm, conforme a figura.\n\nA cada acionamento da descarga, todo o volume de \nágua contida na caixa é despejado no vaso. Para reduzir o \nvolume de água despejado a cada acionamento, uma pessoa \ncolocará, no interior dessa caixa, garrafas de 300 mL, cheias \nde areia e tampadas, de modo a ficarem submersas quando \no abastecimento for interrompido.\nPara garantir o funcionamento eficiente, o mínimo de água \ndespejada a cada acionamento deve ser de 5 L.\n\nA quantidade máxima de garrafas que serão colocadas nessa \ncaixa, garantindo um funcionamento eficiente, é igual a\n\n![](image-1.png)\n\n![](image-2.png)",
   "files": [
     "image-1.png",
     "image-2.png"
   ],
   "correctAlternative": "B",
-  "alternativesIntroduction": "Uma caixa de descarga, acoplada a um vaso sanitário, tem \na forma de paralelepípedo reto retângulo cujas dimensões \ninternas da base são 2,5 dm e 1,5 dm. Nessa caixa há uma boia \nque interrompe o abastecimento quando a altura da coluna de \nágua atinge 2 dm, conforme a figura.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A quantidade máxima de garrafas que serão colocadas nessa \ncaixa, garantindo um funcionamento eficiente, é igual a",
   "alternatives": [
     {
       "letter": "A",

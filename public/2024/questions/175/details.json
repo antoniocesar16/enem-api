@@ -4,12 +4,14 @@
   "year": 2024,
   "language": null,
   "discipline": "matematica",
-  "context": "\n\nQUESTÃO 175\n\nO gráfico apresenta o valor total de exportações e o \nvalor total de importações, ao longo de um período, em \nbilhão de dólares. O saldo da balança comercial brasileira \né dado pelo valor total de exportações menos o valor total \nde importações num mesmo período.\n\nValor total de exportações e importações\n\nDisponível em: http://blogs.estadao.com.br.  \nAcesso em: 20 fev. 2013 (adaptado).\n\nConsidere que os saldos da balança comercial \nbrasileira, nos três meses destacados no gráfico, sejam \nrepresentados por:\n\n• S1: saldo em junho de 2009;\n• S2: saldo em janeiro de 2010;\n• S3: saldo em junho de 2010.\n\n![](image-1.png)",
+  "context": "\n\nQUESTÃO 175\n\nO gráfico apresenta o valor total de exportações e o \nvalor total de importações, ao longo de um período, em \nbilhão de dólares. O saldo da balança comercial brasileira \né dado pelo valor total de exportações menos o valor total \nde importações num mesmo período.\n\nValor total de exportações e importações\n\nDisponível em: http://blogs.estadao.com.br.  \nAcesso em: 20 fev. 2013 (adaptado).\n\nConsidere que os saldos da balança comercial \nbrasileira, nos três meses destacados no gráfico, sejam \nrepresentados por:\n\n• S1: saldo em junho de 2009;\n• S2: saldo em janeiro de 2010;\n• S3: saldo em junho de 2010.\n\nA ordenação dos saldos S1, S2 e S3, do maior para o menor, é\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "A",
-  "alternativesIntroduction": "• S1: saldo em junho de 2009;\n• S2: saldo em janeiro de 2010;\n• S3: saldo em junho de 2010.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A ordenação dos saldos S1, S2 e S3, do maior para o menor, é",
   "alternatives": [
     {
       "letter": "A",

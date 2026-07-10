@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "E",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Para o ecossistema aquático, a ineficiência do sistema de água de refrigeração tem como consequência a",
   "alternatives": [
     {

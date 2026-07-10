@@ -4,10 +4,12 @@
   "year": 2024,
   "language": null,
   "discipline": "ciencias-natureza",
-  "context": "QUESTÃO 128\n\nImpactos do microplástico",
+  "context": "QUESTÃO 128\n\nImpactos do microplástico\n\nA ação de fatores abióticos aliada à biodeterioração \ncontribuem para a formação de microplásticos, os quais se \naderem a outros poluentes orgânicos apolares persistentes, \ncomo os derivados de pesticidas lipossolúveis. Há uma \nproporcionalidade direta entre a solubilidade desses tipos de \npoluentes e sua concentração nos tecidos dos organismos \nexpostos a eles.\n\nDisponível em: www.ecycle.com.br.  \nAcesso em: 9 dez. 2021 (adaptado).\n\nEm animais vertebrados, essa associação de poluentes \nserá preferencialmente acumulada no tecido",
   "files": [],
   "correctAlternative": "D",
-  "alternativesIntroduction": "Impactos do microplástico",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "Em animais vertebrados, essa associação de poluentes \nserá preferencialmente acumulada no tecido",
   "alternatives": [
     {
       "letter": "A",

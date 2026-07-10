@@ -7,6 +7,8 @@
   "context": "QUESTãO 179\n\nUm pai comprou oito presentes diferentes (dentre os \nquais, uma bicicleta e um celular) para dar a seus três filhos. \nEle pretende distribuir os presentes de modo que o filho \nmais velho e o mais novo recebam três presentes cada um, \ne o do meio receba os dois presentes restantes. O mais velho \nganhará, entre seus presentes, ou uma bicicleta ou um celular, \nmas não ambos.\n\nDe quantas maneiras distintas a distribuição dos presentes \npode ser feita?",
   "files": [],
   "correctAlternative": "C",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "De quantas maneiras distintas a distribuição dos presentes \npode ser feita?",
   "alternatives": [
     {

@@ -13,6 +13,8 @@
     "image-5.png"
   ],
   "correctAlternative": "C",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O gráfico que representa a situação descrita é:",
   "alternatives": [
     {

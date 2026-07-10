@@ -18,9 +18,11 @@ const rateLimiter = new RateLimiter();
 
 export async function GET(
     request: NextRequest,
-    { params }: { params: { year: string } },
+    { params }: { params: Promise<{ year: string }> },
 ) {
     try {
+        const { year } = await params;
+
         const { rateLimitHeaders } = rateLimiter.check(request);
 
         await logger(request);
@@ -38,16 +40,22 @@ export async function GET(
             });
         }
 
-        const exam = await getExamDetails(params.year);
+        const exam = await getExamDetails(year);
 
         if (!exam) {
             throw new EnemApiError({
                 code: 'not_found',
-                message: `No exam found for year ${params.year}`,
+                message: `No exam found for year ${year}`,
             });
         }
 
-        if (language && !exam.languages.find(lang => lang.value === language)) {
+        const isPortugueseExam = language === 'portugues';
+
+        if (
+            language &&
+            !isPortugueseExam &&
+            !exam.languages.find(lang => lang.value === language)
+        ) {
             throw new EnemApiError({
                 code: 'bad_request',
                 message: `Language ${language} not found in exam`,
@@ -58,11 +66,13 @@ export async function GET(
             language = exam.languages[0].value;
         }
 
-        const questionsToFetch = exam.questions
-            .filter(
-                question =>
-                    question.language === language || !question.language,
-            )
+        const filteredQuestions = exam.questions.filter(question =>
+            isPortugueseExam
+                ? !question.language
+                : question.language === language || !question.language,
+        );
+
+        const questionsToFetch = filteredQuestions
             .filter(question => question.index >= Number(offset))
             .filter(
                 question => question.index <= Number(offset) + Number(limit),
@@ -72,9 +82,9 @@ export async function GET(
 
         for (const question of questionsToFetch) {
             const questionDetails = await getQuestionDetails({
-                year: params.year,
+                year: year,
                 index: question.index,
-                language,
+                language: isPortugueseExam ? undefined : language,
             });
 
             if (!questionDetails) {
@@ -92,9 +102,10 @@ export async function GET(
                 metadata: {
                     limit: Number(limit),
                     offset: Number(offset),
-                    total: exam.questions.length,
+                    total: filteredQuestions.length,
                     hasMore:
-                        Number(offset) + Number(limit) < exam.questions.length,
+                        Number(offset) + Number(limit) <
+                        filteredQuestions.length,
                 },
                 questions,
             }),

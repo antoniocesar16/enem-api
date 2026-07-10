@@ -67,6 +67,36 @@
       "language": "espanhol"
     },
     {
+      "title": "Questão 4 - ENEM 2024",
+      "index": 4,
+      "discipline": "linguagens",
+      "language": "ingles"
+    },
+    {
+      "title": "Questão 4 - ENEM 2024",
+      "index": 4,
+      "discipline": "linguagens",
+      "language": "espanhol"
+    },
+    {
+      "title": "Questão 5 - ENEM 2024",
+      "index": 5,
+      "discipline": "linguagens",
+      "language": "ingles"
+    },
+    {
+      "title": "Questão 5 - ENEM 2024",
+      "index": 5,
+      "discipline": "linguagens",
+      "language": "espanhol"
+    },
+    {
+      "title": "Questão 6 - ENEM 2024",
+      "index": 6,
+      "discipline": "linguagens",
+      "language": null
+    },
+    {
       "title": "Questão 7 - ENEM 2024",
       "index": 7,
       "discipline": "linguagens",
@@ -568,6 +598,12 @@
       "title": "Questão 90 - ENEM 2024",
       "index": 90,
       "discipline": "ciencias-humanas",
+      "language": null
+    },
+    {
+      "title": "Questão 91 - ENEM 2024",
+      "index": 91,
+      "discipline": "ciencias-natureza",
       "language": null
     },
     {

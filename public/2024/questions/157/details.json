@@ -4,10 +4,12 @@
   "year": 2024,
   "language": null,
   "discipline": "matematica",
-  "context": "QUESTÃO 157\n\nUma piscina tem capacidade de 2 500 000 litros. \nSeu sistema de abastecimento foi regulado para ter \numa vazão constante de 6 000 litros de água por minuto.\nO mesmo sistema foi instalado em uma segunda \npiscina, com capacidade de 2 750 000 litros, e regulado \npara ter uma vazão, também constante, capaz de enchê-la \nem um tempo 20% maior que o gasto para encher  \na primeira piscina.",
+  "context": "QUESTÃO 157\n\nUma piscina tem capacidade de 2 500 000 litros. \nSeu sistema de abastecimento foi regulado para ter \numa vazão constante de 6 000 litros de água por minuto.\nO mesmo sistema foi instalado em uma segunda \npiscina, com capacidade de 2 750 000 litros, e regulado \npara ter uma vazão, também constante, capaz de enchê-la \nem um tempo 20% maior que o gasto para encher  \na primeira piscina.\n\nA vazão do sistema de abastecimento da segunda piscina, \nem litro por minuto, é",
   "files": [],
   "correctAlternative": "D",
-  "alternativesIntroduction": "Uma piscina tem capacidade de 2 500 000 litros. \nSeu sistema de abastecimento foi regulado para ter \numa vazão constante de 6 000 litros de água por minuto.\nO mesmo sistema foi instalado em uma segunda \npiscina, com capacidade de 2 750 000 litros, e regulado \npara ter uma vazão, também constante, capaz de enchê-la \nem um tempo 20% maior que o gasto para encher  \na primeira piscina.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A vazão do sistema de abastecimento da segunda piscina, \nem litro por minuto, é",
   "alternatives": [
     {
       "letter": "A",

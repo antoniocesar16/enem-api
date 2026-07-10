@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-humanas",
-  "context": "QUESTãO 81",
+  "context": "QUESTãO 81\n\nA cidade justa é governada pelos filósofos, administrada \npelos cientistas, protegida pelos guerreiros e mantida pelos \nprodutores. Cada classe cumprirá sua função para o bem da \npólis, racionalmente dirigida pelos filósofos. Em contrapartida, \na cidade injusta é aquela onde o governo está nas mãos dos \nproprietários — que não pensam no bem comum da pólis  \ne lutarão por interesses econômicos particulares.\n\nCHAUÍ, M. Convite à filosofia. São Paulo: Ática, 2000.\n\nO texto apresenta a estrutura de governo da cidade ideal pensada \npor Platão, que postula uma indissociabilidade entre",
   "files": [],
   "correctAlternative": "E",
-  "alternativesIntroduction": "QUESTãO 81",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "O texto apresenta a estrutura de governo da cidade ideal pensada \npor Platão, que postula uma indissociabilidade entre",
   "alternatives": [
     {
       "letter": "A",

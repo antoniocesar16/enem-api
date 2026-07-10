@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "B",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O número de possibilidades diferentes que esse \nfuncionário tem para cadastrar sua senha é",
   "alternatives": [
     {

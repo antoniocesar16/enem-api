@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-humanas",
-  "context": "QUESTãO 60",
+  "context": "QUESTãO 60\n\nA “invenção” dessa nova anatomia política não deve \nser entendida como uma descoberta súbita. Mas como uma \nmultiplicidade de processos muitas vezes mínimos, de origens \ndiferentes, de localizações esparsas, que se recordam, que se \nrepetem, ou se imitam, apoiam-se uns sobre os outros e esboçam \naos poucos a fachada de um método geral. Encontramo-los \nem funcionamento nos colégios, muito cedo; mais tarde, nas \nescolas primárias, no espaço hospitalar e na organização militar.\n\nFOUCAULT, M. Vigiar e punir. Petrópolis: Vozes, 2011.\n\nO texto indica o seguinte aspecto da disciplina como ferramenta \npolítica:",
   "files": [],
   "correctAlternative": "D",
-  "alternativesIntroduction": "QUESTãO 60",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "O texto indica o seguinte aspecto da disciplina como ferramenta \npolítica:",
   "alternatives": [
     {
       "letter": "A",

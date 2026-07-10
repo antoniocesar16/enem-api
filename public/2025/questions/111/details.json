@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "B",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Dar destino sustentável às sobras, conforme apresentado na \netapa 4, ajuda a evitar a",
   "alternatives": [
     {

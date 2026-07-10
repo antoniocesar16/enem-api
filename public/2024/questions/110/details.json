@@ -4,12 +4,14 @@
   "year": 2024,
   "language": null,
   "discipline": "ciencias-natureza",
-  "context": "\n\nQUESTÃO 110\n\nUma caixa decorativa utiliza duas pequenas lâmpadas, \nL1 (6 V – 9 W) e L2 (12 V – 18 W), ligadas em série a \numa bateria de tensão VQR. Um fio resistivo QR, de \n48 centímetros, está ligado em paralelo à bateria. Cinco \npontos, A, B, C, D e E, dividem o fio QR em seis segmentos \nde comprimentos iguais. O circuito também tem um \namperímetro com dois terminais. Um dos terminais (P) está \nligado ao fio entre as duas lâmpadas. O outro terminal (S) \nestá livre e será ligado ao fio QR. Dependendo do ponto em \nque esse terminal livre for conectado, ocorrerá a mudança \nna tensão à qual as lâmpadas são submetidas. Os demais \nfios do circuito têm resistências elétricas desprezíveis.\n\n![](image-1.png)",
+  "context": "\n\nQUESTÃO 110\n\nUma caixa decorativa utiliza duas pequenas lâmpadas, \nL1 (6 V – 9 W) e L2 (12 V – 18 W), ligadas em série a \numa bateria de tensão VQR. Um fio resistivo QR, de \n48 centímetros, está ligado em paralelo à bateria. Cinco \npontos, A, B, C, D e E, dividem o fio QR em seis segmentos \nde comprimentos iguais. O circuito também tem um \namperímetro com dois terminais. Um dos terminais (P) está \nligado ao fio entre as duas lâmpadas. O outro terminal (S) \nestá livre e será ligado ao fio QR. Dependendo do ponto em \nque esse terminal livre for conectado, ocorrerá a mudança \nna tensão à qual as lâmpadas são submetidas. Os demais \nfios do circuito têm resistências elétricas desprezíveis. \nA figura ilustra esse circuito.\n\nEm qual desses pontos o amperímetro deve ser conectado \npara que as lâmpadas acendam exatamente segundo as \nespecificações de tensão e potência elétricas fornecidas?\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "B",
-  "alternativesIntroduction": "Uma caixa decorativa utiliza duas pequenas lâmpadas, \nL1 (6 V – 9 W) e L2 (12 V – 18 W), ligadas em série a \numa bateria de tensão VQR. Um fio resistivo QR, de \n48 centímetros, está ligado em paralelo à bateria. Cinco \npontos, A, B, C, D e E, dividem o fio QR em seis segmentos \nde comprimentos iguais. O circuito também tem um \namperímetro com dois terminais. Um dos terminais (P) está \nligado ao fio entre as duas lâmpadas. O outro terminal (S) \nestá livre e será ligado ao fio QR. Dependendo do ponto em \nque esse terminal livre for conectado, ocorrerá a mudança \nna tensão à qual as lâmpadas são submetidas. Os demais \nfios do circuito têm resistências elétricas desprezíveis.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "Em qual desses pontos o amperímetro deve ser conectado \npara que as lâmpadas acendam exatamente segundo as \nespecificações de tensão e potência elétricas fornecidas?",
   "alternatives": [
     {
       "letter": "A",

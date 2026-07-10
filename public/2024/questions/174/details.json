@@ -4,10 +4,12 @@
   "year": 2024,
   "language": null,
   "discipline": "matematica",
-  "context": "QUESTÃO 174\n\nO arquiteto Renzo Piano exibiu a maquete da nova \nsede do Museu Whitney de Arte Americana, um prédio \nassimétrico que tem um vão aberto para a galeria principal, \ncuja medida da área é 1 672 m2.\nConsidere que a escala da maquete exibida é 1 : 200.\n\nÉpoca, n. 682, jun. 2011 (adaptado).",
+  "context": "QUESTÃO 174\n\nO arquiteto Renzo Piano exibiu a maquete da nova \nsede do Museu Whitney de Arte Americana, um prédio \nassimétrico que tem um vão aberto para a galeria principal, \ncuja medida da área é 1 672 m2.\nConsidere que a escala da maquete exibida é 1 : 200.\n\nÉpoca, n. 682, jun. 2011 (adaptado).\n\nA medida da área do vão aberto nessa maquete, em \ncentímetro quadrado, é",
   "files": [],
   "correctAlternative": "E",
-  "alternativesIntroduction": "Época, n. 682, jun. 2011 (adaptado).",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A medida da área do vão aberto nessa maquete, em \ncentímetro quadrado, é",
   "alternatives": [
     {
       "letter": "A",

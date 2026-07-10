@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "D",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Nesse cartaz, a expressão “Vou deixar que você se vá”, \nem conjunto com os elementos não verbais utilizados, \ntem a finalidade de",
   "alternatives": [
     {

@@ -7,6 +7,8 @@
   "context": "QUESTÃO 177\n\nUm fazendeiro pretende construir um galinheiro \nocupando uma região plana de formato retangular, com \nlados de comprimentos L metro e C metro. Os lados serão \ncercados por telas de tipos diferentes. Nos lados de \ncomprimento L metro, será utilizada uma tela cujo metro \nlinear custa R$ 20,00, enquanto, nos outros dois lados, \numa que custa R$ 15,00. O fazendeiro quer gastar, no \nmáximo, R$ 6 000,00 na compra de toda a tela necessária \npara o galinheiro, e deseja que o galinheiro tenha a maior \nárea possível.\n\nQual será a medida, em metro, do maior lado do galinheiro?",
   "files": [],
   "correctAlternative": "B",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Qual será a medida, em metro, do maior lado do galinheiro?",
   "alternatives": [
     {

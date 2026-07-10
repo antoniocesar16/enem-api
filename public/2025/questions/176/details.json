@@ -7,6 +7,8 @@
   "context": "Questão 176\n\nUm empresário utiliza máquinas cuja pressão interna P, \nem atmosfera, depende do tempo contínuo de utilização t, em \nhora, e de um parâmetro positivo K, que define o modelo da \nmáquina, segundo a expressão:\n\nP = 4 ⋅ log[−K ⋅ (t + 1) ⋅ (t − 19)]\n\nO fabricante dessas máquinas recomenda ao usuário \nque a pressão interna desse tipo de máquina não ultrapasse \n10 atmosferas durante seu funcionamento.\nO empresário pretende comprar novas máquinas desse \ntipo que deverão funcionar, diariamente, por um período \ncontínuo de 10 horas. Para isso, precisa definir o modelo de \nmáquina a ser adquirida escolhendo o maior valor possível \ndo parâmetro K, atendendo à recomendação do fabricante.\n\nO maior valor a ser escolhido para K é",
   "files": [],
   "correctAlternative": "A",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O maior valor a ser escolhido para K é",
   "alternatives": [
     {

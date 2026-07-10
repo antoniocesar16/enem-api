@@ -10,6 +10,8 @@
     "image-2.png"
   ],
   "correctAlternative": "B",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O valor máximo assumido pela grandeza III, quando a \ngrandeza I varia de 1 a 3, é",
   "alternatives": [
     {

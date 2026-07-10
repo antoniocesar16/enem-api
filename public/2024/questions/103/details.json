@@ -4,12 +4,14 @@
   "year": 2024,
   "language": null,
   "discipline": "ciencias-natureza",
-  "context": "\n\nQUESTÃO 103\n\nO diagrama P-V a seguir representa o ciclo de Otto \npara um motor de combustão interna, como os motores a \ngasolina ou a etanol, utilizados nos automóveis.\n\nAs etapas representadas no diagrama estão descritas \nno quadro.\n\nEtapa Processo\nDescrição\n\nI\n0 a 1\nAdmissão isobárica da mistura\nar-combustível no cilindro do motor.\n\nII\n1 a 2\nCompressão adiabática da mistura.\n\nIII\n2 a 3\nIntrodução de energia na forma\nde calor da combustão.\n\nIV\n3 a 4\nExpansão adiabática.\n\nV\n4 a 1\nLiberação de energia\nna forma de calor.\n\nVI\n1 a 0\nLiberação dos gases\nresultantes da combustão.\n\nDisponível em: www.mspc.eng.br. \nAcesso em: 24 fev. 2013 (adaptado).\n\n![](image-1.png)",
+  "context": "\n\nQUESTÃO 103\n\nO diagrama P-V a seguir representa o ciclo de Otto \npara um motor de combustão interna, como os motores a \ngasolina ou a etanol, utilizados nos automóveis.\n\nAs etapas representadas no diagrama estão descritas \nno quadro.\n\nEtapa Processo\nDescrição\n\nI\n0 a 1\nAdmissão isobárica da mistura\nar-combustível no cilindro do motor.\n\nII\n1 a 2\nCompressão adiabática da mistura.\n\nIII\n2 a 3\nIntrodução de energia na forma\nde calor da combustão.\n\nIV\n3 a 4\nExpansão adiabática.\n\nV\n4 a 1\nLiberação de energia\nna forma de calor.\n\nVI\n1 a 0\nLiberação dos gases\nresultantes da combustão.\n\nDisponível em: www.mspc.eng.br. \nAcesso em: 24 fev. 2013 (adaptado).\n\nA transformação da energia térmica em energia útil ocorre \nna etapa\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "C",
-  "alternativesIntroduction": "Disponível em: www.mspc.eng.br. \nAcesso em: 24 fev. 2013 (adaptado).",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A transformação da energia térmica em energia útil ocorre \nna etapa",
   "alternatives": [
     {
       "letter": "A",

@@ -10,6 +10,8 @@
     "image-2.png"
   ],
   "correctAlternative": "E",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Em qual etapa numerada ocorre uma transformação redox \ncomo a que ocorre nos procariontes nitrificantes?",
   "alternatives": [
     {

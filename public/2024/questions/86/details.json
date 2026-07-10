@@ -4,10 +4,12 @@
   "year": 2024,
   "language": null,
   "discipline": "ciencias-humanas",
-  "context": "QUESTÃO 86\n\nUma única árvore joga entre 300 e 1 000 litros de água \npor dia para a atmosfera. Considerando a demanda mínima \nque uma pessoa consome de água, ou seja, 120 litros por \ndia, uma única árvore pode ser capaz de produzir água \npara até oito pessoas.\n\nMAGNO, C. Estudiosos explicam o motivo de chover tanto \n em Belém. Disponível em: www.diarioonline.com.br. \nAcesso em: 6 nov. 2021.",
+  "context": "QUESTÃO 86\n\nTEXTO I\n\nUma única árvore joga entre 300 e 1 000 litros de água \npor dia para a atmosfera. Considerando a demanda mínima \nque uma pessoa consome de água, ou seja, 120 litros por \ndia, uma única árvore pode ser capaz de produzir água \npara até oito pessoas.\n\nMAGNO, C. Estudiosos explicam o motivo de chover tanto \n em Belém. Disponível em: www.diarioonline.com.br. \nAcesso em: 6 nov. 2021.\n\nTEXTO II\n\nA Amazônia perdeu diariamente uma área de floresta \nmaior do que 4 mil campos de futebol apenas em setembro \nde 2021. Em todo o mês, foram devastados 1 224 km², \no que corresponde ao tamanho da cidade do Rio de Janeiro \ne é a pior marca para setembro em 10 anos. Os dados  \nsão do Sistema de Alerta de Desmatamento (SAD) do \nInstituto do Homem e Meio Ambiente da Amazônia (Imazon), \nque monitora a floresta por meio de imagens de satélites.\n\nFREITAS, A. Desmatamento na Amazônia em setembro foi o maior \npara o período em 10 anos. Disponível em: www.cnnbrasil.com.br. \nAcesso em: 6 nov. 2021.\n\nPara a região amazônica, a relação entre as informações \ndos textos indica uma redução do(a)",
   "files": [],
   "correctAlternative": "E",
-  "alternativesIntroduction": "MAGNO, C. Estudiosos explicam o motivo de chover tanto \n em Belém. Disponível em: www.diarioonline.com.br. \nAcesso em: 6 nov. 2021.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "Para a região amazônica, a relação entre as informações \ndos textos indica uma redução do(a)",
   "alternatives": [
     {
       "letter": "A",

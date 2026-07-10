@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "C",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Em qual ponto deve ser fixada a peça de chumbo para corrigir \na posição do centro de massa desse conjunto roda/pneu?",
   "alternatives": [
     {

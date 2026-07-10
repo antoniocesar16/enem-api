@@ -4,38 +4,42 @@
   "year": 2024,
   "language": null,
   "discipline": "ciencias-natureza",
-  "context": "QUESTãO 91\n\nAs mariposas\n\nAs mariposa, quando chega o frio\nFica dando volta em volta da lâmpida pra se esquentá. [sic]\n\nBARBOSA, A. Reviva: Adoniran Barbosa.  \nSão Paulo: Som Livre, 2002 (fragmento).\n\nAs mariposas se aproximam das lâmpadas atraídas pela luz, \npois, sendo basicamente criaturas noturnas, estão adaptadas \na seguir o brilho da lua, em um processo conhecido como \norientação transversal. Assim, o que o sambista Adoniran \nBarbosa, no Texto I, descreve não é a causa, mas sim uma das \nconsequências possíveis dessa aproximação. De fato, o calor \ngerado pelas lâmpadas, sobretudo as incandescentes, pode \naquecer as mariposas.\n\nHERTZBERG, R. Por que as mariposas são tão atraídas por luzes fortes? \nNational Geographic, nov. 2020 (adaptado).\n\nNesse contexto, o processo de transferência de calor para as \nmariposas que independe da presença de fluidos é a",
-  "files": [],
+  "context": "\n\nQUESTÃO 91\n\nO esquema representa um experimento feito com \ncélulas do protozoário Amoeba proteus. Nele, um grupo \nde células foi tratado com a droga citocalasina B, enquanto \noutro grupo não foi tratado, servindo como controle. \nO formato e o movimento das células tratadas foram \ncomprometidos.\n\nSADAVA, D. et al. Vida: a ciência da biologia — volume I: célula e \nhereditariedade. Porto Alegre: Artmed, 2009 (adaptado).\n\nQual componente celular foi afetado pela droga utilizada \nno experimento?\n\n![](image-1.png)",
+  "files": [
+    "image-1.png"
+  ],
   "correctAlternative": "C",
-  "alternativesIntroduction": "Nesse contexto, o processo de transferência de calor para as \nmariposas que independe da presença de fluidos é a",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "Qual componente celular foi afetado pela droga utilizada \nno experimento?",
   "alternatives": [
     {
       "letter": "A",
-      "text": "reflexão.",
+      "text": "Vacúolos.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "B",
-      "text": "refração.",
+      "text": "Mitocôndrias.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "C",
-      "text": "irradiação.",
+      "text": "Microfilamentos.",
       "file": null,
       "isCorrect": true
     },
     {
       "letter": "D",
-      "text": "dispersão.",
+      "text": "Material genético.",
       "file": null,
       "isCorrect": false
     },
     {
       "letter": "E",
-      "text": "convecção.",
+      "text": "Membrana plasmática.",
       "file": null,
       "isCorrect": false
     }

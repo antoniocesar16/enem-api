@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "matematica",
-  "context": "QUESTãO 145",
+  "context": "QUESTãO 145\n\nA reportagem de uma revista abordou o uso de redes sociais pelos internautas brasileiros. Alguns dos dados apurados pela \nreportagem estão apresentados no infográfico.\n\nPerfil dos brasileiros nas redes sociais\n\nDisponível em: http://revistagalileu.globo.com. Acesso em: 22 out. 2015 (adaptado).\n\nSegundo os dados do infográfico, ao se escolher aleatoriamente um internauta brasileiro no período ao qual se refere a reportagem, \na probabilidade de ele ser um homem que acessa alguma rede social é",
   "files": [],
   "correctAlternative": "B",
-  "alternativesIntroduction": "QUESTãO 145",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "Segundo os dados do infográfico, ao se escolher aleatoriamente um internauta brasileiro no período ao qual se refere a reportagem, \na probabilidade de ele ser um homem que acessa alguma rede social é",
   "alternatives": [
     {
       "letter": "A",

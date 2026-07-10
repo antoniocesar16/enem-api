@@ -4,10 +4,12 @@
   "year": 2024,
   "language": null,
   "discipline": "linguagens",
-  "context": "QUESTÃO 33\n\nInfluenciadores negros têm recorrentemente chamado \na atenção para o fato de terem muito menos repercussão \nem suas postagens e nas entregas do seu conteúdo \nquando comparados com os influenciadores brancos, \nmesmo se fotos, contextos e anúncios forem extremamente \nsemelhantes. Segundo o site Negrê, a digital influencer \ne youtuber criadora do projeto digital Preta Pariu iniciou \num experimento em uma plataforma. Após perceber a \ncrescente queda nos índices de alcance digital, a paulista \npublicou fotografias de modelos brancas em seu perfil e \nanalisou as métricas de engajamento. Surpreendentemente, \na ferramenta de estatísticas aferiu um aumento de 6 000% \nem seu alcance.\nDisponível em: https://diplomatique.org.br.  \nAcesso em: 21 jan. 2024 (adaptado).",
+  "context": "QUESTÃO 33\n\nInfluenciadores negros têm recorrentemente chamado \na atenção para o fato de terem muito menos repercussão \nem suas postagens e nas entregas do seu conteúdo \nquando comparados com os influenciadores brancos, \nmesmo se fotos, contextos e anúncios forem extremamente \nsemelhantes. Segundo o site Negrê, a digital influencer \ne youtuber criadora do projeto digital Preta Pariu iniciou \num experimento em uma plataforma. Após perceber a \ncrescente queda nos índices de alcance digital, a paulista \npublicou fotografias de modelos brancas em seu perfil e \nanalisou as métricas de engajamento. Surpreendentemente, \na ferramenta de estatísticas aferiu um aumento de 6 000% \nem seu alcance.\nDisponível em: https://diplomatique.org.br.  \nAcesso em: 21 jan. 2024 (adaptado).\n\nA apresentação do dado estatístico ao final desse texto \nrevela a intenção de",
   "files": [],
   "correctAlternative": "E",
-  "alternativesIntroduction": "Influenciadores negros têm recorrentemente chamado \na atenção para o fato de terem muito menos repercussão \nem suas postagens e nas entregas do seu conteúdo \nquando comparados com os influenciadores brancos, \nmesmo se fotos, contextos e anúncios forem extremamente \nsemelhantes. Segundo o site Negrê, a digital influencer \ne youtuber criadora do projeto digital Preta Pariu iniciou \num experimento em uma plataforma. Após perceber a \ncrescente queda nos índices de alcance digital, a paulista \npublicou fotografias de modelos brancas em seu perfil e \nanalisou as métricas de engajamento. Surpreendentemente, \na ferramenta de estatísticas aferiu um aumento de 6 000% \nem seu alcance.\nDisponível em: https://diplomatique.org.br.  \nAcesso em: 21 jan. 2024 (adaptado).",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A apresentação do dado estatístico ao final desse texto \nrevela a intenção de",
   "alternatives": [
     {
       "letter": "A",

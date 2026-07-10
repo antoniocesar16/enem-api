@@ -4,12 +4,14 @@
   "year": 2024,
   "language": null,
   "discipline": "matematica",
-  "context": "\n\nQUESTÃO 163\n\nO tamanho mínimo que a visão humana é capaz de \nvisualizar sem o uso de equipamento auxiliar é equivalente \na 100 micrômetros (1 micrômetro = 10−3 milímetros).  \nUma estudante pretende visualizar e analisar hemácias \ndo sangue humano, que medem 0,007 mm de diâmetro. \nEla adquiriu um microscópio óptico que tem uma lente \nocular que amplia em 10 vezes a imagem do objeto em \nobservação, e um conjunto de lentes objetivas com estas \ncapacidades de ampliação:\n\n• lente I: 2 vezes;\n• lente II: 10 vezes;\n• lente III: 15 vezes;\n• lente IV: 1,1 vez;\n• lente V: 1,4 vez.\n\nO funcionamento desse microscópio permite o uso da \nlente ocular sozinha ou a combinação dela com uma  \nde suas lentes objetivas, proporcionando, nesse caso, \num aumento de sua capacidade de ampliação final, que é \ndada pelo produto entre as capacidades de ampliação da \nocular e da objetiva.\nEssa estudante pretende selecionar a lente objetiva de \nmenor capacidade de ampliação que permita, na combinação \ncom a ocular, visualizar hemácias do sangue humano.\n\n![](image-1.png)",
+  "context": "\n\nQUESTÃO 163\n\nO tamanho mínimo que a visão humana é capaz de \nvisualizar sem o uso de equipamento auxiliar é equivalente \na 100 micrômetros (1 micrômetro = 10−3 milímetros).  \nUma estudante pretende visualizar e analisar hemácias \ndo sangue humano, que medem 0,007 mm de diâmetro. \nEla adquiriu um microscópio óptico que tem uma lente \nocular que amplia em 10 vezes a imagem do objeto em \nobservação, e um conjunto de lentes objetivas com estas \ncapacidades de ampliação:\n\n• lente I: 2 vezes;\n• lente II: 10 vezes;\n• lente III: 15 vezes;\n• lente IV: 1,1 vez;\n• lente V: 1,4 vez.\n\nO funcionamento desse microscópio permite o uso da \nlente ocular sozinha ou a combinação dela com uma  \nde suas lentes objetivas, proporcionando, nesse caso, \num aumento de sua capacidade de ampliação final, que é \ndada pelo produto entre as capacidades de ampliação da \nocular e da objetiva.\nEssa estudante pretende selecionar a lente objetiva de \nmenor capacidade de ampliação que permita, na combinação \ncom a ocular, visualizar hemácias do sangue humano.\n\nA lente objetiva a ser selecionada pela estudante é a\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "A",
-  "alternativesIntroduction": "O funcionamento desse microscópio permite o uso da \nlente ocular sozinha ou a combinação dela com uma  \nde suas lentes objetivas, proporcionando, nesse caso, \num aumento de sua capacidade de ampliação final, que é \ndada pelo produto entre as capacidades de ampliação da \nocular e da objetiva.\nEssa estudante pretende selecionar a lente objetiva de \nmenor capacidade de ampliação que permita, na combinação \ncom a ocular, visualizar hemácias do sangue humano.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A lente objetiva a ser selecionada pela estudante é a",
   "alternatives": [
     {
       "letter": "A",

@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "E",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O proprietário do imóvel deverá adquirir o sensor do tipo",
   "alternatives": [
     {

@@ -14,6 +14,8 @@
     "image-6.png"
   ],
   "correctAlternative": "E",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "A figura que apresenta as projeções ortogonais desse cubo sobre os três planos coordenados, após efetuar as movimentações \ndescritas, é",
   "alternatives": [
     {

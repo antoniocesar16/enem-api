@@ -16,23 +16,25 @@ const getExamsYears = async () => {
 
 export async function GET(
     request: NextRequest,
-    { params }: { params: { year: string } },
+    { params }: { params: Promise<{ year: string }> },
 ) {
     try {
+        const { year } = await params;
+
         const { rateLimitHeaders } = rateLimiter.check(request);
 
         await logger(request);
 
         const examYears = await getExamsYears();
 
-        if (!examYears.includes(Number(params.year))) {
+        if (!examYears.includes(Number(year))) {
             throw new EnemApiError({
                 code: 'not_found',
-                message: `No exam found for year ${params.year}`,
+                message: `No exam found for year ${year}`,
             });
         }
 
-        const exam = await getExamDetails(params.year);
+        const exam = await getExamDetails(year);
 
         return NextResponse.json(exam, { headers: rateLimitHeaders });
     } catch (error) {

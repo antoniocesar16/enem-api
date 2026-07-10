@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "E",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Ao produzir eletricidade em dias chuvosos, o grafeno",
   "alternatives": [
     {

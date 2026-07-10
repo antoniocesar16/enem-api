@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "B",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Qual é a quantidade de estudantes no ensino médio dessa escola?",
   "alternatives": [
     {

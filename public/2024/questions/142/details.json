@@ -4,12 +4,14 @@
   "year": 2024,
   "language": null,
   "discipline": "matematica",
-  "context": "\n\nQUESTÃO 142\n\nAtualmente, há telefones celulares com telas de \ndiversos tamanhos e em formatos retangulares. Alguns\n\ndeles apresentam telas medindo 3 1\n2\n\npolegadas, com\n\ndeterminadas especificações técnicas. Além disso, em \nmuitos modelos, com a inclusão de novas funções no \ncelular, suas telas ficaram maiores, sendo muito comum\n\nencontrarmos atualmente telas medindo 4 5\n6  polegadas, \nconforme a figura.\n\nDisponível em: www.tecmundo.com.br.  \nAcesso em: 5 nov. 2014 (adaptado).\n\n![](image-1.png)",
+  "context": "\n\nQUESTÃO 142\n\nAtualmente, há telefones celulares com telas de \ndiversos tamanhos e em formatos retangulares. Alguns\n\ndeles apresentam telas medindo 3 1\n2\n\npolegadas, com\n\ndeterminadas especificações técnicas. Além disso, em \nmuitos modelos, com a inclusão de novas funções no \ncelular, suas telas ficaram maiores, sendo muito comum\n\nencontrarmos atualmente telas medindo 4 5\n6  polegadas, \nconforme a figura.\n\nDisponível em: www.tecmundo.com.br.  \nAcesso em: 5 nov. 2014 (adaptado).\n\nA diferença de tamanho, em valor absoluto, entre as \nmedidas, em polegada, das telas do celular 2 e do celular 1, \nrepresentada apenas com uma casa decimal, é\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "D",
-  "alternativesIntroduction": "Disponível em: www.tecmundo.com.br.  \nAcesso em: 5 nov. 2014 (adaptado).",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A diferença de tamanho, em valor absoluto, entre as \nmedidas, em polegada, das telas do celular 2 e do celular 1, \nrepresentada apenas com uma casa decimal, é",
   "alternatives": [
     {
       "letter": "A",

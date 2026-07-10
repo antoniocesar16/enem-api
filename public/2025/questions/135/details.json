@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "D",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Considerando a ordem das tentativas, quantas atividades a \nestudante conseguiu realizar sem queimar o fusível?",
   "alternatives": [
     {

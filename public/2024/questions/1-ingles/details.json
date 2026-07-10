@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "A",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O texto estabelece uma relação entre elementos da \nnatureza e comandos de um programa de computador para",
   "alternatives": [
     {

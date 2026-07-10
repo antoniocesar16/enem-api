@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "D",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Qual câmera registra o momento em que os ônibus A e B se encontram?",
   "alternatives": [
     {

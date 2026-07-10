@@ -4,10 +4,12 @@
   "year": 2024,
   "language": null,
   "discipline": "ciencias-humanas",
-  "context": "QUESTÃO 85",
+  "context": "QUESTÃO 85\n\nA internet fortalece o engajamento e a visibilidade de \npopulações tradicionais e indígenas por meio de redes \nsociais, rádios e veículos de mídia digital. Ela também \npromove a criação e o fortalecimento de mercados e \na inovação nos sistemas de financiamento, integrando \npequenos agricultores e produtores da comunidade florestal \na cadeias de abastecimento maiores.\n\nGROTTERA, C.; CASTRO, L. M.; BRITO, M. C. Como a tecnologia \npode ser uma aliada na conservação ambiental.  \nNexo Jornal, 14 ago. 2021.\n\nA adoção da tecnologia mencionada amplia a rentabilidade \ndas comunidades citadas, ao possibilitar o(a):",
   "files": [],
   "correctAlternative": "A",
-  "alternativesIntroduction": "QUESTÃO 85",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A adoção da tecnologia mencionada amplia a rentabilidade \ndas comunidades citadas, ao possibilitar o(a):",
   "alternatives": [
     {
       "letter": "A",

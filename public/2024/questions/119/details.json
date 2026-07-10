@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "B",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Considerando o carro, seus ocupantes e o muro da figura \ncomo um sistema isolado, o crumple zone aumenta a \nsegurança dos passageiros porque, durante uma colisão, \na deformação da estrutura do carro",
   "alternatives": [
     {

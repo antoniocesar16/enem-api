@@ -4,13 +4,15 @@
   "year": 2024,
   "language": null,
   "discipline": "ciencias-humanas",
-  "context": "\n\n\n\nQUESTÃO 48\n\nDisponível em: https://earth.google.com. Acesso em: 13 out. 2023.\n\nDisponível em: https://earth.google.com. Acesso em: 13 out. 2023.\n\n![](image-1.png)\n\n![](image-2.png)",
+  "context": "\n\n\n\nQUESTÃO 48\n\nTEXTO I\n\nDisponível em: https://earth.google.com. Acesso em: 13 out. 2023.\n\nTEXTO II\n\nDisponível em: https://earth.google.com. Acesso em: 13 out. 2023.\n\nA comparação entre as imagens de satélite indica a \nocorrência de um processo de\n\n![](image-1.png)\n\n![](image-2.png)",
   "files": [
     "image-1.png",
     "image-2.png"
   ],
   "correctAlternative": "D",
-  "alternativesIntroduction": "Disponível em: https://earth.google.com. Acesso em: 13 out. 2023.",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A comparação entre as imagens de satélite indica a \nocorrência de um processo de",
   "alternatives": [
     {
       "letter": "A",

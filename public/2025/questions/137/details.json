@@ -7,6 +7,8 @@
   "context": "QUESTãO 137\n\nEm um laboratório, um recipiente contém 10 litros de \numa solução composta apenas pelas substâncias S1 e S2. \nDessa solução, 99,95% é de S1. Uma quantidade de S1 será \nretirada dessa solução, mantendo a quantidade inicial de S2, \nde modo que 99,90% da nova solução seja de S1.\n\nQual é a quantidade de S1, em litro, que será retirada?",
   "files": [],
   "correctAlternative": "E",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Qual é a quantidade de S1, em litro, que será retirada?",
   "alternatives": [
     {

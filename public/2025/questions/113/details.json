@@ -13,6 +13,8 @@
     "image-5.png"
   ],
   "correctAlternative": "E",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "A configuração adequada do circuito e o valor do resistor de \nproteção, em relação ao valor da resistência do equipamento, são:",
   "alternatives": [
     {

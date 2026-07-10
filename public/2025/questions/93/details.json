@@ -4,12 +4,14 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-natureza",
-  "context": "\n\nQUESTãO 93\n\n![](image-1.png)",
+  "context": "\n\nQUESTãO 93\n\nA produção de vacinas exige uma sequência de procedimentos, \nalém do cumprimento estrito de verificações de segurança. \nNo esquema, estão demonstradas as etapas básicas realizadas \npara a fabricação de uma vacina utilizando a tecnologia tradicional \ne o efeito dela no organismo.\n\nO antígeno utilizado na vacina causa um efeito protetor contra \no vírus porque\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "D",
-  "alternativesIntroduction": "QUESTãO 93",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "O antígeno utilizado na vacina causa um efeito protetor contra \no vírus porque",
   "alternatives": [
     {
       "letter": "A",

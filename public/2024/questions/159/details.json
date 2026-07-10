@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "C",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O valor mínimo, em real, a ser gasto pelo agricultor é",
   "alternatives": [
     {

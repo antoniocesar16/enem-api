@@ -7,6 +7,8 @@
   "context": "QUESTÃO 136\n\nUma empresa produz mochilas escolares sob \nencomenda. Essa empresa tem um custo total de produção, \ncomposto por um custo fixo, que não depende do número \nde mochilas, mais um custo variável, que é proporcional \nao número de mochilas produzidas. O custo total cresce \nde forma linear, e a tabela apresenta esse custo para três \nquantidades de mochilas produzidas.\n\nQuantidade de \nmochilas\n30\n50\n100\n\nCusto total (R$)\n1 050,00\n1 650,00\n3 150,00\n\nO custo total, em real, para a produção de 80 mochilas será",
   "files": [],
   "correctAlternative": "C",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O custo total, em real, para a produção de 80 mochilas será",
   "alternatives": [
     {

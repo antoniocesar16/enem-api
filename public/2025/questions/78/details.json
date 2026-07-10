@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "ciencias-humanas",
-  "context": "QUESTãO 78",
+  "context": "QUESTãO 78\n\nA missão dos governantes consiste em promover a felicidade \nda sociedade, punindo e recompensando. A parte da missão de \ngoverno que consiste em punir constitui mais particularmente \no objeto da lei penal. A obrigatoriedade ou necessidade de \npunir uma ação é proporcional à medida que tal ação tende  \na perturbar a felicidade e à medida que a tendência do referido \nato é perniciosa. A felicidade consiste naquilo que já vimos,  \nou seja, em desfrutar prazeres e em estar isento de dores.\n\nBENTHAM, J. Uma introdução aos princípios da moral e da legislação. \nSão Paulo: Abril Cultural, 1974 (adaptado).\n\nQual perspectiva de justiça emerge da relação, estabelecida  \nno texto, entre punição e felicidade?",
   "files": [],
   "correctAlternative": "A",
-  "alternativesIntroduction": "QUESTãO 78",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "Qual perspectiva de justiça emerge da relação, estabelecida  \nno texto, entre punição e felicidade?",
   "alternatives": [
     {
       "letter": "A",

@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "B",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Esse texto, que apresenta um prato da culinária brasileira, \nevidencia",
   "alternatives": [
     {

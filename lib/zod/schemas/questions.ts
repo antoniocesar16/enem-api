@@ -33,6 +33,23 @@ export const QuestionSchema = z
         title: 'Questão',
     });
 
+const TestletSchema = z.object({
+    id: z.string().describe('O identificador do testlet'),
+    start: z
+        .number()
+        .int()
+        .positive()
+        .describe('A primeira questão do testlet'),
+    end: z.number().int().positive().describe('A última questão do testlet'),
+    context: z
+        .string()
+        .nullable()
+        .describe('O texto-base compartilhado do testlet'),
+    files: z
+        .array(z.string())
+        .describe('Os arquivos compartilhados do testlet'),
+});
+
 export const QuestionDetailSchema = QuestionSchema.extend({
     year: z
         .number()
@@ -57,9 +74,16 @@ export const QuestionDetailSchema = QuestionSchema.extend({
             ],
         }),
     correctAlternative: z
-        .enum(['A', 'B', 'C', 'D', 'E'])
+        .union([z.enum(['A', 'B', 'C', 'D', 'E']), z.literal('Anulado')])
         .describe('A alternativa correta da questão')
         .openapi({ example: 'A' }),
+    testlets: z
+        .boolean()
+        .default(false)
+        .describe('Se a questão pertence a um testlet'),
+    testlet: TestletSchema.nullable()
+        .default(null)
+        .describe('Os dados do texto-base compartilhado da questão'),
     alternativesIntroduction: z
         .string()
         .nullable()

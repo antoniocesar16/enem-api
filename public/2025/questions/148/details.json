@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "C",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O gênero de livro do qual o gerente deverá encomendar mais \nexemplares é",
   "alternatives": [
     {

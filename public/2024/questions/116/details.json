@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "E",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Ao longo do processo evolutivo, percebem-se, entre \nesses animais, perdas e ganhos nos padrões citados que \nenvolvem o(a)",
   "alternatives": [
     {

@@ -4,12 +4,14 @@
   "year": 2024,
   "language": null,
   "discipline": "ciencias-humanas",
-  "context": "\n\nQUESTÃO 64\n\nDiferenças entre inundação gradual e brusca\n\nTOMINAGA, L. K.; SANTORO, J.; AMARAL, R. Desastres naturais: \nconhecer para prevenir. São Paulo: Instituto Geológico, 2009 (adaptado).\n\n![](image-1.png)",
+  "context": "\n\nQUESTÃO 64\n\nDiferenças entre inundação gradual e brusca\n\nTOMINAGA, L. K.; SANTORO, J.; AMARAL, R. Desastres naturais: \nconhecer para prevenir. São Paulo: Instituto Geológico, 2009 (adaptado).\n\nA desproporção de velocidade e tempo de duração nos \ntipos de inundação destacados é condicionada pela\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "C",
-  "alternativesIntroduction": "TOMINAGA, L. K.; SANTORO, J.; AMARAL, R. Desastres naturais: \nconhecer para prevenir. São Paulo: Instituto Geológico, 2009 (adaptado).",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A desproporção de velocidade e tempo de duração nos \ntipos de inundação destacados é condicionada pela",
   "alternatives": [
     {
       "letter": "A",

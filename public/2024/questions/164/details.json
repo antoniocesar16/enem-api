@@ -7,6 +7,8 @@
   "context": "QUESTÃO 164\n\nAo calcular a média de suas notas em 4 provas, um \nestudante dividiu, por engano, a soma das notas por 5. \nCom isso, a média obtida foi 1 unidade menor do que \ndeveria ser, caso fosse calculada corretamente.\n\nO valor correto da média das notas desse estudante é",
   "files": [],
   "correctAlternative": "B",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O valor correto da média das notas desse estudante é",
   "alternatives": [
     {

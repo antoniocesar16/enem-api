@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "D",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Dentre essas duas embalagens, a de maior capacidade \napresentará volume, em centímetro cúbico, igual a",
   "alternatives": [
     {

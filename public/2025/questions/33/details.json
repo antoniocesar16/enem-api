@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "linguagens",
-  "context": "QUESTãO 33\n\nPequenino morto\n\nTange o sino, tange, numa voz de choro,\nNuma voz de choro... tão desconsolado...\nNo caixão dourado, como em berço de ouro,\nPequenino, levam-te dormindo... Acorda!\nOlha que te levam para o mesmo lado\nDe onde o sino tange numa voz de choro...\nPequenino, acorda!\n\nQue caminho triste, e que viagem! Alas\nDe ciprestes negros a gemer no vento;\nTanta boca aberta de famintas valas",
+  "context": "QUESTãO 33\n\nPequenino morto\n\nTange o sino, tange, numa voz de choro,\nNuma voz de choro... tão desconsolado...\nNo caixão dourado, como em berço de ouro,\nPequenino, levam-te dormindo... Acorda!\nOlha que te levam para o mesmo lado\nDe onde o sino tange numa voz de choro...\nPequenino, acorda!\n\nQue caminho triste, e que viagem! Alas\nDe ciprestes negros a gemer no vento;\nTanta boca aberta de famintas valas\nA pedir que as fartem, a esperar que as encham...\nPequenino, acorda! Recupera o alento,\nFoge da cobiça dessas fundas valas\nA pedir que as encham.\n\nCARVALHO, V. Poemas e canções. Rio de Janeiro:  \nSaraiva, 1962 (fragmento).\n\nNesse fragmento do poema, o sentimento de luto adquire \ncontornos expressivos e é intensificado pela",
   "files": [],
   "correctAlternative": "B",
-  "alternativesIntroduction": "Que caminho triste, e que viagem! Alas\nDe ciprestes negros a gemer no vento;\nTanta boca aberta de famintas valas",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "Nesse fragmento do poema, o sentimento de luto adquire \ncontornos expressivos e é intensificado pela",
   "alternatives": [
     {
       "letter": "A",

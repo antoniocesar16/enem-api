@@ -14,6 +14,8 @@
     "image-6.png"
   ],
   "correctAlternative": "E",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "Ao repetir o experimento colocando um cilindro metálico \noco entre as placas, o esquema que representa o formato \ndas linhas de campo assumido pelo farelo é:",
   "alternatives": [
     {

@@ -4,12 +4,14 @@
   "year": 2024,
   "language": null,
   "discipline": "linguagens",
-  "context": "\n\nQUESTÃO 20\n\n![](image-1.png)",
+  "context": "\n\nQUESTÃO 20\n\nTEXTO I\n\nA linguagem visual dos adornos transmite informações \nsobre prestígio e transgressão, direito e dever, pois só é \npermitido ao indivíduo o uso de adornos de sua linhagem. \nQuando diretamente vinculadas aos conceitos cosmológicos, \nas artes indígenas convertem-se antes em prismas que \nrefletem as concepções acerca da composição do universo \ne dos componentes que o povoam.\n\nAGUILAR, N. (Org.); DIAS, J. A. B. F.; VELTHEN, L. H. V. Mostra do \nredescobrimento: artes indígenas. São Paulo: Fundação Bienal de \nSão Paulo-Associação Brasil 500 anos, 2000 (adaptado).\n\nTEXTO II\n\nDiadema (etnia Kayapó). Estados do Mato Grosso e Pará.  \nMuseu de Arte Indígena, s.d.\n\nDisponível em: www.maimuseu.com.br. Acesso em: 11 jul. 2024.\n\nPela leitura desses textos, infere-se que a compreensão \nda arte plumária indígena requer a consideração da\n\n![](image-1.png)",
   "files": [
     "image-1.png"
   ],
   "correctAlternative": "E",
-  "alternativesIntroduction": "QUESTÃO 20",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "Pela leitura desses textos, infere-se que a compreensão \nda arte plumária indígena requer a consideração da",
   "alternatives": [
     {
       "letter": "A",

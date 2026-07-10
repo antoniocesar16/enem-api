@@ -4,10 +4,12 @@
   "year": 2025,
   "language": null,
   "discipline": "matematica",
-  "context": "QUESTãO 170",
+  "context": "QUESTãO 170\n\nA luminância de um objeto é a grandeza que descreve a \nquantidade de luz produzida ou refletida por sua superfície. \nEla está definida como a razão entre a intensidade luminosa, \nmedida em candela (cd), e o quadrado da distância do objeto \naté o foco de luz, medida em metro (m).\n\nA unidade de medida da luminância de um objeto é",
   "files": [],
   "correctAlternative": "A",
-  "alternativesIntroduction": "QUESTãO 170",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A unidade de medida da luminância de um objeto é",
   "alternatives": [
     {
       "letter": "A",

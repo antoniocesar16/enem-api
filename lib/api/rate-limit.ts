@@ -1,4 +1,5 @@
 import { NextRequest } from 'next/server';
+import { ipAddress } from '@vercel/functions';
 import { EnemApiError } from './errors';
 
 class RateLimiter {
@@ -14,7 +15,10 @@ class RateLimiter {
 
     check(request: NextRequest) {
         const ip =
-            request.ip ?? request.headers.get('X-Forwarded-For') ?? 'unknown';
+            ipAddress(request) ||
+            request.headers.get('x-forwarded-for') ||
+            request.headers.get('cf-connecting-ip') ||
+            'unknown';
         const now = Date.now();
 
         let queue = this.idToWindows.get(ip);

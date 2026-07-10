@@ -4,14 +4,16 @@
   "year": 2024,
   "language": null,
   "discipline": "matematica",
-  "context": "QUESTÃO 149",
+  "context": "QUESTÃO 149\n\nA criptografia refere-se à construção e análise de protocolos que impedem terceiros de lerem mensagens privadas. \nJúlio César, imperador romano, utilizava um código para proteger as mensagens enviadas a seus generais. Assim, \nse a mensagem caísse em mãos inimigas, a informação não poderia ser compreendida. Nesse código, cada letra do \nalfabeto era substituída pela letra três posições à frente, ou seja, o “A” era substituído pelo “D”, o “B” pelo “E”, o “C” \npelo “F”, e assim sucessivamente.\n\nA B C D E F G H\nI\nJ\nK L M N O P Q R S T U V W X Y Z A B C Letra do texto codifi cado\n\nA B C D E F G H\nI\nJ\nK L M N O P Q R S T U V W X Y Z Letra do texto original\n\nDisponível em: www.codifica.ibict.br. Acesso em: 15 out. 2019.\n\nQualquer código que tenha um padrão de substituição de letras como o descrito é considerado uma Cifra de César \nou um Código de César. Note que, para decifrar uma Cifra de César, basta descobrir por qual letra o “A” foi substituído, \npois isso define todas as demais substituições a serem feitas.\nUma mensagem, em um alfabeto de 26 letras, foi codificada usando uma Cifra de César. Considere a probabilidade \nde se descobrir, aleatoriamente, o padrão utilizado nessa codificação, e que uma tentativa frustrada deverá ser eliminada \nnas tentativas seguintes.\n\nA probabilidade de se descobrir o padrão dessa Cifra de César apenas na terceira tentativa é dada por",
   "files": [],
   "correctAlternative": "E",
-  "alternativesIntroduction": "QUESTÃO 149",
+  "testlets": false,
+  "testlet": null,
+  "alternativesIntroduction": "A probabilidade de se descobrir o padrão dessa Cifra de César apenas na terceira tentativa é dada por",
   "alternatives": [
     {
       "letter": "A",
-      "text": "probabilidade de se descobrir o padrão dessa Cifra de César apenas na terceira tentativa é dada por A 1 25 1 25 1 25 + +",
+      "text": "",
       "file": null,
       "isCorrect": false
     },

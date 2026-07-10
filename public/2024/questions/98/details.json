@@ -9,6 +9,8 @@
     "image-1.png"
   ],
   "correctAlternative": "C",
+  "testlets": false,
+  "testlet": null,
   "alternativesIntroduction": "O aparecimento do brilho nessas condições ocorre como \nconsequência de",
   "alternatives": [
     {
